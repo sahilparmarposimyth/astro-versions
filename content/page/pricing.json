@@ -1,0 +1,110 @@
+{
+    "id": 230,
+    "type": "page",
+    "slug": "pricing",
+    "status": "publish",
+    "title": "Pricing",
+    "excerpt": "",
+    "menu_order": 0,
+    "parent": 0,
+    "featured_media": 0,
+    "date": "2026-11-19 09:28:20",
+    "terms": [],
+    "meta": {
+        "_block_css": {
+            "version": 1795085028,
+            "blocks": [],
+            "updated_at": "1795081645"
+        },
+        "_uichemy_seo": {
+            "v": 4,
+            "kind": "instance",
+            "built_at": 1795080685,
+            "source_sig": "04b05d9426435c21fd1390288f6df416",
+            "derived": {
+                "headings": [],
+                "images": [],
+                "links": [],
+                "pseudo_headings": [],
+                "faq_candidates": [],
+                "breadcrumbs": [],
+                "entities": [],
+                "section_ld": [],
+                "signals": {
+                    "has_main": false,
+                    "navs": [],
+                    "iframes_no_title": [],
+                    "time_no_datetime": [],
+                    "tables_no_header": [],
+                    "product_markup": false,
+                    "price_found": false
+                },
+                "word_count": 7,
+                "structure": {
+                    "heading_depth": 0,
+                    "link_density": 0,
+                    "avg_paragraph_words": 7,
+                    "structured_ratio": 0,
+                    "emphasis_ratio": 0
+                },
+                "title": null,
+                "description": null,
+                "share_image": null,
+                "content_type": null,
+                "head": {
+                    "title": null,
+                    "description": null,
+                    "canonical": null,
+                    "robots": null,
+                    "og": [],
+                    "twitter": [],
+                    "verify": [],
+                    "image_id": 0,
+                    "ai_exclude": false,
+                    "ldjson": [],
+                    "ld_errors": 0
+                },
+                "source": "classic"
+            },
+            "findings": [
+                {
+                    "check_id": 8,
+                    "check": "thin_content",
+                    "severity": "warning",
+                    "message": "This page has only 7 words. Pages with very little text rarely show up well in search.",
+                    "fix_target": "code",
+                    "post_id": 230,
+                    "node_path": null,
+                    "section": null,
+                    "ignored": false
+                },
+                {
+                    "check_id": 22,
+                    "check": "no_internal_links",
+                    "severity": "notice",
+                    "message": "This page does not link to any other page on your site. A few links help visitors and search engines.",
+                    "fix_target": "code",
+                    "post_id": 230,
+                    "node_path": null,
+                    "section": null,
+                    "ignored": false
+                },
+                {
+                    "check_id": 47,
+                    "check": "meta_automatic",
+                    "severity": "notice",
+                    "message": "The title and description are filled in automatically from the page. Write your own in \"Title and description\" so the result in Google reads better and gets more clicks.",
+                    "fix_target": "panel",
+                    "post_id": 230,
+                    "node_path": null,
+                    "section": null,
+                    "ignored": false
+                }
+            ],
+            "ignored_checks": [],
+            "site_findings": [],
+            "site_checked": 0
+        }
+    },
+    "content": "<p>Plans start at $2,500 per project.</p>"
+}

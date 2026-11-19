@@ -1,0 +1,294 @@
+{
+    "id": 10,
+    "type": "elementor_library",
+    "slug": "default-kit",
+    "status": "publish",
+    "title": "Default Kit",
+    "excerpt": "",
+    "menu_order": 0,
+    "parent": 0,
+    "featured_media": 0,
+    "date": "2026-11-19 09:20:02",
+    "terms": [],
+    "meta": {
+        "_elementor_edit_mode": "builder",
+        "_elementor_global_classes_labels": {
+            "g-uwalp4du": "elementor-atomic-boxed-width"
+        },
+        "_elementor_global_classes_labels_preview": {
+            "g-uwalp4du": "elementor-atomic-boxed-width"
+        },
+        "_elementor_global_classes_order": {
+            "order": [
+                "g-uwalp4du"
+            ]
+        },
+        "_elementor_global_classes_order_preview": {
+            "order": [
+                "g-uwalp4du"
+            ]
+        },
+        "_elementor_global_classes_post_ids": {
+            "g-uwalp4du": 11
+        },
+        "_elementor_global_classes_sync_to_v3": [],
+        "_elementor_page_settings": {
+            "site_name": "Versions Test",
+            "custom_colors": [
+                {
+                    "_id": "5142043",
+                    "title": "Primary",
+                    "color": "#F35422"
+                },
+                {
+                    "_id": "0209df2",
+                    "title": "Primary Tint",
+                    "color": "#D53A0B"
+                },
+                {
+                    "_id": "794a705",
+                    "title": "Secondary",
+                    "color": "#F2EFE9"
+                },
+                {
+                    "_id": "ca01036",
+                    "title": "Secondary Tint",
+                    "color": "#E8E3D8"
+                },
+                {
+                    "_id": "a09c54a",
+                    "title": "Accent",
+                    "color": "#0F0D0A"
+                },
+                {
+                    "_id": "5a93409",
+                    "title": "Accent Tint",
+                    "color": "#625B50"
+                },
+                {
+                    "_id": "f34ff61",
+                    "title": "Title Light",
+                    "color": "#1F1F1F"
+                },
+                {
+                    "_id": "225c20a",
+                    "title": "Description Light",
+                    "color": "#454545"
+                },
+                {
+                    "_id": "72e09b4",
+                    "title": "Title Dark",
+                    "color": "#EBEBEB"
+                },
+                {
+                    "_id": "5e736e1",
+                    "title": "Description Dark",
+                    "color": "#9E9E9E"
+                },
+                {
+                    "_id": "a951970",
+                    "title": "Text Alt",
+                    "color": "#EBEBEB"
+                },
+                {
+                    "_id": "a9edd2b",
+                    "title": "Background Light 1",
+                    "color": "#F2EFE9"
+                },
+                {
+                    "_id": "8dbfab1",
+                    "title": "Background Light 2",
+                    "color": "#E8E3D8"
+                },
+                {
+                    "_id": "9f11cb7",
+                    "title": "Background Dark 1",
+                    "color": "#302A1C"
+                },
+                {
+                    "_id": "a472196",
+                    "title": "Background Dark 2",
+                    "color": "#403826"
+                },
+                {
+                    "_id": "4180bcf",
+                    "title": "Background Alt",
+                    "color": "#F35422"
+                },
+                {
+                    "_id": "3f431fb",
+                    "title": "Neutral Light",
+                    "color": "#0000001F"
+                },
+                {
+                    "_id": "3f431fc",
+                    "title": "Neutral Dark",
+                    "color": "#FFFFFF1F"
+                },
+                {
+                    "_id": "9cb68fc",
+                    "title": "Spark",
+                    "color": "#FFFFFF33"
+                },
+                {
+                    "_id": "9622a06",
+                    "title": "Glow",
+                    "color": "#00000033"
+                },
+                {
+                    "_id": "c11645b",
+                    "title": "bgDark3shade",
+                    "color": "#333333"
+                },
+                {
+                    "_id": "53ce74d",
+                    "title": "bgLight1shade",
+                    "color": "#E8E3D8"
+                },
+                {
+                    "_id": "284f757",
+                    "title": "bgLight2shade",
+                    "color": "#DFD8C8"
+                }
+            ],
+            "custom_typography": [
+                {
+                    "_id": "ucheading",
+                    "title": "UiChemy Heading",
+                    "typography_typography": "custom",
+                    "typography_font_weight": "500",
+                    "typography_text_transform": "none",
+                    "typography_letter_spacing": {
+                        "unit": "em",
+                        "size": -0.02,
+                        "sizes": []
+                    },
+                    "typography_line_height": {
+                        "unit": "em",
+                        "size": 1.1,
+                        "sizes": []
+                    }
+                },
+                {
+                    "_id": "ucbody",
+                    "title": "UiChemy Body",
+                    "typography_typography": "custom",
+                    "typography_font_weight": "400",
+                    "typography_text_transform": "none",
+                    "typography_letter_spacing": {
+                        "unit": "em",
+                        "size": 0,
+                        "sizes": []
+                    },
+                    "typography_line_height": {
+                        "unit": "em",
+                        "size": 1.6,
+                        "sizes": []
+                    }
+                }
+            ],
+            "tp_global_dimensions_list": [
+                {
+                    "_id": "ucsectionpadding",
+                    "name": "UiChemy-section-padding",
+                    "tdm_values": {
+                        "top": "112",
+                        "right": "64",
+                        "bottom": "112",
+                        "left": "64",
+                        "unit": "px",
+                        "isLinked": false,
+                        "tp_global_preset": ""
+                    },
+                    "tdm_values_tablet": {
+                        "top": "80",
+                        "right": "12",
+                        "bottom": "80",
+                        "left": "12",
+                        "unit": "px",
+                        "isLinked": false,
+                        "tp_global_preset": ""
+                    },
+                    "tdm_values_mobile": {
+                        "top": "52",
+                        "right": "12",
+                        "bottom": "52",
+                        "left": "12",
+                        "unit": "px",
+                        "isLinked": false,
+                        "tp_global_preset": ""
+                    }
+                }
+            ],
+            "container_width": {
+                "size": 1240,
+                "unit": "px"
+            },
+            "system_colors": [
+                {
+                    "_id": "primary",
+                    "title": "Primary",
+                    "color": "#6EC1E4"
+                },
+                {
+                    "_id": "secondary",
+                    "title": "Secondary",
+                    "color": "#54595F"
+                },
+                {
+                    "_id": "text",
+                    "title": "Text",
+                    "color": "#7A7A7A"
+                },
+                {
+                    "_id": "accent",
+                    "title": "Accent",
+                    "color": "#61CE70"
+                }
+            ],
+            "system_typography": [
+                {
+                    "_id": "primary",
+                    "title": "Primary",
+                    "typography_typography": "custom",
+                    "typography_font_family": "Roboto",
+                    "typography_font_weight": "600"
+                },
+                {
+                    "_id": "secondary",
+                    "title": "Secondary",
+                    "typography_typography": "custom",
+                    "typography_font_family": "Roboto Slab",
+                    "typography_font_weight": "400"
+                },
+                {
+                    "_id": "text",
+                    "title": "Text",
+                    "typography_typography": "custom",
+                    "typography_font_family": "Roboto",
+                    "typography_font_weight": "400"
+                },
+                {
+                    "_id": "accent",
+                    "title": "Accent",
+                    "typography_typography": "custom",
+                    "typography_font_family": "Roboto",
+                    "typography_font_weight": "500"
+                }
+            ],
+            "container_width_tablet": {
+                "unit": "%",
+                "size": 85,
+                "sizes": []
+            },
+            "container_width_mobile": {
+                "unit": "%",
+                "size": 90,
+                "sizes": []
+            }
+        },
+        "_elementor_template_type": "kit",
+        "_wp_page_template": "default"
+    },
+    "content": ""
+}

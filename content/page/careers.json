@@ -1,0 +1,885 @@
+{
+    "id": 161,
+    "type": "page",
+    "slug": "careers",
+    "status": "publish",
+    "title": "Careers",
+    "excerpt": "",
+    "menu_order": 0,
+    "parent": 0,
+    "featured_media": 0,
+    "date": "2026-11-19 09:21:04",
+    "terms": [],
+    "meta": {
+        "_block_css": {
+            "version": 1795083870,
+            "blocks": []
+        },
+        "_elementor_data": {
+            "__json": [
+                {
+                    "id": "t5zljjt",
+                    "elType": "container",
+                    "isInner": false,
+                    "isLocked": false,
+                    "settings": {
+                        "content_width": "full",
+                        "padding": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": true
+                        },
+                        "margin": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": true
+                        },
+                        "flex_gap": {
+                            "unit": "px",
+                            "size": 0,
+                            "sizes": [],
+                            "column": "0",
+                            "row": "0",
+                            "isLinked": true
+                        },
+                        "MSFrame": [
+                            {
+                                "msitem_name": "Effect 1",
+                                "_id": "l6daqmw",
+                                "videoSelectorMs": ".tp-video-element",
+                                "svgSelectorMs": ".tp-svg-path"
+                            }
+                        ],
+                        "as_bs_lists": [],
+                        "as_bs_lists_h": [],
+                        "as_ts_lists": [],
+                        "as_ts_lists_h": [],
+                        "as_ds_lists": [],
+                        "as_ds_lists_h": [],
+                        "tp_display_rules": [
+                            {
+                                "_id": "9f73enk"
+                            }
+                        ],
+                        "eventRepeater": [
+                            {
+                                "_id": "jnogwyl"
+                            }
+                        ]
+                    },
+                    "defaultEditSettings": {
+                        "defaultEditRoute": "content"
+                    },
+                    "interactions": [],
+                    "elements": [
+                        {
+                            "id": "3jtjnr0",
+                            "elType": "widget",
+                            "isInner": false,
+                            "isLocked": false,
+                            "settings": {
+                                "raw_html": "<div data-uichemy-root=\"\"><link rel=\"preload\" as=\"image\" href=\"https://inventorganization.s3-tastewp.com/wp-content/uploads/2026/11/acd1c90f245fd8c2.webp\"><link rel=\"preload\" as=\"image\" href=\"https://inventorganization.s3-tastewp.com/wp-content/uploads/2026/11/2cda7456caa8a16a.webp\"><link rel=\"preload\" as=\"image\" href=\"https://inventorganization.s3-tastewp.com/wp-content/uploads/2026/11/842989999d0946a3.webp\"><link rel=\"preload\" as=\"image\" href=\"https://inventorganization.s3-tastewp.com/wp-content/uploads/2026/11/92962803bdcc0477.webp\"><link rel=\"preload\" as=\"image\" href=\"https://inventorganization.s3-tastewp.com/wp-content/uploads/2026/11/3cedd03961e096c1.webp\"><link rel=\"preload\" as=\"image\" href=\"https://inventorganization.s3-tastewp.com/wp-content/uploads/2026/11/6f956672db7ed4da.webp\"><link rel=\"preload\" as=\"image\" href=\"https://inventorganization.s3-tastewp.com/wp-content/uploads/2026/11/510fe4d1ccef358d.webp\"><link rel=\"preload\" as=\"image\" href=\"https://inventorganization.s3-tastewp.com/wp-content/uploads/2026/11/8f1d3d3f9d2f1b79.webp\"><div class=\"bg-bgLight1 relative z-10\" style=\"background-color:var(--bglight1, #f2efe9); z-index:10; --gy21-on-bg:var(--primary, #f35422); --gy21-on:var(--color-primary-text-exported, var(--titledark, #ebebeb))\"><div data-template-id=\"fbbb7b4df60e70516433cfec\" class=\"uichemy-group-gy21-18o6a5k uichemy-container flex flex-col gap-10 uichemy-max-md-gap-8-1lsx0zw\"><div class=\"flex flex-col items-center gap-6\"><h2 class=\"uichemy-heading-2xl-semibold animate-title-animation\"><span class=\"text-titleLight\" style=\"color:var(--titlelight, #1f1f1f)\">Join Ostra</span></h2><div class=\"flex items-center gap-3\"><label class=\"inline-flex items-center justify-center uichemy-gap-6px-ffl092 uichemy-px-14px-6k2fl7 uichemy-py-6px-rnkncp border-width-full border-neutral rounded-badge-radius-full bg-bgLight2 text-titleLight cursor-pointer animate-description-animation uichemy-has-checked-bg-var-gy21-on-bg-1egebst uichemy-has-checked-border-var-gy21-on-bg-10lsm38 uichemy-body-sm-medium uichemy-has-checked-text-var-gy21-on-oo8bn1\" style=\"background-color:var(--bglight2, #e8e3d8); border-color:var(--neutral, #d6d6d6); color:var(--titlelight, #1f1f1f)\"><input type=\"radio\" class=\"gy21-r-ext peer/ext sr-only\" name=\"gy21-tab\" checked=\"\"><span>The studio</span></label><label class=\"inline-flex items-center justify-center uichemy-gap-6px-ffl092 uichemy-px-14px-6k2fl7 uichemy-py-6px-rnkncp border-width-full border-neutral rounded-badge-radius-full bg-bgLight2 text-titleLight cursor-pointer animate-description-animation uichemy-has-checked-bg-var-gy21-on-bg-1egebst uichemy-has-checked-border-var-gy21-on-bg-10lsm38 uichemy-body-sm-medium uichemy-has-checked-text-var-gy21-on-oo8bn1\" style=\"background-color:var(--bglight2, #e8e3d8); border-color:var(--neutral, #d6d6d6); color:var(--titlelight, #1f1f1f)\"><input type=\"radio\" class=\"gy21-r-int peer/int sr-only\" name=\"gy21-tab\"><span>On retreat</span></label></div></div><div class=\"hidden uichemy-group-has-gy21-r-ext-checked-gy21-grid-65p677 grid-cols-4 uichemy-auto-rows-220px-bglf0t gap-6 uichemy-max-md-grid-cols-2-1hdhvo6 uichemy-max-md-auto-rows-180px-ypc6um uichemy-max-md-gap-4-1lsx0zk\"><div class=\"col-start-1 col-end-3 row-start-1 row-end-3 uichemy-max-md-col-start-1-1ny9o1q uichemy-max-md-col-end-3-8xx5mb uichemy-max-md-row-start-auto-cai616 uichemy-max-md-row-end-auto-pn7un9 group overflow-hidden rounded-card-radius-sm image-shadow cursor-pointer\"><img src=\"https://inventorganization.s3-tastewp.com/wp-content/uploads/2026/11/acd1c90f245fd8c2.webp\" alt=\"Gallery image\" class=\"w-full h-full object-cover transition-transform uichemy-duration-600ms-19302ig ease-in-out uichemy-group-hover-scale-105-15zsvyi\" width=\"1536\" height=\"856\" fetchpriority=\"high\"></div><div class=\"col-start-3 col-end-5 row-start-1 row-end-2 uichemy-max-md-col-start-1-1ny9o1q uichemy-max-md-col-end-3-8xx5mb uichemy-max-md-row-start-auto-cai616 uichemy-max-md-row-end-auto-pn7un9 group overflow-hidden rounded-card-radius-sm image-shadow cursor-pointer\"><img src=\"https://inventorganization.s3-tastewp.com/wp-content/uploads/2026/11/2cda7456caa8a16a.webp\" alt=\"Gallery image\" class=\"w-full h-full object-cover transition-transform uichemy-duration-600ms-19302ig ease-in-out uichemy-group-hover-scale-105-15zsvyi\" width=\"1536\" height=\"853\"></div><div class=\"col-start-3 col-end-4 row-start-2 row-end-3 uichemy-max-md-col-start-1-1ny9o1q uichemy-max-md-col-end-2-8xx5ma uichemy-max-md-row-start-auto-cai616 uichemy-max-md-row-end-auto-pn7un9 group overflow-hidden rounded-card-radius-sm image-shadow cursor-pointer\"><img src=\"https://inventorganization.s3-tastewp.com/wp-content/uploads/2026/11/842989999d0946a3.webp\" alt=\"Gallery image\" class=\"w-full h-full object-cover transition-transform uichemy-duration-600ms-19302ig ease-in-out uichemy-group-hover-scale-105-15zsvyi\" width=\"1536\" height=\"858\"></div><div class=\"col-start-4 col-end-5 row-start-2 row-end-3 uichemy-max-md-col-start-2-1ny9o1p uichemy-max-md-col-end-3-8xx5mb uichemy-max-md-row-start-auto-cai616 uichemy-max-md-row-end-auto-pn7un9 group overflow-hidden rounded-card-radius-sm image-shadow cursor-pointer\"><img src=\"https://inventorganization.s3-tastewp.com/wp-content/uploads/2026/11/92962803bdcc0477.webp\" alt=\"Gallery image\" class=\"w-full h-full object-cover transition-transform uichemy-duration-600ms-19302ig ease-in-out uichemy-group-hover-scale-105-15zsvyi\" width=\"1536\" height=\"855\"></div></div><div class=\"hidden uichemy-group-has-gy21-r-int-checked-gy21-grid-1spxhyx grid-cols-4 uichemy-auto-rows-220px-bglf0t gap-6 uichemy-max-md-grid-cols-2-1hdhvo6 uichemy-max-md-auto-rows-180px-ypc6um uichemy-max-md-gap-4-1lsx0zk\"><div class=\"col-start-1 col-end-3 row-start-1 row-end-3 uichemy-max-md-col-start-1-1ny9o1q uichemy-max-md-col-end-3-8xx5mb uichemy-max-md-row-start-auto-cai616 uichemy-max-md-row-end-auto-pn7un9 group overflow-hidden rounded-card-radius-sm image-shadow cursor-pointer\"><img src=\"https://inventorganization.s3-tastewp.com/wp-content/uploads/2026/11/3cedd03961e096c1.webp\" alt=\"Gallery image\" class=\"w-full h-full object-cover transition-transform uichemy-duration-600ms-19302ig ease-in-out uichemy-group-hover-scale-105-15zsvyi\" width=\"1536\" height=\"856\"></div><div class=\"col-start-3 col-end-5 row-start-1 row-end-2 uichemy-max-md-col-start-1-1ny9o1q uichemy-max-md-col-end-3-8xx5mb uichemy-max-md-row-start-auto-cai616 uichemy-max-md-row-end-auto-pn7un9 group overflow-hidden rounded-card-radius-sm image-shadow cursor-pointer\"><img src=\"https://inventorganization.s3-tastewp.com/wp-content/uploads/2026/11/6f956672db7ed4da.webp\" alt=\"Gallery image\" class=\"w-full h-full object-cover transition-transform uichemy-duration-600ms-19302ig ease-in-out uichemy-group-hover-scale-105-15zsvyi\" width=\"1536\" height=\"853\"></div><div class=\"col-start-3 col-end-4 row-start-2 row-end-3 uichemy-max-md-col-start-1-1ny9o1q uichemy-max-md-col-end-2-8xx5ma uichemy-max-md-row-start-auto-cai616 uichemy-max-md-row-end-auto-pn7un9 group overflow-hidden rounded-card-radius-sm image-shadow cursor-pointer\"><img src=\"https://inventorganization.s3-tastewp.com/wp-content/uploads/2026/11/510fe4d1ccef358d.webp\" alt=\"Gallery image\" class=\"w-full h-full object-cover transition-transform uichemy-duration-600ms-19302ig ease-in-out uichemy-group-hover-scale-105-15zsvyi\" width=\"1536\" height=\"858\"></div><div class=\"col-start-4 col-end-5 row-start-2 row-end-3 uichemy-max-md-col-start-2-1ny9o1p uichemy-max-md-col-end-3-8xx5mb uichemy-max-md-row-start-auto-cai616 uichemy-max-md-row-end-auto-pn7un9 group overflow-hidden rounded-card-radius-sm image-shadow cursor-pointer\"><img src=\"https://inventorganization.s3-tastewp.com/wp-content/uploads/2026/11/8f1d3d3f9d2f1b79.webp\" alt=\"Gallery image\" class=\"w-full h-full object-cover transition-transform uichemy-duration-600ms-19302ig ease-in-out uichemy-group-hover-scale-105-15zsvyi\" width=\"1536\" height=\"855\"></div></div></div></div></div>",
+                                "raw_css": ":where(img[width][height]){height:auto}\n*{font-family:'Syne', ui-sans-serif, system-ui, sans-serif !important}\n[data-uichemy-root]{--font-sans:ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\";--spacing:.25rem;--ease-in-out:cubic-bezier(.4, 0, .2, 1);--default-transition-duration:.15s;--default-transition-timing-function:cubic-bezier(.4, 0, .2, 1);--default-font-family:var(--font-sans);--shadow-button-shadow-normal:0 4px 20px #0000000f;--shadow-button-shadow-hover:0 12px 40px #000c;--shadow-card-shadow-normal:0 4px 20px #0000000f;--shadow-card-shadow-hover:0 12px 40px #0000001f;--shadow-image-shadow-normal:none;--shadow-image-shadow-hover:none;--shadow-input-field-shadow-normal:0 4px 20px #0000000f;--shadow-input-field-shadow-focus:none;--animate-title-animation:fade-up .6s ease-out forwards;--animate-description-animation:fade-up .6s ease-out forwards;--foreground:oklch(14.5% 0 0);--border:oklch(92.2% 0 0);--ring:oklch(70.8% 0 0);-webkit-text-size-adjust:100%;tab-size:4;line-height:1.5;font-family:var(--default-font-family,ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\");font-feature-settings:var(--default-font-feature-settings,normal);font-variation-settings:var(--default-font-variation-settings,normal);color:var(--foreground)}\n@supports (((-webkit-hyphens:none)) and (not (margin-trim:inline))) or ((-moz-orient:inline) and (not (color:rgb(from red r g b)))){*,:before,:after,::backdrop{--tw-duration:initial;--tw-ease:initial;--tw-scale-x:1;--tw-scale-y:1}}\n*,:after,:before,::backdrop{box-sizing:border-box;border:0 solid;margin:0;padding:0}\n::file-selector-button{box-sizing:border-box;border:0 solid;margin:0;padding:0}\nh2{font-size:inherit;font-weight:inherit}\na{color:inherit;-webkit-text-decoration:inherit;-webkit-text-decoration:inherit;-webkit-text-decoration:inherit;text-decoration:inherit}\n:-moz-focusring{outline:auto}\nimg{vertical-align:middle;display:block}\nimg{max-width:100%;height:auto}\ninput{font:inherit;font-feature-settings:inherit;font-variation-settings:inherit;letter-spacing:inherit;color:inherit;opacity:1;background-color:#0000;border-radius:0}\n::file-selector-button{font:inherit;font-feature-settings:inherit;font-variation-settings:inherit;letter-spacing:inherit;color:inherit;opacity:1;background-color:#0000;border-radius:0}\n::file-selector-button{margin-inline-end:4px}\n::placeholder{opacity:1}\n@supports (not ((-webkit-appearance:-apple-pay-button))) or (contain-intrinsic-size:1px){::placeholder{color:currentColor}@supports (color:color-mix(in lab, red, red)){::placeholder{color:color-mix(in oklab, currentcolor 50%, transparent)}}}\n::-webkit-search-decoration{-webkit-appearance:none}\n::-webkit-date-and-time-value{min-height:1lh;text-align:inherit}\n::-webkit-datetime-edit{display:inline-flex}\n::-webkit-datetime-edit-fields-wrapper{padding:0}\n::-webkit-datetime-edit{padding-block:0}\n::-webkit-datetime-edit-year-field{padding-block:0}\n::-webkit-datetime-edit-month-field{padding-block:0}\n::-webkit-datetime-edit-day-field{padding-block:0}\n::-webkit-datetime-edit-hour-field{padding-block:0}\n::-webkit-datetime-edit-minute-field{padding-block:0}\n::-webkit-datetime-edit-second-field{padding-block:0}\n::-webkit-datetime-edit-millisecond-field{padding-block:0}\n::-webkit-datetime-edit-meridiem-field{padding-block:0}\n::-webkit-calendar-picker-indicator{line-height:1}\n:-moz-ui-invalid{box-shadow:none}\ninput:where([type=button],[type=reset],[type=submit]){appearance:button}\n::file-selector-button{appearance:button}\n::-webkit-inner-spin-button{height:auto}\n::-webkit-outer-spin-button{height:auto}\n[hidden]:where(:not([hidden=until-found])){display:none!important}\n*{border-color:var(--border);outline-color:var(--ring)}\n@supports (color:color-mix(in lab, red, red)){*{outline-color:color-mix(in oklab, var(--ring) 50%, transparent)}}\n.sr-only{clip-path:inset(50%);white-space:nowrap;border-width:0;width:1px;height:1px;margin:-1px;padding:0;position:absolute;overflow:hidden}\n.relative{position:relative}\n.z-10{z-index:10}\n.col-start-1{grid-column-start:1}\n.col-start-3{grid-column-start:3}\n.col-start-4{grid-column-start:4}\n.col-end-3{grid-column-end:3}\n.col-end-4{grid-column-end:4}\n.col-end-5{grid-column-end:5}\n.row-start-1{grid-row-start:1}\n.row-start-2{grid-row-start:2}\n.row-end-2{grid-row-end:2}\n.row-end-3{grid-row-end:3}\n.flex{display:flex}\n.hidden{display:none}\n.inline-flex{display:inline-flex}\n.h-full{height:100%}\n.w-full{width:100%}\n.cursor-pointer{cursor:pointer}\n.uichemy-auto-rows-220px-bglf0t{grid-auto-rows:220px}\n.grid-cols-4{grid-template-columns:repeat(4,minmax(0,1fr))}\n.flex-col{flex-direction:column}\n.items-center{align-items:center}\n.justify-center{justify-content:center}\n.gap-3{gap:calc(var(--spacing) * 3)}\n.gap-6{gap:calc(var(--spacing) * 6)}\n.gap-10{gap:calc(var(--spacing) * 10)}\n.uichemy-gap-6px-ffl092{gap:6px}\n.overflow-hidden{overflow:hidden}\n.rounded-badge-radius-full{border-radius:var(--badge-radius-full, 9999px)}\n.rounded-card-radius-sm{border-radius:var(--card-radius-sm, 20px)}\n.border-neutral{border-color:var(--neutral, #D6D6D6)}\n.bg-bgLight1{background-color:var(--bglight1, #FFFFFF)}\n.bg-bgLight2{background-color:var(--bglight2, #F9F9FB)}\n.object-cover{object-fit:cover}\n.uichemy-px-14px-6k2fl7{padding-inline:14px}\n.uichemy-py-6px-rnkncp{padding-block:6px}\n.text-titleLight{color:var(--titlelight, #0D0D0D)}\n.transition-transform{transition-property:transform,translate,scale,rotate;transition-timing-function:var(--tw-ease,var(--default-transition-timing-function));transition-duration:var(--tw-duration,var(--default-transition-duration))}\n.uichemy-duration-600ms-19302ig{--tw-duration:.6s;transition-duration:.6s}\n.ease-in-out{--tw-ease:var(--ease-in-out);transition-timing-function:var(--ease-in-out)}\n@media (hover:hover){.uichemy-group-hover-scale-105-15zsvyi:is(:where(.group):hover *){--tw-scale-x:105%;--tw-scale-y:105%;scale:var(--tw-scale-x) var(--tw-scale-y)}}\n.uichemy-group-has-gy21-r-ext-checked-gy21-grid-65p677:is(:where(.uichemy-group-gy21-18o6a5k):has(.gy21-r-ext:checked) *),.uichemy-group-has-gy21-r-int-checked-gy21-grid-1spxhyx:is(:where(.uichemy-group-gy21-18o6a5k):has(.gy21-r-int:checked) *){display:grid}\n.uichemy-has-checked-border-var-gy21-on-bg-10lsm38:has(:checked){border-color:var(--gy21-on-bg)!important}\n.uichemy-has-checked-bg-var-gy21-on-bg-1egebst:has(:checked){background-color:var(--gy21-on-bg)!important}\n.uichemy-has-checked-text-var-gy21-on-oo8bn1:has(:checked){color:var(--gy21-on)!important}\n@media not all and (min-width:48rem){.uichemy-max-md-col-start-1-1ny9o1q{grid-column-start:1}.uichemy-max-md-col-start-2-1ny9o1p{grid-column-start:2}.uichemy-max-md-col-end-2-8xx5ma{grid-column-end:2}.uichemy-max-md-col-end-3-8xx5mb{grid-column-end:3}.uichemy-max-md-row-start-auto-cai616{grid-row-start:auto}.uichemy-max-md-row-end-auto-pn7un9{grid-row-end:auto}.uichemy-max-md-auto-rows-180px-ypc6um{grid-auto-rows:180px}.uichemy-max-md-grid-cols-2-1hdhvo6{grid-template-columns:repeat(2,minmax(0,1fr))}.uichemy-max-md-gap-4-1lsx0zk{gap:calc(var(--spacing) * 4)}.uichemy-max-md-gap-8-1lsx0zw{gap:calc(var(--spacing) * 8)}}\n.border-width-full{border-width:var(--border-width-full, 1px);border-style:solid}\n.animate-title-animation{animation:var(--animate-title-animation)!important}\n.animate-description-animation{animation:var(--animate-description-animation)!important}\nimg[src^=image_url_],img[src^=logo_url_],img[src^=portrait_image_url_]{visibility:hidden;color:#0000;background-color:#0000;font-size:0}\n.image-shadow{box-shadow:var(--shadow-image-shadow-normal)}\n.image-shadow:hover{box-shadow:var(--shadow-image-shadow-hover)}\n.uichemy-container{max-width:1440px;margin:auto;padding:80px 100px}\n.uichemy-heading-2xl-semibold{font-size:calc(72px * var(--uc-heading-scale,1));font-weight:600;line-height:90px}\n.uichemy-body-sm-medium{font-size:calc(14px * var(--uc-body-scale,1));font-weight:500;line-height:20px}\n[data-uc-section-overlay=off] [data-uc-overlay]{display:none!important}\n[data-uc-section-overlay=black] [data-uc-overlay]{opacity:1!important;background-image:none!important;background-color:rgb(0 0 0/var(--uc-overlay-opacity,.5))!important}\n@media (max-width:1024px){.uichemy-heading-2xl-semibold{font-size:calc(60px * var(--uc-heading-scale,1));line-height:70px}.uichemy-body-sm-medium{font-size:calc(13px * var(--uc-body-scale,1));line-height:18px}.uichemy-container{padding:60px 15px}}\n@media (max-width:768px){.uichemy-heading-2xl-semibold{font-size:calc(48px * var(--uc-heading-scale,1));line-height:56px}.uichemy-body-sm-medium{font-size:calc(12px * var(--uc-body-scale,1));line-height:16px}.uichemy-container{padding:40px 15px}}\n@keyframes fade-up{0%{opacity:0;transform:translateY(20px)}to{opacity:1;transform:translateY(0)}}\n@property --tw-duration{syntax:\"*\";inherits:false}\n@property --tw-ease{syntax:\"*\";inherits:false}\n@property --tw-scale-x{syntax:\"*\";inherits:false;initial-value:1}\n@property --tw-scale-y{syntax:\"*\";inherits:false;initial-value:1}\n[data-uichemy-root]{\n  --color-primary-text: var(--titlelight, #1F1F1F);\n  --color-secondary-text: var(--titlelight, #1F1F1F);\n}\n[data-uichemy-root] .bg-bgLight1{\n  \n  \n}\n[data-uichemy-root] .bg-bgLight2{\n  \n  \n}",
+                                "raw_js": "",
+                                "site_custom_code_head": "<link rel=\"stylesheet\" href=\"https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:ital,wght@0,200..800;1,200..800&display=swap\">",
+                                "raw_deps_site": "[{\"id\":\"imported_bcrgtzd\",\"name\":\"Plus Jakarta Sans\",\"v\":\"—\",\"kind\":\"style\",\"url\":\"https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:ital,wght@0,200..800;1,200..800&display=swap\",\"attrs\":[],\"position\":\"before\",\"enabled\":true,\"brief\":\"Imported from editor\",\"category\":\"Imported\"}]",
+                                "plus_tooltip_content_desc": "Luctus nec ullamcorper mattis",
+                                "page_custom_code_head": "<title>Careers at Ostra | Join Our Team</title>\n<meta name=\"description\" content=\"Join Ostra&#039;s talented team in Lisbon or remotely. Explore open positions and discover life at our senior branding studio.\" />\n<meta property=\"og:image\" content=\"https://inventorganization.s3-tastewp.com/wp-content/uploads/2026/11/b16f43f4e8812be6.jpg\" data-id=\"189\" />"
+                            },
+                            "defaultEditSettings": {
+                                "defaultEditRoute": "content"
+                            },
+                            "interactions": [],
+                            "elements": [],
+                            "title": "Composer",
+                            "categories": [
+                                "uichemy"
+                            ],
+                            "keywords": [
+                                "html",
+                                "composer",
+                                "dynamic",
+                                "text"
+                            ],
+                            "icon": "eicon-code",
+                            "widgetType": "uichemy-builder",
+                            "hideOnSearch": false,
+                            "editSettings": {
+                                "defaultEditRoute": "content",
+                                "panel": {
+                                    "activeTab": "style",
+                                    "activeSection": "section_style"
+                                }
+                            }
+                        }
+                    ],
+                    "editSettings": {
+                        "defaultEditRoute": "layout",
+                        "panel": {
+                            "activeTab": "layout",
+                            "activeSection": "section_layout_container"
+                        }
+                    }
+                },
+                {
+                    "id": "8hz8cag",
+                    "elType": "container",
+                    "isInner": false,
+                    "isLocked": false,
+                    "settings": {
+                        "content_width": "full",
+                        "padding": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": true
+                        },
+                        "margin": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": true
+                        },
+                        "flex_gap": {
+                            "unit": "px",
+                            "size": 0,
+                            "sizes": [],
+                            "column": "0",
+                            "row": "0",
+                            "isLinked": true
+                        },
+                        "MSFrame": [
+                            {
+                                "msitem_name": "Effect 1",
+                                "_id": "kcv1ozz",
+                                "videoSelectorMs": ".tp-video-element",
+                                "svgSelectorMs": ".tp-svg-path"
+                            }
+                        ],
+                        "as_bs_lists": [],
+                        "as_bs_lists_h": [],
+                        "as_ts_lists": [],
+                        "as_ts_lists_h": [],
+                        "as_ds_lists": [],
+                        "as_ds_lists_h": [],
+                        "tp_display_rules": [
+                            {
+                                "_id": "wl78ccl"
+                            }
+                        ],
+                        "eventRepeater": [
+                            {
+                                "_id": "pewbg1t"
+                            }
+                        ]
+                    },
+                    "defaultEditSettings": {
+                        "defaultEditRoute": "content"
+                    },
+                    "interactions": [],
+                    "elements": [
+                        {
+                            "id": "pm6ibeg",
+                            "elType": "widget",
+                            "isInner": false,
+                            "isLocked": false,
+                            "settings": {
+                                "raw_html": "<div data-uichemy-root=\"\"><link rel=\"preload\" as=\"image\" href=\"https://inventorganization.s3-tastewp.com/wp-content/uploads/2026/11/9388effd62f34a50.webp\"/><link rel=\"preload\" as=\"image\" href=\"https://inventorganization.s3-tastewp.com/wp-content/uploads/2026/11/079fac83410fcda3.webp\"/><link rel=\"preload\" as=\"image\" href=\"https://inventorganization.s3-tastewp.com/wp-content/uploads/2026/11/61a528880d37d906.webp\"/><link rel=\"preload\" as=\"image\" href=\"https://inventorganization.s3-tastewp.com/wp-content/uploads/2026/11/6171feb6eb76150a.webp\"/><div class=\"uichemy-surface-ffffff bg-bgLight3\" style=\"background-color:var(--bglight3, #FFFFFF)\"><div data-template-id=\"d4a9c1e730b25f6817ae2c40\" class=\"uichemy-container w-full\"><div class=\"msy10-grid w-full grid grid-cols-3 gap-5 animate-grid-layout-animation uichemy-max-md-grid-cols-2-1hdhvo6 uichemy-max-sm-grid-cols-1-t84oxu\"><div class=\"uichemy-min-h-300px-1f7lyze uichemy-max-md-min-h-0-18ue1h9 flex items-start\"><h2 class=\"uichemy-heading-2xl-semibold text-titleLight animate-title-animation\" style=\"color:var(--titlelight, #1f1f1f)\">Life at Ostra</h2></div><div class=\"uichemy-group-a-1ep1es4 uichemy-min-h-300px-1f7lyze uichemy-max-md-min-h-0-18ue1h9 uichemy-max-md-h-280px-1e45sfy relative rounded-card-radius-sm overflow-hidden image-shadow\"><img src=\"https://inventorganization.s3-tastewp.com/wp-content/uploads/2026/11/9388effd62f34a50.webp\" alt=\"By the numbers\" class=\"absolute inset-0 w-full h-full object-cover transition-transform duration-500 uichemy-group-hover-a-scale-105-j0l0is\" width=\"1536\" height=\"894\" loading=\"lazy\"/></div><div class=\"uichemy-min-h-300px-1f7lyze rounded-card-radius-sm card-shadow border-width-full border-neutral overflow-hidden transition-transform duration-300 uichemy-hover-translate-y-1-olloai bg-bgLight2 p-8 flex flex-col justify-between\" style=\"border-color:var(--neutral, #d6d6d6); background-color:var(--bglight2, #e8e3d8)\"><div><h3 class=\"uichemy-heading-xs-semibold text-titleLight\" style=\"color:var(--titlelight, #1f1f1f)\">Years building brands</h3><p class=\"mt-3 uichemy-body-md-regular text-descriptionLight\" style=\"color:var(--descriptionlight, #454545)\">Ten years of brand, web and motion work, still curious every day.</p></div><div class=\"self-end\"><span class=\"uichemy-heading-3xl-semibold text-titleLight\" style=\"color:var(--titlelight, #1f1f1f)\">10</span></div></div><div class=\"uichemy-min-h-300px-1f7lyze rounded-card-radius-sm card-shadow border-width-full border-neutral overflow-hidden transition-transform duration-300 uichemy-hover-translate-y-1-olloai bg-bgLight2 p-8 flex flex-col justify-between\" style=\"border-color:var(--neutral, #d6d6d6); background-color:var(--bglight2, #e8e3d8)\"><div class=\"flex items-center\"><img src=\"https://inventorganization.s3-tastewp.com/wp-content/uploads/2026/11/079fac83410fcda3.webp\" alt=\"Bringing innovation and design expertise to every project.\" class=\"w-12 h-12 shrink-0 rounded-card-radius-full border object-cover border-neutral uichemy-first-ml-0-wr2zbt -mr-3 relative z-20\" style=\"border-color:var(--neutral, #d6d6d6)\" width=\"1536\" height=\"894\" loading=\"lazy\"/><img src=\"https://inventorganization.s3-tastewp.com/wp-content/uploads/2026/11/61a528880d37d906.webp\" alt=\"Bringing innovation and design expertise to every project.\" class=\"w-12 h-12 shrink-0 rounded-card-radius-full border object-cover border-neutral uichemy-first-ml-0-wr2zbt -mr-3 relative z-10\" style=\"border-color:var(--neutral, #d6d6d6)\" width=\"1536\" height=\"894\" loading=\"lazy\"/><span class=\"w-12 h-12 shrink-0 rounded-card-radius-full flex items-center justify-center uichemy-caption-xs-bold relative z-0 bg-bgLight1 text-titleLight\" style=\"color:var(--titlelight, #1f1f1f); background-color:var(--bglight1, #f2efe9)\">200+</span></div><p class=\"mt-6 uichemy-body-md-regular text-descriptionLight\" style=\"color:var(--descriptionlight, #454545)\">Clients since 2016, from a first logo to a full site relaunch.</p><div class=\"flex items-center gap-4\"><h5 class=\"inline-flex items-center justify-center uichemy-gap-6px-ffl092 uichemy-px-14px-6k2fl7 uichemy-py-6px-rnkncp border-width-full border-neutral rounded-badge-radius-full text-titleLight uichemy-body-sm-medium bg-bgLight1\" style=\"background-color:var(--bglight1, #f2efe9); border-color:var(--neutral, #d6d6d6); color:var(--titlelight, #1f1f1f)\">Branding</h5><h5 class=\"inline-flex items-center justify-center uichemy-gap-6px-ffl092 uichemy-px-14px-6k2fl7 uichemy-py-6px-rnkncp border-width-full border-neutral rounded-badge-radius-full text-titleLight uichemy-body-sm-medium bg-bgLight1\" style=\"background-color:var(--bglight1, #f2efe9); border-color:var(--neutral, #d6d6d6); color:var(--titlelight, #1f1f1f)\">Web Design</h5></div></div><div class=\"uichemy-group-c-1ep1es6 uichemy-min-h-300px-1f7lyze uichemy-max-md-min-h-0-18ue1h9 uichemy-max-md-h-320px-1ej166t relative rounded-card-radius-sm overflow-hidden image-shadow\"><img src=\"https://inventorganization.s3-tastewp.com/wp-content/uploads/2026/11/6171feb6eb76150a.webp\" alt=\"Creative Experts\" class=\"absolute inset-0 w-full h-full object-cover transition-transform duration-500 uichemy-group-hover-c-scale-105-wc8s4m\" width=\"1536\" height=\"894\" loading=\"lazy\"/><div class=\"absolute inset-0 pointer-events-none\" aria-hidden=\"true\" style=\"background:linear-gradient(to top, color-mix(in srgb, var(--bgdark2, #403826) 88%, transparent) 0%, color-mix(in srgb, var(--bgdark2, #403826) 80%, transparent) 40%, color-mix(in srgb, var(--bgdark2, #403826) 10%, transparent) 80%, transparent 100%)\" data-uc-overlay=\"true\"></div><div class=\"absolute inset-x-0 bottom-0 p-8\"><span class=\"uichemy-heading-2xl-semibold\" style=\"color:var(--titledark, #ebebeb)\">24</span><h3 class=\"mt-2 uichemy-heading-xs-semibold\" style=\"color:var(--titledark, #ebebeb)\">People on the team</h3><p class=\"mt-2 uichemy-body-sm-regular\" style=\"color:var(--titledark, #ebebeb)\">Designers, animators and builders in Lisbon and across Europe.</p></div></div></div></div></div></div>",
+                                "raw_css": ":where(img[width][height]){height:auto}\n*{font-family:'Syne', ui-sans-serif, system-ui, sans-serif !important}\n[data-uichemy-root]{--color-bgLight3:var(--bglight3, #FFFFFF);--font-sans:ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\";--spacing:.25rem;--default-transition-duration:.15s;--default-transition-timing-function:cubic-bezier(.4, 0, .2, 1);--default-font-family:var(--font-sans);--shadow-button-shadow-normal:0 4px 20px #0000000f;--shadow-button-shadow-hover:0 12px 40px #000c;--shadow-card-shadow-normal:0 4px 20px #0000000f;--shadow-card-shadow-hover:0 12px 40px #0000001f;--shadow-image-shadow-normal:none;--shadow-image-shadow-hover:none;--shadow-input-field-shadow-normal:0 4px 20px #0000000f;--shadow-input-field-shadow-focus:none;--animate-title-animation:fade-up .6s ease-out forwards;--animate-grid-layout-animation:fade-up .6s ease-out forwards;--foreground:oklch(14.5% 0 0);--border:oklch(92.2% 0 0);--ring:oklch(70.8% 0 0);-webkit-text-size-adjust:100%;tab-size:4;line-height:1.5;font-family:var(--default-font-family,ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\");font-feature-settings:var(--default-font-feature-settings,normal);font-variation-settings:var(--default-font-variation-settings,normal);color:var(--foreground)}\n@supports (((-webkit-hyphens:none)) and (not (margin-trim:inline))) or ((-moz-orient:inline) and (not (color:rgb(from red r g b)))){*,:before,:after,::backdrop{--tw-border-style:solid;--tw-duration:initial;--tw-scale-x:1;--tw-scale-y:1;--tw-translate-x:0;--tw-translate-y:0}}\n*,:after,:before,::backdrop{box-sizing:border-box;border:0 solid;margin:0;padding:0}\nh2,h3,h5{font-size:inherit;font-weight:inherit}\na{color:inherit;-webkit-text-decoration:inherit;-webkit-text-decoration:inherit;-webkit-text-decoration:inherit;text-decoration:inherit}\n:-moz-focusring{outline:auto}\nimg{vertical-align:middle;display:block}\nimg{max-width:100%;height:auto}\n:-moz-ui-invalid{box-shadow:none}\n[hidden]:where(:not([hidden=until-found])){display:none!important}\n*{border-color:var(--border);outline-color:var(--ring)}\n@supports (color:color-mix(in lab, red, red)){*{outline-color:color-mix(in oklab, var(--ring) 50%, transparent)}}\n.pointer-events-none{pointer-events:none}\n.absolute{position:absolute}\n.relative{position:relative}\n.inset-0{inset:calc(var(--spacing) * 0)}\n.inset-x-0{inset-inline:calc(var(--spacing) * 0)}\n.bottom-0{bottom:calc(var(--spacing) * 0)}\n.z-0{z-index:0}\n.z-10{z-index:10}\n.z-20{z-index:20}\n.mt-2{margin-top:calc(var(--spacing) * 2)}\n.mt-3{margin-top:calc(var(--spacing) * 3)}\n.mt-6{margin-top:calc(var(--spacing) * 6)}\n.-mr-3{margin-right:calc(var(--spacing) * -3)}\n.flex{display:flex}\n.grid{display:grid}\n.inline-flex{display:inline-flex}\n.h-12{height:calc(var(--spacing) * 12)}\n.h-full{height:100%}\n.uichemy-min-h-300px-1f7lyze{min-height:300px}\n.w-12{width:calc(var(--spacing) * 12)}\n.w-full{width:100%}\n.shrink-0{flex-shrink:0}\n.animate-grid-layout-animation{animation:var(--animate-grid-layout-animation)}\n.grid-cols-3{grid-template-columns:repeat(3,minmax(0,1fr))}\n.flex-col{flex-direction:column}\n.items-center{align-items:center}\n.items-start{align-items:flex-start}\n.justify-between{justify-content:space-between}\n.justify-center{justify-content:center}\n.gap-4{gap:calc(var(--spacing) * 4)}\n.gap-5{gap:calc(var(--spacing) * 5)}\n.uichemy-gap-6px-ffl092{gap:6px}\n.self-end{align-self:flex-end}\n.overflow-hidden{overflow:hidden}\n.rounded-badge-radius-full{border-radius:var(--badge-radius-full, 9999px)}\n.rounded-card-radius-full{border-radius:var(--card-radius-full, 9999px)}\n.rounded-card-radius-sm{border-radius:var(--card-radius-sm, 20px)}\n.border{border-style:var(--tw-border-style, solid);border-width:1px}\n.border-neutral{border-color:var(--neutral, #D6D6D6)}\n.bg-bgLight1{background-color:var(--bglight1, #FFFFFF)}\n.bg-bgLight2{background-color:var(--bglight2, #F9F9FB)}\n.object-cover{object-fit:cover}\n.p-8{padding:calc(var(--spacing) * 8)}\n.uichemy-px-14px-6k2fl7{padding-inline:14px}\n.uichemy-py-6px-rnkncp{padding-block:6px}\n.text-descriptionLight{color:var(--descriptionlight, #808080)}\n.text-titleLight{color:var(--titlelight, #0D0D0D)}\n.transition-transform{transition-property:transform,translate,scale,rotate;transition-timing-function:var(--tw-ease,var(--default-transition-timing-function));transition-duration:var(--tw-duration,var(--default-transition-duration))}\n.duration-300{--tw-duration:.3s;transition-duration:.3s}\n.duration-500{--tw-duration:.5s;transition-duration:.5s}\n@media (hover:hover){.uichemy-group-hover-a-scale-105-j0l0is:is(:where(.uichemy-group-a-1ep1es4):hover *),.uichemy-group-hover-c-scale-105-wc8s4m:is(:where(.uichemy-group-c-1ep1es6):hover *){--tw-scale-x:105%;--tw-scale-y:105%;scale:var(--tw-scale-x) var(--tw-scale-y)}}\n.uichemy-first-ml-0-wr2zbt:first-child{margin-left:calc(var(--spacing) * 0)}\n@media (hover:hover){.uichemy-hover-translate-y-1-olloai:hover{--tw-translate-y:calc(var(--spacing) * -1);translate:var(--tw-translate-x) var(--tw-translate-y)}}\n@media not all and (min-width:48rem){.uichemy-max-md-h-280px-1e45sfy{height:280px}.uichemy-max-md-h-320px-1ej166t{height:320px}.uichemy-max-md-min-h-0-18ue1h9{min-height:calc(var(--spacing) * 0)}.uichemy-max-md-grid-cols-2-1hdhvo6{grid-template-columns:repeat(2,minmax(0,1fr))}}\n@media not all and (min-width:40rem){.uichemy-max-sm-grid-cols-1-t84oxu{grid-template-columns:repeat(1,minmax(0,1fr))}}\n.border-width-full{border-width:var(--border-width-full, 1px);border-style:solid}\n.animate-grid-layout-animation>*{opacity:0;animation:var(--animate-grid-layout-animation)}\n.animate-title-animation{animation:var(--animate-title-animation)!important}\nimg[src^=image_url_],img[src^=logo_url_],img[src^=portrait_image_url_]{visibility:hidden;color:#0000;background-color:#0000;font-size:0}\n.card-shadow{border:1px solid var(--neutral, #D6D6D6);box-shadow:var(--shadow-card-shadow-normal);background-color:#0000;transition:box-shadow .3s linear,border-color .3s linear,background .3s linear}\n.card-shadow:hover{box-shadow:var(--shadow-card-shadow-hover)}\n.image-shadow{box-shadow:var(--shadow-image-shadow-normal)}\n.image-shadow:hover{box-shadow:var(--shadow-image-shadow-hover)}\n.uichemy-container{max-width:1440px;margin:auto;padding:80px 100px}\n.uichemy-heading-3xl-semibold{font-size:calc(80px * var(--uc-heading-scale,1));font-weight:600;line-height:96px}\n.uichemy-heading-2xl-semibold{font-size:calc(72px * var(--uc-heading-scale,1));font-weight:600;line-height:90px}\n.uichemy-heading-xs-semibold{font-size:calc(24px * var(--uc-heading-scale,1));font-weight:600;line-height:32px}\n.uichemy-body-md-regular{font-size:calc(16px * var(--uc-body-scale,1));font-weight:400;line-height:24px}\n.uichemy-body-sm-regular{font-size:calc(14px * var(--uc-body-scale,1));font-weight:400;line-height:20px}\n.uichemy-body-sm-medium{font-size:calc(14px * var(--uc-body-scale,1));font-weight:500;line-height:20px}\n.uichemy-caption-xs-bold{font-size:12px;font-weight:700;line-height:18px}\n[data-uc-section-overlay=off] [data-uc-overlay]{display:none!important}\n[data-uc-section-overlay=black] [data-uc-overlay]{opacity:1!important;background-image:none!important;background-color:rgb(0 0 0/var(--uc-overlay-opacity,.5))!important}\n@media (max-width:1024px){.uichemy-heading-3xl-semibold{font-size:calc(70px * var(--uc-heading-scale,1));line-height:80px}.uichemy-heading-2xl-semibold{font-size:calc(60px * var(--uc-heading-scale,1));line-height:70px}.uichemy-heading-xs-semibold{font-size:calc(20px * var(--uc-heading-scale,1));line-height:28px}.uichemy-body-md-regular{font-size:calc(15px * var(--uc-body-scale,1));line-height:22px}.uichemy-body-sm-medium,.uichemy-body-sm-regular{font-size:calc(13px * var(--uc-body-scale,1));line-height:18px}.uichemy-container{padding:60px 15px}}\n@media (max-width:768px){.uichemy-heading-3xl-semibold{font-size:calc(50px * var(--uc-heading-scale,1));line-height:60px}.uichemy-heading-2xl-semibold{font-size:calc(48px * var(--uc-heading-scale,1));line-height:56px}.uichemy-heading-xs-semibold{font-size:calc(18px * var(--uc-heading-scale,1));line-height:24px}.uichemy-body-md-regular{font-size:calc(14px * var(--uc-body-scale,1));line-height:20px}.uichemy-body-sm-regular,.uichemy-body-sm-medium{font-size:calc(12px * var(--uc-body-scale,1));line-height:16px}.uichemy-container{padding:40px 15px}}\n@keyframes fade-up{0%{opacity:0;transform:translateY(20px)}to{opacity:1;transform:translateY(0)}}\n.animate-grid-layout-animation>:nth-child(8n+1){animation-delay:.1s}\n.animate-grid-layout-animation>:nth-child(8n+2){animation-delay:.2s}\n.animate-grid-layout-animation>:nth-child(8n+3){animation-delay:.3s}\n.animate-grid-layout-animation>:nth-child(8n+4){animation-delay:.4s}\n.animate-grid-layout-animation>:nth-child(8n+5){animation-delay:.5s}\n.animate-grid-layout-animation>:nth-child(8n+6){animation-delay:.6s}\n.animate-grid-layout-animation>:nth-child(8n+7){animation-delay:.7s}\n.animate-grid-layout-animation>:nth-child(8n+8){animation-delay:.8s}\n@property --tw-border-style{syntax:\"*\";inherits:false;initial-value:solid}\n@property --tw-duration{syntax:\"*\";inherits:false}\n@property --tw-scale-x{syntax:\"*\";inherits:false;initial-value:1}\n@property --tw-scale-y{syntax:\"*\";inherits:false;initial-value:1}\n@property --tw-translate-x{syntax:\"*\";inherits:false;initial-value:0}\n@property --tw-translate-y{syntax:\"*\";inherits:false;initial-value:0}\n.bg-bgLight3{\n    background-color: var(--color-bgLight3);\n  }\n[data-uichemy-root]{\n  --color-primary-text: var(--titlelight, #1F1F1F);\n  --color-secondary-text: var(--titlelight, #1F1F1F);\n}\n[data-uichemy-root] .bg-bgLight1{\n  \n  \n}\n[data-uichemy-root] .bg-bgLight2{\n  \n  \n}\n[data-uichemy-root] .bg-bgLight3{\n  \n  \n}\n[data-uichemy-root] .card-shadow{\n  border: 1px solid transparent !important;\n  box-shadow: none !important;\n}\n[data-uichemy-root] .card-shadow:not([class*=\"rounded-\"]){\n  border-radius: 12px !important;\n}\n[data-uichemy-root] [class~=\"bg-bgLight1\"]:not(.uichemy-card):not(.card-shadow):not([class*=\"bg-bg\"] *){--uichemy-card-shade: var(--bglight2, #E8E3D8)}\n[data-uichemy-root] [class~=\"bg-bgLight2\"]:not(.uichemy-card):not(.card-shadow):not([class*=\"bg-bg\"] *){--uichemy-card-shade: var(--bglight2, #E8E3D8)}\n[data-uichemy-root] .card-shadow:not([class*=\"bg-bg\"]):not([style*=\"background\"]){\n  background: var(--uichemy-card-shade, var(--bglight2, #E8E3D8)) !important;\n}\n[data-uichemy-root] .card-shadow[class~=\"bg-bgLight1\"]{\n  background: var(--uichemy-card-shade, var(--bglight2, #E8E3D8)) !important;\n}\n[data-uichemy-root] .card-shadow[class~=\"bg-bgLight2\"]{\n  background: var(--uichemy-card-shade, var(--bglight2, #E8E3D8)) !important;\n}\n[data-uichemy-root] .card-shadow:hover{\n  box-shadow: none !important;\n  border-color: transparent !important;\n}\n[data-uichemy-root] .uichemy-surface-ffffff:not(.uichemy-card):not(.card-shadow){--uichemy-card-shade: #F2F2F2}\n[data-uichemy-root] .uichemy-surface-ffffff .text-titleLight:where(:not(:hover[class*=\"hover-text-\"], .group:hover [class*=\"group-hover-text-\"], .uichemy-tabs > input:nth-of-type(1):checked ~ .uichemy-tab-list > :nth-child(1), .uichemy-tabs > input:nth-of-type(2):checked ~ .uichemy-tab-list > :nth-child(2), .uichemy-tabs > input:nth-of-type(3):checked ~ .uichemy-tab-list > :nth-child(3), .uichemy-tabs > input:nth-of-type(4):checked ~ .uichemy-tab-list > :nth-child(4), .uichemy-tabs > input:nth-of-type(5):checked ~ .uichemy-tab-list > :nth-child(5), .uichemy-tabs > input:nth-of-type(6):checked ~ .uichemy-tab-list > :nth-child(6), .uichemy-tabs > input:nth-of-type(7):checked ~ .uichemy-tab-list > :nth-child(7), :is([style^=\"color:\" i], [style*=\";color:\" i], [style*=\"; color:\" i], [style^=\"color: \" i], [style*=\";color: \" i], [style*=\"; color: \" i]):not(:is([style^=\"color:var(--titlelight\" i], [style*=\";color:var(--titlelight\" i], [style*=\"; color:var(--titlelight\" i], [style^=\"color: var(--titlelight\" i], [style*=\";color: var(--titlelight\" i], [style*=\"; color: var(--titlelight\" i])))){\n  color: #1F1F1F !important;\n}\n[data-uichemy-root] .uichemy-surface-ffffff .text-descriptionLight:where(:not(:hover[class*=\"hover-text-\"], .group:hover [class*=\"group-hover-text-\"], .uichemy-tabs > input:nth-of-type(1):checked ~ .uichemy-tab-list > :nth-child(1), .uichemy-tabs > input:nth-of-type(2):checked ~ .uichemy-tab-list > :nth-child(2), .uichemy-tabs > input:nth-of-type(3):checked ~ .uichemy-tab-list > :nth-child(3), .uichemy-tabs > input:nth-of-type(4):checked ~ .uichemy-tab-list > :nth-child(4), .uichemy-tabs > input:nth-of-type(5):checked ~ .uichemy-tab-list > :nth-child(5), .uichemy-tabs > input:nth-of-type(6):checked ~ .uichemy-tab-list > :nth-child(6), .uichemy-tabs > input:nth-of-type(7):checked ~ .uichemy-tab-list > :nth-child(7), :is([style^=\"color:\" i], [style*=\";color:\" i], [style*=\"; color:\" i], [style^=\"color: \" i], [style*=\";color: \" i], [style*=\"; color: \" i]):not(:is([style^=\"color:var(--descriptionlight\" i], [style*=\";color:var(--descriptionlight\" i], [style*=\"; color:var(--descriptionlight\" i], [style^=\"color: var(--descriptionlight\" i], [style*=\";color: var(--descriptionlight\" i], [style*=\"; color: var(--descriptionlight\" i])))){\n  color: #454545 !important;\n}\n[data-uichemy-root] .uichemy-surface-ffffff :is([style^=\"color:var(--titlelight\" i], [style*=\";color:var(--titlelight\" i], [style*=\"; color:var(--titlelight\" i], [style^=\"color: var(--titlelight\" i], [style*=\";color: var(--titlelight\" i], [style*=\"; color: var(--titlelight\" i]):where(:not(:hover[class*=\"hover-text-\"], .group:hover [class*=\"group-hover-text-\"], .uichemy-tabs > input:nth-of-type(1):checked ~ .uichemy-tab-list > :nth-child(1), .uichemy-tabs > input:nth-of-type(2):checked ~ .uichemy-tab-list > :nth-child(2), .uichemy-tabs > input:nth-of-type(3):checked ~ .uichemy-tab-list > :nth-child(3), .uichemy-tabs > input:nth-of-type(4):checked ~ .uichemy-tab-list > :nth-child(4), .uichemy-tabs > input:nth-of-type(5):checked ~ .uichemy-tab-list > :nth-child(5), .uichemy-tabs > input:nth-of-type(6):checked ~ .uichemy-tab-list > :nth-child(6), .uichemy-tabs > input:nth-of-type(7):checked ~ .uichemy-tab-list > :nth-child(7), :is([style^=\"color:\" i], [style*=\";color:\" i], [style*=\"; color:\" i], [style^=\"color: \" i], [style*=\";color: \" i], [style*=\"; color: \" i]):not(:is([style^=\"color:var(--titlelight\" i], [style*=\";color:var(--titlelight\" i], [style*=\"; color:var(--titlelight\" i], [style^=\"color: var(--titlelight\" i], [style*=\";color: var(--titlelight\" i], [style*=\"; color: var(--titlelight\" i])))){\n  color: #1F1F1F !important;\n}\n[data-uichemy-root] .uichemy-surface-ffffff .bg-bgLight1 .text-titleLight:where(:not(:hover[class*=\"hover-text-\"], .group:hover [class*=\"group-hover-text-\"], .uichemy-tabs > input:nth-of-type(1):checked ~ .uichemy-tab-list > :nth-child(1), .uichemy-tabs > input:nth-of-type(2):checked ~ .uichemy-tab-list > :nth-child(2), .uichemy-tabs > input:nth-of-type(3):checked ~ .uichemy-tab-list > :nth-child(3), .uichemy-tabs > input:nth-of-type(4):checked ~ .uichemy-tab-list > :nth-child(4), .uichemy-tabs > input:nth-of-type(5):checked ~ .uichemy-tab-list > :nth-child(5), .uichemy-tabs > input:nth-of-type(6):checked ~ .uichemy-tab-list > :nth-child(6), .uichemy-tabs > input:nth-of-type(7):checked ~ .uichemy-tab-list > :nth-child(7), :is([style^=\"color:\" i], [style*=\";color:\" i], [style*=\"; color:\" i], [style^=\"color: \" i], [style*=\";color: \" i], [style*=\"; color: \" i]):not(:is([style^=\"color:var(--titlelight\" i], [style*=\";color:var(--titlelight\" i], [style*=\"; color:var(--titlelight\" i], [style^=\"color: var(--titlelight\" i], [style*=\";color: var(--titlelight\" i], [style*=\"; color: var(--titlelight\" i])))){\n  color: #1F1F1F !important;\n}\n[data-uichemy-root] .uichemy-surface-ffffff .bg-bgLight1 .text-descriptionLight:where(:not(:hover[class*=\"hover-text-\"], .group:hover [class*=\"group-hover-text-\"], .uichemy-tabs > input:nth-of-type(1):checked ~ .uichemy-tab-list > :nth-child(1), .uichemy-tabs > input:nth-of-type(2):checked ~ .uichemy-tab-list > :nth-child(2), .uichemy-tabs > input:nth-of-type(3):checked ~ .uichemy-tab-list > :nth-child(3), .uichemy-tabs > input:nth-of-type(4):checked ~ .uichemy-tab-list > :nth-child(4), .uichemy-tabs > input:nth-of-type(5):checked ~ .uichemy-tab-list > :nth-child(5), .uichemy-tabs > input:nth-of-type(6):checked ~ .uichemy-tab-list > :nth-child(6), .uichemy-tabs > input:nth-of-type(7):checked ~ .uichemy-tab-list > :nth-child(7), :is([style^=\"color:\" i], [style*=\";color:\" i], [style*=\"; color:\" i], [style^=\"color: \" i], [style*=\";color: \" i], [style*=\"; color: \" i]):not(:is([style^=\"color:var(--descriptionlight\" i], [style*=\";color:var(--descriptionlight\" i], [style*=\"; color:var(--descriptionlight\" i], [style^=\"color: var(--descriptionlight\" i], [style*=\";color: var(--descriptionlight\" i], [style*=\"; color: var(--descriptionlight\" i])))){\n  color: #454545 !important;\n}\n[data-uichemy-root] .uichemy-surface-ffffff .bg-bgLight1 :is([style^=\"color:var(--titlelight\" i], [style*=\";color:var(--titlelight\" i], [style*=\"; color:var(--titlelight\" i], [style^=\"color: var(--titlelight\" i], [style*=\";color: var(--titlelight\" i], [style*=\"; color: var(--titlelight\" i]):where(:not(:hover[class*=\"hover-text-\"], .group:hover [class*=\"group-hover-text-\"], .uichemy-tabs > input:nth-of-type(1):checked ~ .uichemy-tab-list > :nth-child(1), .uichemy-tabs > input:nth-of-type(2):checked ~ .uichemy-tab-list > :nth-child(2), .uichemy-tabs > input:nth-of-type(3):checked ~ .uichemy-tab-list > :nth-child(3), .uichemy-tabs > input:nth-of-type(4):checked ~ .uichemy-tab-list > :nth-child(4), .uichemy-tabs > input:nth-of-type(5):checked ~ .uichemy-tab-list > :nth-child(5), .uichemy-tabs > input:nth-of-type(6):checked ~ .uichemy-tab-list > :nth-child(6), .uichemy-tabs > input:nth-of-type(7):checked ~ .uichemy-tab-list > :nth-child(7), :is([style^=\"color:\" i], [style*=\";color:\" i], [style*=\"; color:\" i], [style^=\"color: \" i], [style*=\";color: \" i], [style*=\"; color: \" i]):not(:is([style^=\"color:var(--titlelight\" i], [style*=\";color:var(--titlelight\" i], [style*=\"; color:var(--titlelight\" i], [style^=\"color: var(--titlelight\" i], [style*=\";color: var(--titlelight\" i], [style*=\"; color: var(--titlelight\" i])))){\n  color: #1F1F1F !important;\n}\n[data-uichemy-root] .uichemy-surface-ffffff .bg-bgLight2 .text-titleLight:where(:not(:hover[class*=\"hover-text-\"], .group:hover [class*=\"group-hover-text-\"], .uichemy-tabs > input:nth-of-type(1):checked ~ .uichemy-tab-list > :nth-child(1), .uichemy-tabs > input:nth-of-type(2):checked ~ .uichemy-tab-list > :nth-child(2), .uichemy-tabs > input:nth-of-type(3):checked ~ .uichemy-tab-list > :nth-child(3), .uichemy-tabs > input:nth-of-type(4):checked ~ .uichemy-tab-list > :nth-child(4), .uichemy-tabs > input:nth-of-type(5):checked ~ .uichemy-tab-list > :nth-child(5), .uichemy-tabs > input:nth-of-type(6):checked ~ .uichemy-tab-list > :nth-child(6), .uichemy-tabs > input:nth-of-type(7):checked ~ .uichemy-tab-list > :nth-child(7), :is([style^=\"color:\" i], [style*=\";color:\" i], [style*=\"; color:\" i], [style^=\"color: \" i], [style*=\";color: \" i], [style*=\"; color: \" i]):not(:is([style^=\"color:var(--titlelight\" i], [style*=\";color:var(--titlelight\" i], [style*=\"; color:var(--titlelight\" i], [style^=\"color: var(--titlelight\" i], [style*=\";color: var(--titlelight\" i], [style*=\"; color: var(--titlelight\" i])))){\n  color: #1F1F1F !important;\n}\n[data-uichemy-root] .uichemy-surface-ffffff .bg-bgLight2 .text-descriptionLight:where(:not(:hover[class*=\"hover-text-\"], .group:hover [class*=\"group-hover-text-\"], .uichemy-tabs > input:nth-of-type(1):checked ~ .uichemy-tab-list > :nth-child(1), .uichemy-tabs > input:nth-of-type(2):checked ~ .uichemy-tab-list > :nth-child(2), .uichemy-tabs > input:nth-of-type(3):checked ~ .uichemy-tab-list > :nth-child(3), .uichemy-tabs > input:nth-of-type(4):checked ~ .uichemy-tab-list > :nth-child(4), .uichemy-tabs > input:nth-of-type(5):checked ~ .uichemy-tab-list > :nth-child(5), .uichemy-tabs > input:nth-of-type(6):checked ~ .uichemy-tab-list > :nth-child(6), .uichemy-tabs > input:nth-of-type(7):checked ~ .uichemy-tab-list > :nth-child(7), :is([style^=\"color:\" i], [style*=\";color:\" i], [style*=\"; color:\" i], [style^=\"color: \" i], [style*=\";color: \" i], [style*=\"; color: \" i]):not(:is([style^=\"color:var(--descriptionlight\" i], [style*=\";color:var(--descriptionlight\" i], [style*=\"; color:var(--descriptionlight\" i], [style^=\"color: var(--descriptionlight\" i], [style*=\";color: var(--descriptionlight\" i], [style*=\"; color: var(--descriptionlight\" i])))){\n  color: #454545 !important;\n}\n[data-uichemy-root] .uichemy-surface-ffffff .bg-bgLight2 :is([style^=\"color:var(--titlelight\" i], [style*=\";color:var(--titlelight\" i], [style*=\"; color:var(--titlelight\" i], [style^=\"color: var(--titlelight\" i], [style*=\";color: var(--titlelight\" i], [style*=\"; color: var(--titlelight\" i]):where(:not(:hover[class*=\"hover-text-\"], .group:hover [class*=\"group-hover-text-\"], .uichemy-tabs > input:nth-of-type(1):checked ~ .uichemy-tab-list > :nth-child(1), .uichemy-tabs > input:nth-of-type(2):checked ~ .uichemy-tab-list > :nth-child(2), .uichemy-tabs > input:nth-of-type(3):checked ~ .uichemy-tab-list > :nth-child(3), .uichemy-tabs > input:nth-of-type(4):checked ~ .uichemy-tab-list > :nth-child(4), .uichemy-tabs > input:nth-of-type(5):checked ~ .uichemy-tab-list > :nth-child(5), .uichemy-tabs > input:nth-of-type(6):checked ~ .uichemy-tab-list > :nth-child(6), .uichemy-tabs > input:nth-of-type(7):checked ~ .uichemy-tab-list > :nth-child(7), :is([style^=\"color:\" i], [style*=\";color:\" i], [style*=\"; color:\" i], [style^=\"color: \" i], [style*=\";color: \" i], [style*=\"; color: \" i]):not(:is([style^=\"color:var(--titlelight\" i], [style*=\";color:var(--titlelight\" i], [style*=\"; color:var(--titlelight\" i], [style^=\"color: var(--titlelight\" i], [style*=\";color: var(--titlelight\" i], [style*=\"; color: var(--titlelight\" i])))){\n  color: #1F1F1F !important;\n}\n[data-uichemy-root] .uichemy-surface-ffffff .bg-bgLight3 .text-titleLight:where(:not(:hover[class*=\"hover-text-\"], .group:hover [class*=\"group-hover-text-\"], .uichemy-tabs > input:nth-of-type(1):checked ~ .uichemy-tab-list > :nth-child(1), .uichemy-tabs > input:nth-of-type(2):checked ~ .uichemy-tab-list > :nth-child(2), .uichemy-tabs > input:nth-of-type(3):checked ~ .uichemy-tab-list > :nth-child(3), .uichemy-tabs > input:nth-of-type(4):checked ~ .uichemy-tab-list > :nth-child(4), .uichemy-tabs > input:nth-of-type(5):checked ~ .uichemy-tab-list > :nth-child(5), .uichemy-tabs > input:nth-of-type(6):checked ~ .uichemy-tab-list > :nth-child(6), .uichemy-tabs > input:nth-of-type(7):checked ~ .uichemy-tab-list > :nth-child(7), :is([style^=\"color:\" i], [style*=\";color:\" i], [style*=\"; color:\" i], [style^=\"color: \" i], [style*=\";color: \" i], [style*=\"; color: \" i]):not(:is([style^=\"color:var(--titlelight\" i], [style*=\";color:var(--titlelight\" i], [style*=\"; color:var(--titlelight\" i], [style^=\"color: var(--titlelight\" i], [style*=\";color: var(--titlelight\" i], [style*=\"; color: var(--titlelight\" i])))){\n  color: #1F1F1F !important;\n}\n[data-uichemy-root] .uichemy-surface-ffffff .bg-bgLight3 .text-descriptionLight:where(:not(:hover[class*=\"hover-text-\"], .group:hover [class*=\"group-hover-text-\"], .uichemy-tabs > input:nth-of-type(1):checked ~ .uichemy-tab-list > :nth-child(1), .uichemy-tabs > input:nth-of-type(2):checked ~ .uichemy-tab-list > :nth-child(2), .uichemy-tabs > input:nth-of-type(3):checked ~ .uichemy-tab-list > :nth-child(3), .uichemy-tabs > input:nth-of-type(4):checked ~ .uichemy-tab-list > :nth-child(4), .uichemy-tabs > input:nth-of-type(5):checked ~ .uichemy-tab-list > :nth-child(5), .uichemy-tabs > input:nth-of-type(6):checked ~ .uichemy-tab-list > :nth-child(6), .uichemy-tabs > input:nth-of-type(7):checked ~ .uichemy-tab-list > :nth-child(7), :is([style^=\"color:\" i], [style*=\";color:\" i], [style*=\"; color:\" i], [style^=\"color: \" i], [style*=\";color: \" i], [style*=\"; color: \" i]):not(:is([style^=\"color:var(--descriptionlight\" i], [style*=\";color:var(--descriptionlight\" i], [style*=\"; color:var(--descriptionlight\" i], [style^=\"color: var(--descriptionlight\" i], [style*=\";color: var(--descriptionlight\" i], [style*=\"; color: var(--descriptionlight\" i])))){\n  color: #454545 !important;\n}\n[data-uichemy-root] .uichemy-surface-ffffff .bg-bgLight3 :is([style^=\"color:var(--titlelight\" i], [style*=\";color:var(--titlelight\" i], [style*=\"; color:var(--titlelight\" i], [style^=\"color: var(--titlelight\" i], [style*=\";color: var(--titlelight\" i], [style*=\"; color: var(--titlelight\" i]):where(:not(:hover[class*=\"hover-text-\"], .group:hover [class*=\"group-hover-text-\"], .uichemy-tabs > input:nth-of-type(1):checked ~ .uichemy-tab-list > :nth-child(1), .uichemy-tabs > input:nth-of-type(2):checked ~ .uichemy-tab-list > :nth-child(2), .uichemy-tabs > input:nth-of-type(3):checked ~ .uichemy-tab-list > :nth-child(3), .uichemy-tabs > input:nth-of-type(4):checked ~ .uichemy-tab-list > :nth-child(4), .uichemy-tabs > input:nth-of-type(5):checked ~ .uichemy-tab-list > :nth-child(5), .uichemy-tabs > input:nth-of-type(6):checked ~ .uichemy-tab-list > :nth-child(6), .uichemy-tabs > input:nth-of-type(7):checked ~ .uichemy-tab-list > :nth-child(7), :is([style^=\"color:\" i], [style*=\";color:\" i], [style*=\"; color:\" i], [style^=\"color: \" i], [style*=\";color: \" i], [style*=\"; color: \" i]):not(:is([style^=\"color:var(--titlelight\" i], [style*=\";color:var(--titlelight\" i], [style*=\"; color:var(--titlelight\" i], [style^=\"color: var(--titlelight\" i], [style*=\";color: var(--titlelight\" i], [style*=\"; color: var(--titlelight\" i])))){\n  color: #1F1F1F !important;\n}",
+                                "raw_js": "",
+                                "site_custom_code_head": "<link rel=\"stylesheet\" href=\"https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:ital,wght@0,200..800;1,200..800&display=swap\">",
+                                "raw_deps_site": "[{\"id\":\"imported_vqtbjuw\",\"name\":\"Plus Jakarta Sans\",\"v\":\"—\",\"kind\":\"style\",\"url\":\"https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:ital,wght@0,200..800;1,200..800&display=swap\",\"attrs\":[],\"position\":\"before\",\"enabled\":true,\"brief\":\"Imported from editor\",\"category\":\"Imported\"}]",
+                                "plus_tooltip_content_desc": "Luctus nec ullamcorper mattis",
+                                "page_custom_code_head": "<title>Careers at Ostra | Join Our Team</title>\n<meta name=\"description\" content=\"Join Ostra&#039;s talented team in Lisbon or remotely. Explore open positions and discover life at our senior branding studio.\" />\n<meta property=\"og:image\" content=\"https://inventorganization.s3-tastewp.com/wp-content/uploads/2026/11/b16f43f4e8812be6.jpg\" data-id=\"189\" />"
+                            },
+                            "defaultEditSettings": {
+                                "defaultEditRoute": "content"
+                            },
+                            "interactions": [],
+                            "elements": [],
+                            "title": "Composer",
+                            "categories": [
+                                "uichemy"
+                            ],
+                            "keywords": [
+                                "html",
+                                "composer",
+                                "dynamic",
+                                "text"
+                            ],
+                            "icon": "eicon-code",
+                            "widgetType": "uichemy-builder",
+                            "hideOnSearch": false,
+                            "editSettings": {
+                                "defaultEditRoute": "content",
+                                "panel": {
+                                    "activeTab": "style",
+                                    "activeSection": "section_style"
+                                }
+                            }
+                        }
+                    ],
+                    "editSettings": {
+                        "defaultEditRoute": "layout",
+                        "panel": {
+                            "activeTab": "layout",
+                            "activeSection": "section_layout_container"
+                        }
+                    }
+                },
+                {
+                    "id": "mcfttya",
+                    "elType": "container",
+                    "isInner": false,
+                    "isLocked": false,
+                    "settings": {
+                        "content_width": "full",
+                        "padding": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": true
+                        },
+                        "margin": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": true
+                        },
+                        "flex_gap": {
+                            "unit": "px",
+                            "size": 0,
+                            "sizes": [],
+                            "column": "0",
+                            "row": "0",
+                            "isLinked": true
+                        },
+                        "MSFrame": [
+                            {
+                                "msitem_name": "Effect 1",
+                                "_id": "7ru0m8r",
+                                "videoSelectorMs": ".tp-video-element",
+                                "svgSelectorMs": ".tp-svg-path"
+                            }
+                        ],
+                        "as_bs_lists": [],
+                        "as_bs_lists_h": [],
+                        "as_ts_lists": [],
+                        "as_ts_lists_h": [],
+                        "as_ds_lists": [],
+                        "as_ds_lists_h": [],
+                        "tp_display_rules": [
+                            {
+                                "_id": "re6e9zk"
+                            }
+                        ],
+                        "eventRepeater": [
+                            {
+                                "_id": "vfr8zra"
+                            }
+                        ]
+                    },
+                    "defaultEditSettings": {
+                        "defaultEditRoute": "content"
+                    },
+                    "interactions": [],
+                    "elements": [
+                        {
+                            "id": "eo98up2",
+                            "elType": "widget",
+                            "isInner": false,
+                            "isLocked": false,
+                            "settings": {
+                                "raw_html": "<div data-uichemy-root=\"\"><div class=\"sy18 bg-bgLight1 relative z-10\" style=\"background-color:var(--bglight1, #f2efe9); z-index:10\"><div data-template-id=\"b991bd8903b1a9e50614ecff\" class=\"uichemy-container flex flex-col gap-14 uichemy-max-md-gap-10-1opchcl\"><div class=\"flex flex-col gap-5\"><h5 class=\"uichemy-badge uichemy-caption-xs-bold w-fit animate-description-animation sy18-eyebrow uichemy-tracking-0-16em-1pnpewg uppercase\"><span>Hiring now</span></h5><h2 class=\"uichemy-heading-2xl-semibold uppercase text-titleLight animate-title-animation\" style=\"color:var(--titlelight, #1f1f1f)\">Open positions</h2></div><div class=\"flex flex-col gap-5 animate-grid-layout-animation\"><input type=\"radio\" id=\"sy18-none\" class=\"absolute w-px h-px opacity-0 pointer-events-none\" aria-label=\"Collapse all\" name=\"sy18-acc\"><div class=\"sy18-item\"><label class=\"sy18-card uichemy-accordion-item uichemy-card card-shadow bg-bgLight2 rounded-card-radius-sm relative grid uichemy-grid-cols-minmax-0-auto-minmax-0-1fr-auto-1fa0dbh uichemy-max-767px-grid-cols-1fr-auto-8r8gdi uichemy-max-767px-gap-y-1-5-3pgvy3 items-start gap-8 p-8 uichemy-max-md-gap-5-1lsx0zl uichemy-max-md-p-6-xiikf8 cursor-pointer\" style=\"background-color:var(--bglight2, #e8e3d8); border-color:var(--neutral, #d6d6d6); --uichemy-accordion-max:900px\"><input type=\"radio\" name=\"sy18-acc\" checked=\"\"><span class=\"sy18-num uichemy-heading-2xl-semibold select-none uichemy-leading-0-72-1fazl95 uichemy-color-transparent-1fns5lu uichemy-webkit-text-stroke-1-5px-var-color-neutral-160afl3\" aria-hidden=\"true\">01.</span><div class=\"sy18-main min-w-0 uichemy-max-767px-col-span-2-mehy5c uichemy-container-s97rsy\"><div class=\"sy18-head flex cursor-pointer flex-col gap-2 uichemy-hover-sy18-title-text-primary-n8exxc\"><h3 class=\"sy18-title uichemy-heading-sm-semibold uppercase text-titleLight\" style=\"color:var(--titlelight, #1f1f1f)\">Senior Product Designer</h3><p class=\"uichemy-body-md-regular text-descriptionLight\" style=\"color:var(--descriptionlight, #454545)\">Design team · Lisbon / Remote (EU) · Full-time</p></div><div class=\"uichemy-accordion-body sy18-panel\"><div class=\"sy18-panel-clip overflow-hidden min-h-0\"><div class=\"sy18-panel-inner grid uichemy-grid-cols-0-85fr-1fr-1enyrjp uichemy-max-460px-grid-cols-1-1k0oaao uichemy-max-460px-gap-5-1gjvnqs gap-8 pt-6\"><div class=\"sy18-media overflow-hidden rounded-card-radius-sm\"><img src=\"https://inventorganization.s3-tastewp.com/wp-content/uploads/2026/11/f5e8c5c93a4e8874.webp\" alt=\"Portrait of Senior Product Designer\" loading=\"lazy\" class=\"sy18-img uichemy-h-240px-2a6lh4 uichemy-max-767px-h-200px-ejpvmv w-full rounded-card-radius-sm object-cover\" width=\"1536\" height=\"894\"></div><div class=\"flex flex-col justify-center gap-6\"><ul class=\"flex flex-col gap-4\"><li class=\"flex items-center gap-3\"><svg data-icon=\"icon_url_allc4m1knn\" class=\"shrink-0 text-primary\" style=\"color:var(--primary, #f35422)\" width=\"18\" height=\"18\" viewBox=\"0 0 24 24\" fill=\"none\" aria-hidden=\"true\"><path d=\"M12 2l2.2 6.2L20 10l-5.8 1.8L12 18l-2.2-6.2L4 10l5.8-1.8L12 2z\" fill=\"currentColor\"></path></svg><span class=\"uichemy-body-lg-medium text-titleLight\" style=\"color:var(--titlelight, #1f1f1f)\">Own Product Flows End to End</span></li><li class=\"flex items-center gap-3\"><svg data-icon=\"icon_url_allc4m1knn\" class=\"shrink-0 text-primary\" style=\"color:var(--primary, #f35422)\" width=\"18\" height=\"18\" viewBox=\"0 0 24 24\" fill=\"none\" aria-hidden=\"true\"><path d=\"M12 2l2.2 6.2L20 10l-5.8 1.8L12 18l-2.2-6.2L4 10l5.8-1.8L12 2z\" fill=\"currentColor\"></path></svg><span class=\"uichemy-body-lg-medium text-titleLight\" style=\"color:var(--titlelight, #1f1f1f)\">Client Discovery</span></li><li class=\"flex items-center gap-3\"><svg data-icon=\"icon_url_allc4m1knn\" class=\"shrink-0 text-primary\" style=\"color:var(--primary, #f35422)\" width=\"18\" height=\"18\" viewBox=\"0 0 24 24\" fill=\"none\" aria-hidden=\"true\"><path d=\"M12 2l2.2 6.2L20 10l-5.8 1.8L12 18l-2.2-6.2L4 10l5.8-1.8L12 2z\" fill=\"currentColor\"></path></svg><span class=\"uichemy-body-lg-medium text-titleLight\" style=\"color:var(--titlelight, #1f1f1f)\">Shape Design Systems</span></li></ul><a href=\"#\" class=\"sy18-cta uichemy-btn-primary uichemy-body-md-semibold uppercase w-fit animate-button-animation\"><span>Apply now</span><svg data-icon=\"icon_url_l9fudxs6ix\" class=\"sy18-cta-arrow shrink-0\" width=\"16\" height=\"16\" viewBox=\"0 0 24 24\" fill=\"none\" aria-hidden=\"true\"><path d=\"M7 17L17 7M9 7h8v8\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path></svg></a></div></div></div></div></div><div aria-label=\"Toggle details\" class=\"uichemy-accordion-icon sy18-toggle shrink-0 w-6 h-6 uichemy-max-767px-w-11-1gygppg uichemy-max-767px-h-11-1gysfh7 p-0 relative inline-flex items-center justify-center\"><div class=\"sy18-toggle-btn shrink-0\" aria-hidden=\"true\"><span class=\"sy18-bar-h absolute w-4 uichemy-h-0-5-2z6j3f rounded-badge-radius-full bg-titleLight\" style=\"background-color:var(--titlelight, #1f1f1f)\"></span><span class=\"sy18-bar-v absolute h-4 uichemy-w-0-5-34m838 rounded-badge-radius-full bg-titleLight\" style=\"background-color:var(--titlelight, #1f1f1f)\"></span></div></div></label><label for=\"sy18-none\" class=\"sy18-close\" aria-label=\"Collapse details\"></label></div><div class=\"sy18-item\"><label class=\"sy18-card uichemy-accordion-item uichemy-card card-shadow bg-bgLight2 rounded-card-radius-sm relative grid uichemy-grid-cols-minmax-0-auto-minmax-0-1fr-auto-1fa0dbh uichemy-max-767px-grid-cols-1fr-auto-8r8gdi uichemy-max-767px-gap-y-1-5-3pgvy3 items-start gap-8 p-8 uichemy-max-md-gap-5-1lsx0zl uichemy-max-md-p-6-xiikf8 cursor-pointer\" style=\"background-color:var(--bglight2, #e8e3d8); border-color:var(--neutral, #d6d6d6); --uichemy-accordion-max:900px\"><input type=\"radio\" name=\"sy18-acc\"><span class=\"sy18-num uichemy-heading-2xl-semibold select-none uichemy-leading-0-72-1fazl95 uichemy-color-transparent-1fns5lu uichemy-webkit-text-stroke-1-5px-var-color-neutral-160afl3\" aria-hidden=\"true\">02.</span><div class=\"sy18-main min-w-0 uichemy-max-767px-col-span-2-mehy5c uichemy-container-s97rsy\"><div class=\"sy18-head flex cursor-pointer flex-col gap-2 uichemy-hover-sy18-title-text-primary-n8exxc\"><h3 class=\"sy18-title uichemy-heading-sm-semibold uppercase text-titleLight\" style=\"color:var(--titlelight, #1f1f1f)\">Motion Designer</h3><p class=\"uichemy-body-md-regular text-descriptionLight\" style=\"color:var(--descriptionlight, #454545)\">Motion team · Remote across the EU · Full-time</p></div><div class=\"uichemy-accordion-body sy18-panel\"><div class=\"sy18-panel-clip overflow-hidden min-h-0\"><div class=\"sy18-panel-inner grid uichemy-grid-cols-0-85fr-1fr-1enyrjp uichemy-max-460px-grid-cols-1-1k0oaao uichemy-max-460px-gap-5-1gjvnqs gap-8 pt-6\"><div class=\"sy18-media overflow-hidden rounded-card-radius-sm\"><img src=\"https://inventorganization.s3-tastewp.com/wp-content/uploads/2026/11/239ce32eeac3191f.webp\" alt=\"Portrait of Motion Designer\" loading=\"lazy\" class=\"sy18-img uichemy-h-240px-2a6lh4 uichemy-max-767px-h-200px-ejpvmv w-full rounded-card-radius-sm object-cover\" width=\"1536\" height=\"894\"></div><div class=\"flex flex-col justify-center gap-6\"><ul class=\"flex flex-col gap-4\"><li class=\"flex items-center gap-3\"><svg data-icon=\"icon_url_allc4m1knn\" class=\"shrink-0 text-primary\" style=\"color:var(--primary, #f35422)\" width=\"18\" height=\"18\" viewBox=\"0 0 24 24\" fill=\"none\" aria-hidden=\"true\"><path d=\"M12 2l2.2 6.2L20 10l-5.8 1.8L12 18l-2.2-6.2L4 10l5.8-1.8L12 2z\" fill=\"currentColor\"></path></svg><span class=\"uichemy-body-lg-medium text-titleLight\" style=\"color:var(--titlelight, #1f1f1f)\">Animated Ads</span></li><li class=\"flex items-center gap-3\"><svg data-icon=\"icon_url_allc4m1knn\" class=\"shrink-0 text-primary\" style=\"color:var(--primary, #f35422)\" width=\"18\" height=\"18\" viewBox=\"0 0 24 24\" fill=\"none\" aria-hidden=\"true\"><path d=\"M12 2l2.2 6.2L20 10l-5.8 1.8L12 18l-2.2-6.2L4 10l5.8-1.8L12 2z\" fill=\"currentColor\"></path></svg><span class=\"uichemy-body-lg-medium text-titleLight\" style=\"color:var(--titlelight, #1f1f1f)\">UI & Product Animation</span></li><li class=\"flex items-center gap-3\"><svg data-icon=\"icon_url_allc4m1knn\" class=\"shrink-0 text-primary\" style=\"color:var(--primary, #f35422)\" width=\"18\" height=\"18\" viewBox=\"0 0 24 24\" fill=\"none\" aria-hidden=\"true\"><path d=\"M12 2l2.2 6.2L20 10l-5.8 1.8L12 18l-2.2-6.2L4 10l5.8-1.8L12 2z\" fill=\"currentColor\"></path></svg><span class=\"uichemy-body-lg-medium text-titleLight\" style=\"color:var(--titlelight, #1f1f1f)\">Storyboards & Style Frames</span></li></ul><a href=\"#\" class=\"sy18-cta uichemy-btn-primary uichemy-body-md-semibold uppercase w-fit animate-button-animation\"><span>Apply now</span><svg data-icon=\"icon_url_l9fudxs6ix\" class=\"sy18-cta-arrow shrink-0\" width=\"16\" height=\"16\" viewBox=\"0 0 24 24\" fill=\"none\" aria-hidden=\"true\"><path d=\"M7 17L17 7M9 7h8v8\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path></svg></a></div></div></div></div></div><div aria-label=\"Toggle details\" class=\"uichemy-accordion-icon sy18-toggle shrink-0 w-6 h-6 uichemy-max-767px-w-11-1gygppg uichemy-max-767px-h-11-1gysfh7 p-0 relative inline-flex items-center justify-center\"><div class=\"sy18-toggle-btn shrink-0\" aria-hidden=\"true\"><span class=\"sy18-bar-h absolute w-4 uichemy-h-0-5-2z6j3f rounded-badge-radius-full bg-titleLight\" style=\"background-color:var(--titlelight, #1f1f1f)\"></span><span class=\"sy18-bar-v absolute h-4 uichemy-w-0-5-34m838 rounded-badge-radius-full bg-titleLight\" style=\"background-color:var(--titlelight, #1f1f1f)\"></span></div></div></label><label for=\"sy18-none\" class=\"sy18-close\" aria-label=\"Collapse details\"></label></div><div class=\"sy18-item\"><label class=\"sy18-card uichemy-accordion-item uichemy-card card-shadow bg-bgLight2 rounded-card-radius-sm relative grid uichemy-grid-cols-minmax-0-auto-minmax-0-1fr-auto-1fa0dbh uichemy-max-767px-grid-cols-1fr-auto-8r8gdi uichemy-max-767px-gap-y-1-5-3pgvy3 items-start gap-8 p-8 uichemy-max-md-gap-5-1lsx0zl uichemy-max-md-p-6-xiikf8 cursor-pointer\" style=\"background-color:var(--bglight2, #e8e3d8); border-color:var(--neutral, #d6d6d6); --uichemy-accordion-max:900px\"><input type=\"radio\" name=\"sy18-acc\"><span class=\"sy18-num uichemy-heading-2xl-semibold select-none uichemy-leading-0-72-1fazl95 uichemy-color-transparent-1fns5lu uichemy-webkit-text-stroke-1-5px-var-color-neutral-160afl3\" aria-hidden=\"true\">03.</span><div class=\"sy18-main min-w-0 uichemy-max-767px-col-span-2-mehy5c uichemy-container-s97rsy\"><div class=\"sy18-head flex cursor-pointer flex-col gap-2 uichemy-hover-sy18-title-text-primary-n8exxc\"><h3 class=\"sy18-title uichemy-heading-sm-semibold uppercase text-titleLight\" style=\"color:var(--titlelight, #1f1f1f)\">Webflow Developer</h3><p class=\"uichemy-body-md-regular text-descriptionLight\" style=\"color:var(--descriptionlight, #454545)\">Web team · Remote across the EU · Full-time</p></div><div class=\"uichemy-accordion-body sy18-panel\"><div class=\"sy18-panel-clip overflow-hidden min-h-0\"><div class=\"sy18-panel-inner grid uichemy-grid-cols-0-85fr-1fr-1enyrjp uichemy-max-460px-grid-cols-1-1k0oaao uichemy-max-460px-gap-5-1gjvnqs gap-8 pt-6\"><div class=\"sy18-media overflow-hidden rounded-card-radius-sm\"><img src=\"https://inventorganization.s3-tastewp.com/wp-content/uploads/2026/11/3c9c1cc1af7f3af2.webp\" alt=\"Portrait of Webflow Developer\" loading=\"lazy\" class=\"sy18-img uichemy-h-240px-2a6lh4 uichemy-max-767px-h-200px-ejpvmv w-full rounded-card-radius-sm object-cover\" width=\"1536\" height=\"894\"></div><div class=\"flex flex-col justify-center gap-6\"><ul class=\"flex flex-col gap-4\"><li class=\"flex items-center gap-3\"><svg data-icon=\"icon_url_allc4m1knn\" class=\"shrink-0 text-primary\" style=\"color:var(--primary, #f35422)\" width=\"18\" height=\"18\" viewBox=\"0 0 24 24\" fill=\"none\" aria-hidden=\"true\"><path d=\"M12 2l2.2 6.2L20 10l-5.8 1.8L12 18l-2.2-6.2L4 10l5.8-1.8L12 2z\" fill=\"currentColor\"></path></svg><span class=\"uichemy-body-lg-medium text-titleLight\" style=\"color:var(--titlelight, #1f1f1f)\">Webflow & WordPress</span></li><li class=\"flex items-center gap-3\"><svg data-icon=\"icon_url_allc4m1knn\" class=\"shrink-0 text-primary\" style=\"color:var(--primary, #f35422)\" width=\"18\" height=\"18\" viewBox=\"0 0 24 24\" fill=\"none\" aria-hidden=\"true\"><path d=\"M12 2l2.2 6.2L20 10l-5.8 1.8L12 18l-2.2-6.2L4 10l5.8-1.8L12 2z\" fill=\"currentColor\"></path></svg><span class=\"uichemy-body-lg-medium text-titleLight\" style=\"color:var(--titlelight, #1f1f1f)\">Fast, Accessible Front Ends</span></li><li class=\"flex items-center gap-3\"><svg data-icon=\"icon_url_allc4m1knn\" class=\"shrink-0 text-primary\" style=\"color:var(--primary, #f35422)\" width=\"18\" height=\"18\" viewBox=\"0 0 24 24\" fill=\"none\" aria-hidden=\"true\"><path d=\"M12 2l2.2 6.2L20 10l-5.8 1.8L12 18l-2.2-6.2L4 10l5.8-1.8L12 2z\" fill=\"currentColor\"></path></svg><span class=\"uichemy-body-lg-medium text-titleLight\" style=\"color:var(--titlelight, #1f1f1f)\">QA & Launch Support</span></li></ul><a href=\"#\" class=\"sy18-cta uichemy-btn-primary uichemy-body-md-semibold uppercase w-fit animate-button-animation\"><span>Apply now</span><svg data-icon=\"icon_url_l9fudxs6ix\" class=\"sy18-cta-arrow shrink-0\" width=\"16\" height=\"16\" viewBox=\"0 0 24 24\" fill=\"none\" aria-hidden=\"true\"><path d=\"M7 17L17 7M9 7h8v8\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path></svg></a></div></div></div></div></div><div aria-label=\"Toggle details\" class=\"uichemy-accordion-icon sy18-toggle shrink-0 w-6 h-6 uichemy-max-767px-w-11-1gygppg uichemy-max-767px-h-11-1gysfh7 p-0 relative inline-flex items-center justify-center\"><div class=\"sy18-toggle-btn shrink-0\" aria-hidden=\"true\"><span class=\"sy18-bar-h absolute w-4 uichemy-h-0-5-2z6j3f rounded-badge-radius-full bg-titleLight\" style=\"background-color:var(--titlelight, #1f1f1f)\"></span><span class=\"sy18-bar-v absolute h-4 uichemy-w-0-5-34m838 rounded-badge-radius-full bg-titleLight\" style=\"background-color:var(--titlelight, #1f1f1f)\"></span></div></div></label><label for=\"sy18-none\" class=\"sy18-close\" aria-label=\"Collapse details\"></label></div><div class=\"sy18-item\"><label class=\"sy18-card uichemy-accordion-item uichemy-card card-shadow bg-bgLight2 rounded-card-radius-sm relative grid uichemy-grid-cols-minmax-0-auto-minmax-0-1fr-auto-1fa0dbh uichemy-max-767px-grid-cols-1fr-auto-8r8gdi uichemy-max-767px-gap-y-1-5-3pgvy3 items-start gap-8 p-8 uichemy-max-md-gap-5-1lsx0zl uichemy-max-md-p-6-xiikf8 cursor-pointer\" style=\"background-color:var(--bglight2, #e8e3d8); border-color:var(--neutral, #d6d6d6); --uichemy-accordion-max:900px\"><input type=\"radio\" name=\"sy18-acc\"><span class=\"sy18-num uichemy-heading-2xl-semibold select-none uichemy-leading-0-72-1fazl95 uichemy-color-transparent-1fns5lu uichemy-webkit-text-stroke-1-5px-var-color-neutral-160afl3\" aria-hidden=\"true\">04.</span><div class=\"sy18-main min-w-0 uichemy-max-767px-col-span-2-mehy5c uichemy-container-s97rsy\"><div class=\"sy18-head flex cursor-pointer flex-col gap-2 uichemy-hover-sy18-title-text-primary-n8exxc\"><h3 class=\"sy18-title uichemy-heading-sm-semibold uppercase text-titleLight\" style=\"color:var(--titlelight, #1f1f1f)\">Growth Marketing Manager</h3><p class=\"uichemy-body-md-regular text-descriptionLight\" style=\"color:var(--descriptionlight, #454545)\">Growth team · Lisbon studio · Full-time</p></div><div class=\"uichemy-accordion-body sy18-panel\"><div class=\"sy18-panel-clip overflow-hidden min-h-0\"><div class=\"sy18-panel-inner grid uichemy-grid-cols-0-85fr-1fr-1enyrjp uichemy-max-460px-grid-cols-1-1k0oaao uichemy-max-460px-gap-5-1gjvnqs gap-8 pt-6\"><div class=\"sy18-media overflow-hidden rounded-card-radius-sm\"><img src=\"https://inventorganization.s3-tastewp.com/wp-content/uploads/2026/11/a0af18ad7f74ef0f.webp\" alt=\"Portrait of Growth Marketing Manager\" loading=\"lazy\" class=\"sy18-img uichemy-h-240px-2a6lh4 uichemy-max-767px-h-200px-ejpvmv w-full rounded-card-radius-sm object-cover\" width=\"1536\" height=\"894\"></div><div class=\"flex flex-col justify-center gap-6\"><ul class=\"flex flex-col gap-4\"><li class=\"flex items-center gap-3\"><svg data-icon=\"icon_url_allc4m1knn\" class=\"shrink-0 text-primary\" style=\"color:var(--primary, #f35422)\" width=\"18\" height=\"18\" viewBox=\"0 0 24 24\" fill=\"none\" aria-hidden=\"true\"><path d=\"M12 2l2.2 6.2L20 10l-5.8 1.8L12 18l-2.2-6.2L4 10l5.8-1.8L12 2z\" fill=\"currentColor\"></path></svg><span class=\"uichemy-body-lg-medium text-titleLight\" style=\"color:var(--titlelight, #1f1f1f)\">Campaign Planning</span></li><li class=\"flex items-center gap-3\"><svg data-icon=\"icon_url_allc4m1knn\" class=\"shrink-0 text-primary\" style=\"color:var(--primary, #f35422)\" width=\"18\" height=\"18\" viewBox=\"0 0 24 24\" fill=\"none\" aria-hidden=\"true\"><path d=\"M12 2l2.2 6.2L20 10l-5.8 1.8L12 18l-2.2-6.2L4 10l5.8-1.8L12 2z\" fill=\"currentColor\"></path></svg><span class=\"uichemy-body-lg-medium text-titleLight\" style=\"color:var(--titlelight, #1f1f1f)\">Conversion Testing & CRO</span></li><li class=\"flex items-center gap-3\"><svg data-icon=\"icon_url_allc4m1knn\" class=\"shrink-0 text-primary\" style=\"color:var(--primary, #f35422)\" width=\"18\" height=\"18\" viewBox=\"0 0 24 24\" fill=\"none\" aria-hidden=\"true\"><path d=\"M12 2l2.2 6.2L20 10l-5.8 1.8L12 18l-2.2-6.2L4 10l5.8-1.8L12 2z\" fill=\"currentColor\"></path></svg><span class=\"uichemy-body-lg-medium text-titleLight\" style=\"color:var(--titlelight, #1f1f1f)\">Paid Social & Email Flows</span></li></ul><a href=\"#\" class=\"sy18-cta uichemy-btn-primary uichemy-body-md-semibold uppercase w-fit animate-button-animation\"><span>Apply now</span><svg data-icon=\"icon_url_l9fudxs6ix\" class=\"sy18-cta-arrow shrink-0\" width=\"16\" height=\"16\" viewBox=\"0 0 24 24\" fill=\"none\" aria-hidden=\"true\"><path d=\"M7 17L17 7M9 7h8v8\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path></svg></a></div></div></div></div></div><div aria-label=\"Toggle details\" class=\"uichemy-accordion-icon sy18-toggle shrink-0 w-6 h-6 uichemy-max-767px-w-11-1gygppg uichemy-max-767px-h-11-1gysfh7 p-0 relative inline-flex items-center justify-center\"><div class=\"sy18-toggle-btn shrink-0\" aria-hidden=\"true\"><span class=\"sy18-bar-h absolute w-4 uichemy-h-0-5-2z6j3f rounded-badge-radius-full bg-titleLight\" style=\"background-color:var(--titlelight, #1f1f1f)\"></span><span class=\"sy18-bar-v absolute h-4 uichemy-w-0-5-34m838 rounded-badge-radius-full bg-titleLight\" style=\"background-color:var(--titlelight, #1f1f1f)\"></span></div></div></label><label for=\"sy18-none\" class=\"sy18-close\" aria-label=\"Collapse details\"></label></div></div></div></div></div>",
+                                "raw_css": ":where(img[width][height]){height:auto}\n*{font-family:'Syne', ui-sans-serif, system-ui, sans-serif !important}\n[data-uichemy-root]{--font-sans:ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\";--spacing:.25rem;--default-font-family:var(--font-sans);--shadow-button-shadow-normal:0 4px 20px #0000000f;--shadow-button-shadow-hover:0 12px 40px #000c;--shadow-card-shadow-normal:0 4px 20px #0000000f;--shadow-card-shadow-hover:0 12px 40px #0000001f;--shadow-image-shadow-normal:none;--shadow-image-shadow-hover:none;--shadow-input-field-shadow-normal:0 4px 20px #0000000f;--shadow-input-field-shadow-focus:none;--animate-title-animation:fade-up .6s ease-out forwards;--animate-description-animation:fade-up .6s ease-out forwards;--animate-button-animation:fade-up .6s ease-out forwards;--animate-grid-layout-animation:fade-up .6s ease-out forwards;--foreground:oklch(14.5% 0 0);--border:oklch(92.2% 0 0);--ring:oklch(70.8% 0 0);-webkit-text-size-adjust:100%;tab-size:4;line-height:1.5;font-family:var(--default-font-family,ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\");font-feature-settings:var(--default-font-feature-settings,normal);font-variation-settings:var(--default-font-variation-settings,normal);color:var(--foreground)}\n*,:after,:before,::backdrop{box-sizing:border-box;border:0 solid;margin:0;padding:0}\n::file-selector-button{box-sizing:border-box;border:0 solid;margin:0;padding:0}\nh2,h3,h5{font-size:inherit;font-weight:inherit}\na{color:inherit;-webkit-text-decoration:inherit;-webkit-text-decoration:inherit;-webkit-text-decoration:inherit;text-decoration:inherit}\n:-moz-focusring{outline:auto}\nul{list-style:none}\nimg,svg{vertical-align:middle;display:block}\nimg{max-width:100%;height:auto}\ninput{font:inherit;font-feature-settings:inherit;font-variation-settings:inherit;letter-spacing:inherit;color:inherit;opacity:1;background-color:#0000;border-radius:0}\n::file-selector-button{font:inherit;font-feature-settings:inherit;font-variation-settings:inherit;letter-spacing:inherit;color:inherit;opacity:1;background-color:#0000;border-radius:0}\n::file-selector-button{margin-inline-end:4px}\n::placeholder{opacity:1}\n@supports (not ((-webkit-appearance:-apple-pay-button))) or (contain-intrinsic-size:1px){::placeholder{color:currentColor}@supports (color:color-mix(in lab, red, red)){::placeholder{color:color-mix(in oklab, currentcolor 50%, transparent)}}}\n::-webkit-search-decoration{-webkit-appearance:none}\n::-webkit-date-and-time-value{min-height:1lh;text-align:inherit}\n::-webkit-datetime-edit{display:inline-flex}\n::-webkit-datetime-edit-fields-wrapper{padding:0}\n::-webkit-datetime-edit{padding-block:0}\n::-webkit-datetime-edit-year-field{padding-block:0}\n::-webkit-datetime-edit-month-field{padding-block:0}\n::-webkit-datetime-edit-day-field{padding-block:0}\n::-webkit-datetime-edit-hour-field{padding-block:0}\n::-webkit-datetime-edit-minute-field{padding-block:0}\n::-webkit-datetime-edit-second-field{padding-block:0}\n::-webkit-datetime-edit-millisecond-field{padding-block:0}\n::-webkit-datetime-edit-meridiem-field{padding-block:0}\n::-webkit-calendar-picker-indicator{line-height:1}\n:-moz-ui-invalid{box-shadow:none}\ninput:where([type=button],[type=reset],[type=submit]){appearance:button}\n::file-selector-button{appearance:button}\n::-webkit-inner-spin-button{height:auto}\n::-webkit-outer-spin-button{height:auto}\n[hidden]:where(:not([hidden=until-found])){display:none!important}\n*{border-color:var(--border);outline-color:var(--ring)}\n@supports (color:color-mix(in lab, red, red)){*{outline-color:color-mix(in oklab, var(--ring) 50%, transparent)}}\n.uichemy-container-s97rsy{container-type:inline-size}\n.uichemy-accordion-item>input{opacity:0;pointer-events:none;clip-path:inset(50%);width:1px;height:1px;position:absolute}\n.uichemy-accordion-item>input:checked~.uichemy-accordion-body,.uichemy-accordion-item>input:checked~* .uichemy-accordion-body{max-height:var(--uichemy-accordion-max,320px);opacity:1}\n.uichemy-accordion-item>input:checked~.uichemy-accordion-icon,.uichemy-accordion-item>input:checked~* .uichemy-accordion-icon{transform:rotate(45deg)}\n.pointer-events-none{pointer-events:none}\n.absolute{position:absolute}\n.relative{position:relative}\n.z-10{z-index:10}\n.flex{display:flex}\n.grid{display:grid}\n.inline-flex{display:inline-flex}\n.uichemy-h-0-5-2z6j3f{height:calc(var(--spacing) * .5)}\n.h-4{height:calc(var(--spacing) * 4)}\n.h-6{height:calc(var(--spacing) * 6)}\n.uichemy-h-240px-2a6lh4{height:240px}\n.h-px{height:1px}\n.uichemy-accordion-body{opacity:0;max-height:0;transition:max-height .35s,opacity .25s;overflow:hidden}\n.min-h-0{min-height:calc(var(--spacing) * 0)}\n.uichemy-w-0-5-34m838{width:calc(var(--spacing) * .5)}\n.w-4{width:calc(var(--spacing) * 4)}\n.w-6{width:calc(var(--spacing) * 6)}\n.w-fit{width:fit-content}\n.w-full{width:100%}\n.w-px{width:1px}\n.min-w-0{min-width:calc(var(--spacing) * 0)}\n.shrink-0{flex-shrink:0}\n.animate-grid-layout-animation{animation:var(--animate-grid-layout-animation)}\n.cursor-pointer{cursor:pointer}\n.uichemy-grid-cols-0-85fr-1fr-1enyrjp{grid-template-columns:.85fr 1fr}\n.uichemy-grid-cols-minmax-0-auto-minmax-0-1fr-auto-1fa0dbh{grid-template-columns:minmax(0,auto) minmax(0,1fr) auto}\n.flex-col{flex-direction:column}\n.items-center{align-items:center}\n.items-start{align-items:flex-start}\n.justify-center{justify-content:center}\n.gap-2{gap:calc(var(--spacing) * 2)}\n.gap-3{gap:calc(var(--spacing) * 3)}\n.gap-4{gap:calc(var(--spacing) * 4)}\n.gap-5{gap:calc(var(--spacing) * 5)}\n.gap-6{gap:calc(var(--spacing) * 6)}\n.gap-8{gap:calc(var(--spacing) * 8)}\n.gap-14{gap:calc(var(--spacing) * 14)}\n.overflow-hidden{overflow:hidden}\n.rounded-badge-radius-full{border-radius:var(--badge-radius-full, 9999px)}\n.rounded-card-radius-sm{border-radius:var(--card-radius-sm, 20px)}\n.bg-bgLight1{background-color:var(--bglight1, #FFFFFF)}\n.bg-bgLight2{background-color:var(--bglight2, #F9F9FB)}\n.bg-titleLight{background-color:var(--titlelight, #0D0D0D)}\n.object-cover{object-fit:cover}\n.p-0{padding:calc(var(--spacing) * 0)}\n.p-8{padding:calc(var(--spacing) * 8)}\n.pt-6{padding-top:calc(var(--spacing) * 6)}\n.uichemy-leading-0-72-1fazl95{line-height:.72}\n.uichemy-tracking-0-16em-1pnpewg{letter-spacing:.16em}\n.uichemy-color-transparent-1fns5lu{color:#0000}\n.text-descriptionLight{color:var(--descriptionlight, #808080)}\n.text-primary{color:var(--primary)}\n.text-titleLight{color:var(--titlelight, #0D0D0D)}\n.uppercase{text-transform:uppercase}\n.opacity-0{opacity:0}\n.select-none{-webkit-user-select:none;user-select:none}\n.uichemy-webkit-text-stroke-1-5px-var-color-neutral-160afl3{-webkit-text-stroke:1.5px var(--neutral, #D6D6D6)}\n.uichemy-accordion-icon{transition:transform .3s}\n@media not all and (min-width:767px){.uichemy-max-767px-col-span-2-mehy5c{grid-column:span 2/span 2}.uichemy-max-767px-h-11-1gysfh7{height:calc(var(--spacing) * 11)}.uichemy-max-767px-h-200px-ejpvmv{height:200px}.uichemy-max-767px-w-11-1gygppg{width:calc(var(--spacing) * 11)}.uichemy-max-767px-grid-cols-1fr-auto-8r8gdi{grid-template-columns:1fr auto}.uichemy-max-767px-gap-y-1-5-3pgvy3{row-gap:calc(var(--spacing) * 1.5)}}\n@media not all and (min-width:48rem){.uichemy-max-md-gap-5-1lsx0zl{gap:calc(var(--spacing) * 5)}.uichemy-max-md-gap-10-1opchcl{gap:calc(var(--spacing) * 10)}.uichemy-max-md-p-6-xiikf8{padding:calc(var(--spacing) * 6)}}\n@container not (min-width:460px){.uichemy-max-460px-grid-cols-1-1k0oaao{grid-template-columns:repeat(1,minmax(0,1fr))}.uichemy-max-460px-gap-5-1gjvnqs{gap:calc(var(--spacing) * 5)}}\n.uichemy-hover-sy18-title-text-primary-n8exxc:hover .sy18-title{color:var(--primary)}\n.animate-grid-layout-animation>*{opacity:0;animation:var(--animate-grid-layout-animation)}\n.animate-title-animation{animation:var(--animate-title-animation)!important}\n.animate-description-animation{animation:var(--animate-description-animation)!important}\n.animate-button-animation{animation:var(--animate-button-animation)!important}\nimg[src^=image_url_],img[src^=logo_url_],img[src^=portrait_image_url_]{visibility:hidden;color:#0000;background-color:#0000;font-size:0}\nimg[data-uichemy-logo-inline-src]:has(+svg[data-uichemy-logo-inline-src]){display:none!important}\n.uichemy-card,.card-shadow{border:1px solid var(--neutral, #D6D6D6);box-shadow:var(--shadow-card-shadow-normal);background-color:#0000;transition:box-shadow .3s linear,border-color .3s linear,background .3s linear}\n.uichemy-card:hover,.card-shadow:hover{box-shadow:var(--shadow-card-shadow-hover)}\n.uichemy-badge{padding:var(--badge-padding-y,6px) var(--badge-padding-x,14px);border:var(--border-width-full,1px) solid var(--neutral, #D6D6D6);border-radius:var(--badge-radius,var(--badge-radius-full,9999px));background-color:var(--bglight2);color:var(--titlelight, #0D0D0D);justify-content:center;align-items:center;gap:6px;display:inline-flex}\n.uichemy-container{max-width:1440px;margin:auto;padding:80px 100px}\n.uichemy-btn-primary{border-radius:var(--Button-radius-xxs,6px);background-color:var(--primary);color:var(--uc-btn-label-color,var(--titlelight, #0d0d0d));padding:var(--btn-padding-y,13px) var(--btn-padding-x,24px);cursor:pointer;justify-content:center;align-items:center;gap:6px;transition:all .3s linear;display:flex}\n.uichemy-btn-primary:hover{background-color:var(--color-primary-hover,var(--primarytint, #292099))}\n.uichemy-btn-primary:hover,.uichemy-btn-primary[style*=color]:hover{color:var(--uc-btn-label-color,var(--color-primary-hover-text,var(--titlelight, #0d0d0d)))!important}\n.uichemy-btn-primary[style*=color]{color:var(--uc-btn-label-color,var(--titlelight, #0d0d0d))!important}\n.uichemy-heading-2xl-semibold{font-size:calc(72px * var(--uc-heading-scale,1));font-weight:600;line-height:90px}\n.uichemy-heading-sm-semibold{font-size:calc(30px * var(--uc-heading-scale,1));font-weight:600;line-height:38px}\n.uichemy-body-lg-medium{font-size:calc(18px * var(--uc-body-scale,1));font-weight:500;line-height:28px}\n.uichemy-body-md-regular{font-size:calc(16px * var(--uc-body-scale,1));font-weight:400;line-height:24px}\n.uichemy-body-md-semibold{font-size:calc(16px * var(--uc-body-scale,1));font-weight:600;line-height:24px}\n.uichemy-caption-xs-bold{font-size:12px;font-weight:700;line-height:18px}\n[data-uc-section-overlay=off] [data-uc-overlay]{display:none!important}\n[data-uc-section-overlay=black] [data-uc-overlay]{opacity:1!important;background-image:none!important;background-color:rgb(0 0 0/var(--uc-overlay-opacity,.5))!important}\n@media (max-width:1024px){.uichemy-heading-2xl-semibold{font-size:calc(60px * var(--uc-heading-scale,1));line-height:70px}.uichemy-heading-sm-semibold{font-size:calc(24px * var(--uc-heading-scale,1));line-height:32px}.uichemy-body-lg-medium{font-size:calc(16px * var(--uc-body-scale,1));line-height:24px}.uichemy-body-md-regular,.uichemy-body-md-semibold{font-size:calc(15px * var(--uc-body-scale,1));line-height:22px}.uichemy-container{padding:60px 15px}}\n@media (max-width:768px){.uichemy-heading-2xl-semibold{font-size:calc(48px * var(--uc-heading-scale,1));line-height:56px}.uichemy-heading-sm-semibold{font-size:calc(20px * var(--uc-heading-scale,1));line-height:28px}.uichemy-body-lg-medium{font-size:calc(15px * var(--uc-body-scale,1));line-height:22px}.uichemy-body-md-regular,.uichemy-body-md-semibold{font-size:calc(14px * var(--uc-body-scale,1));line-height:20px}.uichemy-container{padding:40px 15px}}\n@keyframes fade-up{0%{opacity:0;transform:translateY(20px)}to{opacity:1;transform:translateY(0)}}\n.animate-grid-layout-animation>:nth-child(8n+1){animation-delay:.1s}\n.animate-grid-layout-animation>:nth-child(8n+2){animation-delay:.2s}\n.animate-grid-layout-animation>:nth-child(8n+3){animation-delay:.3s}\n.animate-grid-layout-animation>:nth-child(8n+4){animation-delay:.4s}\n.animate-grid-layout-animation>:nth-child(8n+5){animation-delay:.5s}\n.animate-grid-layout-animation>:nth-child(8n+6){animation-delay:.6s}\n.animate-grid-layout-animation>:nth-child(8n+7){animation-delay:.7s}\n.animate-grid-layout-animation>:nth-child(8n+8){animation-delay:.8s}\n@media (prefers-reduced-motion:reduce){.uichemy-accordion-body,.uichemy-accordion-icon{transition:none}}\n.sy18-item{ position: relative; }\n.sy18-close{ display: none; }\n.sy18-item:has(input:checked) .sy18-close{ display: block; position: absolute; inset: 0; cursor: pointer; z-index: 5; }\n.sy18-item:has(input:checked) .sy18-cta{ position: relative; z-index: 6; }\n[data-uichemy-root]{\n  --color-primary-text: var(--titlelight, #1F1F1F);\n  --color-secondary-text: var(--titlelight, #1F1F1F);\n}\n[data-uichemy-root] .uichemy-btn-primary{\n  color: var(--titledark, #ffffff) !important;\n}\n[data-uichemy-root] .bg-bgLight1{\n  \n  \n}\n[data-uichemy-root] .bg-bgLight2{\n  \n  \n}\n[data-uichemy-root] .uichemy-btn-primary{\n  background: var(--primary, #F35422) !important;\n  color: rgb(255, 255, 255) !important;\n  border: none !important;\n  box-shadow: none !important;\n  border-radius: 6px !important;\n  padding-top: 13px !important;\n  padding-bottom: 13px !important;\n  padding-left: 24px !important;\n  padding-right: 24px !important;\n}\n[data-uichemy-root] .uichemy-btn-primary:hover{\n  background: #DF3F0C !important;\n  color: #000000 !important;\n  box-shadow: none !important;\n}\n[data-uichemy-root] .uichemy-card,\n[data-uichemy-root] .card-shadow{\n  border: 1px solid transparent !important;\n  box-shadow: none !important;\n}\n[data-uichemy-root] .uichemy-card:not([class*=\"rounded-\"]),\n[data-uichemy-root] .card-shadow:not([class*=\"rounded-\"]){\n  border-radius: 12px !important;\n}\n[data-uichemy-root] [class~=\"bg-bgLight1\"]:not(.uichemy-card):not(.card-shadow):not([class*=\"bg-bg\"] *){--uichemy-card-shade: var(--bglight2, #E8E3D8)}\n[data-uichemy-root] [class~=\"bg-bgLight2\"]:not(.uichemy-card):not(.card-shadow):not([class*=\"bg-bg\"] *){--uichemy-card-shade: var(--bglight2, #E8E3D8)}\n[data-uichemy-root] .uichemy-card:not([class*=\"bg-bg\"]):not([style*=\"background\"]),\n[data-uichemy-root] .card-shadow:not([class*=\"bg-bg\"]):not([style*=\"background\"]){\n  background: var(--uichemy-card-shade, var(--bglight2, #E8E3D8)) !important;\n}\n[data-uichemy-root] .uichemy-card[class~=\"bg-bgLight1\"],\n[data-uichemy-root] .card-shadow[class~=\"bg-bgLight1\"]{\n  background: var(--uichemy-card-shade, var(--bglight2, #E8E3D8)) !important;\n}\n[data-uichemy-root] .uichemy-card[class~=\"bg-bgLight2\"],\n[data-uichemy-root] .card-shadow[class~=\"bg-bgLight2\"]{\n  background: var(--uichemy-card-shade, var(--bglight2, #E8E3D8)) !important;\n}\n[data-uichemy-root] .uichemy-card:hover,\n[data-uichemy-root] .card-shadow:hover{\n  box-shadow: none !important;\n  border-color: transparent !important;\n}",
+                                "raw_js": "",
+                                "site_custom_code_head": "<link rel=\"stylesheet\" href=\"https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:ital,wght@0,200..800;1,200..800&display=swap\">",
+                                "raw_deps_site": "[{\"id\":\"imported_l7zvj34\",\"name\":\"Plus Jakarta Sans\",\"v\":\"—\",\"kind\":\"style\",\"url\":\"https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:ital,wght@0,200..800;1,200..800&display=swap\",\"attrs\":[],\"position\":\"before\",\"enabled\":true,\"brief\":\"Imported from editor\",\"category\":\"Imported\"}]",
+                                "plus_tooltip_content_desc": "Luctus nec ullamcorper mattis",
+                                "page_custom_code_head": "<title>Careers at Ostra | Join Our Team</title>\n<meta name=\"description\" content=\"Join Ostra&#039;s talented team in Lisbon or remotely. Explore open positions and discover life at our senior branding studio.\" />\n<meta property=\"og:image\" content=\"https://inventorganization.s3-tastewp.com/wp-content/uploads/2026/11/b16f43f4e8812be6.jpg\" data-id=\"189\" />"
+                            },
+                            "defaultEditSettings": {
+                                "defaultEditRoute": "content"
+                            },
+                            "interactions": [],
+                            "elements": [],
+                            "title": "Composer",
+                            "categories": [
+                                "uichemy"
+                            ],
+                            "keywords": [
+                                "html",
+                                "composer",
+                                "dynamic",
+                                "text"
+                            ],
+                            "icon": "eicon-code",
+                            "widgetType": "uichemy-builder",
+                            "hideOnSearch": false,
+                            "editSettings": {
+                                "defaultEditRoute": "content",
+                                "panel": {
+                                    "activeTab": "style",
+                                    "activeSection": "section_style"
+                                }
+                            }
+                        }
+                    ],
+                    "editSettings": {
+                        "defaultEditRoute": "layout",
+                        "panel": {
+                            "activeTab": "layout",
+                            "activeSection": "section_layout_container"
+                        }
+                    }
+                }
+            ]
+        },
+        "_elementor_data_last_editor": "1",
+        "_elementor_edit_mode": "builder",
+        "_elementor_global_class_usage_indexed": "1",
+        "_elementor_global_class_usage_indexed_preview": "1",
+        "_elementor_template_type": "wp-page",
+        "_elementor_version": "4.4.1",
+        "_uichemy_seo": {
+            "v": 4,
+            "kind": "instance",
+            "built_at": 1795080071,
+            "source_sig": "8a3815e236081c5e836e553a1251b60f",
+            "derived": {
+                "headings": [
+                    {
+                        "level": 2,
+                        "text": "Join Ostra",
+                        "path": "0.0.0.0.0.0",
+                        "section": "3jtjnr0"
+                    },
+                    {
+                        "level": 2,
+                        "text": "Life at Ostra",
+                        "path": "0.0.0.0.0.0.0",
+                        "section": "pm6ibeg"
+                    },
+                    {
+                        "level": 3,
+                        "text": "Years building brands",
+                        "path": "0.0.0.0.0.2.0.0",
+                        "section": "pm6ibeg"
+                    },
+                    {
+                        "level": 5,
+                        "text": "Branding",
+                        "path": "0.0.0.0.0.3.2.0",
+                        "section": "pm6ibeg"
+                    },
+                    {
+                        "level": 5,
+                        "text": "Web Design",
+                        "path": "0.0.0.0.0.3.2.1",
+                        "section": "pm6ibeg"
+                    },
+                    {
+                        "level": 3,
+                        "text": "People on the team",
+                        "path": "0.0.0.0.0.4.2.1",
+                        "section": "pm6ibeg"
+                    },
+                    {
+                        "level": 5,
+                        "text": "Hiring now",
+                        "path": "0.0.0.0.0.0",
+                        "section": "eo98up2"
+                    },
+                    {
+                        "level": 2,
+                        "text": "Open positions",
+                        "path": "0.0.0.0.0.1",
+                        "section": "eo98up2"
+                    },
+                    {
+                        "level": 3,
+                        "text": "Senior Product Designer",
+                        "path": "0.0.0.0.1.1.0.2.0.0",
+                        "section": "eo98up2"
+                    },
+                    {
+                        "level": 3,
+                        "text": "Motion Designer",
+                        "path": "0.0.0.0.1.2.0.2.0.0",
+                        "section": "eo98up2"
+                    },
+                    {
+                        "level": 3,
+                        "text": "Webflow Developer",
+                        "path": "0.0.0.0.1.3.0.2.0.0",
+                        "section": "eo98up2"
+                    },
+                    {
+                        "level": 3,
+                        "text": "Growth Marketing Manager",
+                        "path": "0.0.0.0.1.4.0.2.0.0",
+                        "section": "eo98up2"
+                    }
+                ],
+                "images": [
+                    {
+                        "src": "https://inventorganization.s3-tastewp.com/wp-content/uploads/2026/11/acd1c90f245fd8c2.webp",
+                        "alt": "Gallery image",
+                        "decorative": false,
+                        "w": 1536,
+                        "h": 856,
+                        "loading": "",
+                        "external": false,
+                        "in_chrome": false,
+                        "wp_image": true,
+                        "path": "0.0.0.0.1.0.0",
+                        "section": "3jtjnr0"
+                    },
+                    {
+                        "src": "https://inventorganization.s3-tastewp.com/wp-content/uploads/2026/11/2cda7456caa8a16a.webp",
+                        "alt": "Gallery image",
+                        "decorative": false,
+                        "w": 1536,
+                        "h": 853,
+                        "loading": "",
+                        "external": false,
+                        "in_chrome": false,
+                        "wp_image": true,
+                        "path": "0.0.0.0.1.1.0",
+                        "section": "3jtjnr0"
+                    },
+                    {
+                        "src": "https://inventorganization.s3-tastewp.com/wp-content/uploads/2026/11/842989999d0946a3.webp",
+                        "alt": "Gallery image",
+                        "decorative": false,
+                        "w": 1536,
+                        "h": 858,
+                        "loading": "",
+                        "external": false,
+                        "in_chrome": false,
+                        "wp_image": true,
+                        "path": "0.0.0.0.1.2.0",
+                        "section": "3jtjnr0"
+                    },
+                    {
+                        "src": "https://inventorganization.s3-tastewp.com/wp-content/uploads/2026/11/92962803bdcc0477.webp",
+                        "alt": "Gallery image",
+                        "decorative": false,
+                        "w": 1536,
+                        "h": 855,
+                        "loading": "",
+                        "external": false,
+                        "in_chrome": false,
+                        "wp_image": true,
+                        "path": "0.0.0.0.1.3.0",
+                        "section": "3jtjnr0"
+                    },
+                    {
+                        "src": "https://inventorganization.s3-tastewp.com/wp-content/uploads/2026/11/3cedd03961e096c1.webp",
+                        "alt": "Gallery image",
+                        "decorative": false,
+                        "w": 1536,
+                        "h": 856,
+                        "loading": "",
+                        "external": false,
+                        "in_chrome": false,
+                        "wp_image": true,
+                        "path": "0.0.0.0.2.0.0",
+                        "section": "3jtjnr0"
+                    },
+                    {
+                        "src": "https://inventorganization.s3-tastewp.com/wp-content/uploads/2026/11/6f956672db7ed4da.webp",
+                        "alt": "Gallery image",
+                        "decorative": false,
+                        "w": 1536,
+                        "h": 853,
+                        "loading": "",
+                        "external": false,
+                        "in_chrome": false,
+                        "wp_image": true,
+                        "path": "0.0.0.0.2.1.0",
+                        "section": "3jtjnr0"
+                    },
+                    {
+                        "src": "https://inventorganization.s3-tastewp.com/wp-content/uploads/2026/11/510fe4d1ccef358d.webp",
+                        "alt": "Gallery image",
+                        "decorative": false,
+                        "w": 1536,
+                        "h": 858,
+                        "loading": "",
+                        "external": false,
+                        "in_chrome": false,
+                        "wp_image": true,
+                        "path": "0.0.0.0.2.2.0",
+                        "section": "3jtjnr0"
+                    },
+                    {
+                        "src": "https://inventorganization.s3-tastewp.com/wp-content/uploads/2026/11/8f1d3d3f9d2f1b79.webp",
+                        "alt": "Gallery image",
+                        "decorative": false,
+                        "w": 1536,
+                        "h": 855,
+                        "loading": "",
+                        "external": false,
+                        "in_chrome": false,
+                        "wp_image": true,
+                        "path": "0.0.0.0.2.3.0",
+                        "section": "3jtjnr0"
+                    },
+                    {
+                        "src": "https://inventorganization.s3-tastewp.com/wp-content/uploads/2026/11/9388effd62f34a50.webp",
+                        "alt": "By the numbers",
+                        "decorative": false,
+                        "w": 1536,
+                        "h": 894,
+                        "loading": "lazy",
+                        "external": false,
+                        "in_chrome": false,
+                        "wp_image": true,
+                        "path": "0.0.0.0.0.1.0",
+                        "section": "pm6ibeg"
+                    },
+                    {
+                        "src": "https://inventorganization.s3-tastewp.com/wp-content/uploads/2026/11/079fac83410fcda3.webp",
+                        "alt": "Bringing innovation and design expertise to every project.",
+                        "decorative": false,
+                        "w": 1536,
+                        "h": 894,
+                        "loading": "lazy",
+                        "external": false,
+                        "in_chrome": false,
+                        "wp_image": true,
+                        "path": "0.0.0.0.0.3.0.0",
+                        "section": "pm6ibeg"
+                    },
+                    {
+                        "src": "https://inventorganization.s3-tastewp.com/wp-content/uploads/2026/11/61a528880d37d906.webp",
+                        "alt": "Bringing innovation and design expertise to every project.",
+                        "decorative": false,
+                        "w": 1536,
+                        "h": 894,
+                        "loading": "lazy",
+                        "external": false,
+                        "in_chrome": false,
+                        "wp_image": true,
+                        "path": "0.0.0.0.0.3.0.1",
+                        "section": "pm6ibeg"
+                    },
+                    {
+                        "src": "https://inventorganization.s3-tastewp.com/wp-content/uploads/2026/11/6171feb6eb76150a.webp",
+                        "alt": "Creative Experts",
+                        "decorative": false,
+                        "w": 1536,
+                        "h": 894,
+                        "loading": "lazy",
+                        "external": false,
+                        "in_chrome": false,
+                        "wp_image": true,
+                        "path": "0.0.0.0.0.4.0",
+                        "section": "pm6ibeg"
+                    },
+                    {
+                        "src": "https://inventorganization.s3-tastewp.com/wp-content/uploads/2026/11/f5e8c5c93a4e8874.webp",
+                        "alt": "Portrait of Senior Product Designer",
+                        "decorative": false,
+                        "w": 1536,
+                        "h": 894,
+                        "loading": "lazy",
+                        "external": false,
+                        "in_chrome": false,
+                        "wp_image": true,
+                        "path": "0.0.0.0.1.1.0.2.1.0.0.0.0",
+                        "section": "eo98up2"
+                    },
+                    {
+                        "src": "https://inventorganization.s3-tastewp.com/wp-content/uploads/2026/11/239ce32eeac3191f.webp",
+                        "alt": "Portrait of Motion Designer",
+                        "decorative": false,
+                        "w": 1536,
+                        "h": 894,
+                        "loading": "lazy",
+                        "external": false,
+                        "in_chrome": false,
+                        "wp_image": true,
+                        "path": "0.0.0.0.1.2.0.2.1.0.0.0.0",
+                        "section": "eo98up2"
+                    },
+                    {
+                        "src": "https://inventorganization.s3-tastewp.com/wp-content/uploads/2026/11/3c9c1cc1af7f3af2.webp",
+                        "alt": "Portrait of Webflow Developer",
+                        "decorative": false,
+                        "w": 1536,
+                        "h": 894,
+                        "loading": "lazy",
+                        "external": false,
+                        "in_chrome": false,
+                        "wp_image": true,
+                        "path": "0.0.0.0.1.3.0.2.1.0.0.0.0",
+                        "section": "eo98up2"
+                    },
+                    {
+                        "src": "https://inventorganization.s3-tastewp.com/wp-content/uploads/2026/11/a0af18ad7f74ef0f.webp",
+                        "alt": "Portrait of Growth Marketing Manager",
+                        "decorative": false,
+                        "w": 1536,
+                        "h": 894,
+                        "loading": "lazy",
+                        "external": false,
+                        "in_chrome": false,
+                        "wp_image": true,
+                        "path": "0.0.0.0.1.4.0.2.1.0.0.0.0",
+                        "section": "eo98up2"
+                    }
+                ],
+                "links": [],
+                "pseudo_headings": [
+                    {
+                        "tag": "span",
+                        "text": "10",
+                        "path": "0.0.0.0.0.2.1.0",
+                        "section": "pm6ibeg"
+                    },
+                    {
+                        "tag": "span",
+                        "text": "24",
+                        "path": "0.0.0.0.0.4.2.0",
+                        "section": "pm6ibeg"
+                    }
+                ],
+                "faq_candidates": [],
+                "breadcrumbs": [],
+                "entities": [],
+                "section_ld": [],
+                "signals": {
+                    "has_main": false,
+                    "navs": [],
+                    "iframes_no_title": [],
+                    "time_no_datetime": [],
+                    "tables_no_header": [],
+                    "product_markup": false,
+                    "price_found": false
+                },
+                "word_count": 141,
+                "structure": {
+                    "heading_depth": 3,
+                    "link_density": 0,
+                    "avg_paragraph_words": 11,
+                    "structured_ratio": 0.262,
+                    "emphasis_ratio": 0
+                },
+                "title": null,
+                "description": {
+                    "value": "Ten years of brand, web and motion work, still curious every day.",
+                    "from": "first-paragraph",
+                    "path": "0.0.0.0.0.2.0.1",
+                    "section": "pm6ibeg",
+                    "twig": false
+                },
+                "share_image": {
+                    "value": {
+                        "id": 178,
+                        "url": "https://inventorganization.s3-tastewp.com/wp-content/uploads/2026/11/acd1c90f245fd8c2.webp",
+                        "w": 1536,
+                        "h": 856,
+                        "alt": ""
+                    },
+                    "from": "first-image",
+                    "path": "0.0.0.0.1.0.0",
+                    "section": "3jtjnr0",
+                    "twig": false
+                },
+                "content_type": null,
+                "head": {
+                    "title": "Careers at Ostra | Join Our Team",
+                    "description": "Join Ostra's talented team in Lisbon or remotely. Explore open positions and discover life at our senior branding studio.",
+                    "canonical": null,
+                    "robots": null,
+                    "og": {
+                        "og:image": "https://inventorganization.s3-tastewp.com/wp-content/uploads/2026/11/b16f43f4e8812be6.jpg"
+                    },
+                    "twitter": [],
+                    "verify": [],
+                    "image_id": 189,
+                    "ai_exclude": false,
+                    "ldjson": [],
+                    "ld_errors": 0
+                },
+                "source": "composer:elementor"
+            },
+            "findings": [
+                {
+                    "check_id": 1,
+                    "check": "no_h1",
+                    "severity": "warning",
+                    "message": "This page has no main heading (H1).",
+                    "fix_target": "heading",
+                    "post_id": 161,
+                    "node_path": null,
+                    "section": null,
+                    "ignored": false
+                },
+                {
+                    "check_id": 4,
+                    "check": "first_heading_not_h1",
+                    "severity": "notice",
+                    "message": "This page starts with an H2 heading instead of a main heading (H1).",
+                    "fix_target": "heading",
+                    "post_id": 161,
+                    "node_path": "0.0.0.0.0.0",
+                    "section": "3jtjnr0",
+                    "ignored": false
+                },
+                {
+                    "check_id": 5,
+                    "check": "heading_skip",
+                    "severity": "notice",
+                    "message": "The headings jump from h3 to h5. Search engines and screen readers expect headings in order, without skipping a size.",
+                    "fix_target": "heading",
+                    "post_id": 161,
+                    "node_path": "0.0.0.0.0.3.2.0",
+                    "section": "pm6ibeg",
+                    "ignored": false
+                },
+                {
+                    "check_id": 5,
+                    "check": "heading_skip",
+                    "severity": "notice",
+                    "message": "The headings jump from h3 to h5. Search engines and screen readers expect headings in order, without skipping a size.",
+                    "fix_target": "heading",
+                    "post_id": 161,
+                    "node_path": "0.0.0.0.0.0",
+                    "section": "eo98up2",
+                    "ignored": false
+                },
+                {
+                    "check_id": 6,
+                    "check": "pseudo_heading",
+                    "severity": "notice",
+                    "message": "This text looks like a heading but is not set as one (it is a span). Change it to a heading so search engines see it as one.",
+                    "fix_target": "heading",
+                    "post_id": 161,
+                    "node_path": "0.0.0.0.0.2.1.0",
+                    "section": "pm6ibeg",
+                    "ignored": false
+                },
+                {
+                    "check_id": 6,
+                    "check": "pseudo_heading",
+                    "severity": "notice",
+                    "message": "This text looks like a heading but is not set as one (it is a span). Change it to a heading so search engines see it as one.",
+                    "fix_target": "heading",
+                    "post_id": 161,
+                    "node_path": "0.0.0.0.0.4.2.0",
+                    "section": "pm6ibeg",
+                    "ignored": false
+                },
+                {
+                    "check_id": 8,
+                    "check": "thin_content",
+                    "severity": "warning",
+                    "message": "This page has only 141 words. Pages with very little text rarely show up well in search.",
+                    "fix_target": "code",
+                    "post_id": 161,
+                    "node_path": null,
+                    "section": null,
+                    "ignored": false
+                },
+                {
+                    "check_id": 15,
+                    "check": "img_no_loading",
+                    "severity": "notice",
+                    "message": "This image loads straight away. If it is further down the page, set it to load later (loading=\"lazy\") so the page opens faster.",
+                    "fix_target": "attributes",
+                    "post_id": 161,
+                    "node_path": "0.0.0.0.1.2.0",
+                    "section": "3jtjnr0",
+                    "ignored": false
+                },
+                {
+                    "check_id": 15,
+                    "check": "img_no_loading",
+                    "severity": "notice",
+                    "message": "This image loads straight away. If it is further down the page, set it to load later (loading=\"lazy\") so the page opens faster.",
+                    "fix_target": "attributes",
+                    "post_id": 161,
+                    "node_path": "0.0.0.0.1.3.0",
+                    "section": "3jtjnr0",
+                    "ignored": false
+                },
+                {
+                    "check_id": 15,
+                    "check": "img_no_loading",
+                    "severity": "notice",
+                    "message": "This image loads straight away. If it is further down the page, set it to load later (loading=\"lazy\") so the page opens faster.",
+                    "fix_target": "attributes",
+                    "post_id": 161,
+                    "node_path": "0.0.0.0.2.0.0",
+                    "section": "3jtjnr0",
+                    "ignored": false
+                },
+                {
+                    "check_id": 15,
+                    "check": "img_no_loading",
+                    "severity": "notice",
+                    "message": "This image loads straight away. If it is further down the page, set it to load later (loading=\"lazy\") so the page opens faster.",
+                    "fix_target": "attributes",
+                    "post_id": 161,
+                    "node_path": "0.0.0.0.2.1.0",
+                    "section": "3jtjnr0",
+                    "ignored": false
+                },
+                {
+                    "check_id": 15,
+                    "check": "img_no_loading",
+                    "severity": "notice",
+                    "message": "This image loads straight away. If it is further down the page, set it to load later (loading=\"lazy\") so the page opens faster.",
+                    "fix_target": "attributes",
+                    "post_id": 161,
+                    "node_path": "0.0.0.0.2.2.0",
+                    "section": "3jtjnr0",
+                    "ignored": false
+                },
+                {
+                    "check_id": 15,
+                    "check": "img_no_loading",
+                    "severity": "notice",
+                    "message": "This image loads straight away. If it is further down the page, set it to load later (loading=\"lazy\") so the page opens faster.",
+                    "fix_target": "attributes",
+                    "post_id": 161,
+                    "node_path": "0.0.0.0.2.3.0",
+                    "section": "3jtjnr0",
+                    "ignored": false
+                },
+                {
+                    "check_id": 22,
+                    "check": "no_internal_links",
+                    "severity": "notice",
+                    "message": "This page does not link to any other page on your site. A few links help visitors and search engines.",
+                    "fix_target": "code",
+                    "post_id": 161,
+                    "node_path": null,
+                    "section": null,
+                    "ignored": false
+                }
+            ],
+            "ignored_checks": [],
+            "site_findings": [],
+            "site_checked": 0
+        }
+    },
+    "content": "<style id=\"uich-icon-font-guard\">html body [data-uichemy-root] [class*=\"fa-\"],html body [data-uichemy-root] [class*=\"fa-\"]::before,html body [data-uichemy-root] [class*=\"fa-\"]::after{font-family:\"Font Awesome 6 Free\",\"Font Awesome 6 Brands\",\"Font Awesome 6 Pro\",\"Font Awesome 5 Free\",\"Font Awesome 5 Brands\",\"Font Awesome 5 Pro\",\"FontAwesome\" !important}html body [data-uichemy-root] [class*=\"eicon-\"],html body [data-uichemy-root] [class*=\"eicon-\"]::before{font-family:\"eicons\" !important}html body [data-uichemy-root] [class*=\"dashicons\"],html body [data-uichemy-root] [class*=\"dashicons\"]::before{font-family:\"dashicons\" !important}</style><link rel=\"preload\" as=\"image\" href=\"https://inventorganization.s3-tastewp.com/wp-content/uploads/2026/11/acd1c90f245fd8c2.webp\"><link rel=\"preload\" as=\"image\" href=\"https://inventorganization.s3-tastewp.com/wp-content/uploads/2026/11/2cda7456caa8a16a.webp\"><link rel=\"preload\" as=\"image\" href=\"https://inventorganization.s3-tastewp.com/wp-content/uploads/2026/11/842989999d0946a3.webp\"><link rel=\"preload\" as=\"image\" href=\"https://inventorganization.s3-tastewp.com/wp-content/uploads/2026/11/92962803bdcc0477.webp\"><link rel=\"preload\" as=\"image\" href=\"https://inventorganization.s3-tastewp.com/wp-content/uploads/2026/11/3cedd03961e096c1.webp\"><link rel=\"preload\" as=\"image\" href=\"https://inventorganization.s3-tastewp.com/wp-content/uploads/2026/11/6f956672db7ed4da.webp\"><link rel=\"preload\" as=\"image\" href=\"https://inventorganization.s3-tastewp.com/wp-content/uploads/2026/11/510fe4d1ccef358d.webp\"><link rel=\"preload\" as=\"image\" href=\"https://inventorganization.s3-tastewp.com/wp-content/uploads/2026/11/8f1d3d3f9d2f1b79.webp\"><h2>Join Ostra</h2><label style=\"background-color:var(--bglight2, #e8e3d8); border-color:var(--neutral, #d6d6d6); color:var(--titlelight, #1f1f1f)\"><input type=\"radio\" name=\"gy21-tab\" checked>The studio</label><label style=\"background-color:var(--bglight2, #e8e3d8); border-color:var(--neutral, #d6d6d6); color:var(--titlelight, #1f1f1f)\"><input type=\"radio\" name=\"gy21-tab\">On retreat</label><img src=\"https://inventorganization.s3-tastewp.com/wp-content/uploads/2026/11/acd1c90f245fd8c2.webp\" alt=\"Gallery image\" width=\"1536\" height=\"856\" fetchpriority=\"high\"><img src=\"https://inventorganization.s3-tastewp.com/wp-content/uploads/2026/11/2cda7456caa8a16a.webp\" alt=\"Gallery image\" width=\"1536\" height=\"853\"><img src=\"https://inventorganization.s3-tastewp.com/wp-content/uploads/2026/11/842989999d0946a3.webp\" alt=\"Gallery image\" width=\"1536\" height=\"858\"><img src=\"https://inventorganization.s3-tastewp.com/wp-content/uploads/2026/11/92962803bdcc0477.webp\" alt=\"Gallery image\" width=\"1536\" height=\"855\"><img src=\"https://inventorganization.s3-tastewp.com/wp-content/uploads/2026/11/3cedd03961e096c1.webp\" alt=\"Gallery image\" width=\"1536\" height=\"856\"><img src=\"https://inventorganization.s3-tastewp.com/wp-content/uploads/2026/11/6f956672db7ed4da.webp\" alt=\"Gallery image\" width=\"1536\" height=\"853\"><img src=\"https://inventorganization.s3-tastewp.com/wp-content/uploads/2026/11/510fe4d1ccef358d.webp\" alt=\"Gallery image\" width=\"1536\" height=\"858\"><img src=\"https://inventorganization.s3-tastewp.com/wp-content/uploads/2026/11/8f1d3d3f9d2f1b79.webp\" alt=\"Gallery image\" width=\"1536\" height=\"855\">\t\t\t\t\n\t\t\t\t\t<h2 style=\"color:var(--titlelight, #1f1f1f)\">Life at Ostra</h2><img src=\"https://inventorganization.s3-tastewp.com/wp-content/uploads/2026/11/9388effd62f34a50.webp\" alt=\"By the numbers\" width=\"1536\" height=\"894\" loading=\"lazy\"><h3 style=\"color:var(--titlelight, #1f1f1f)\">Years building brands</h3><p style=\"color:var(--descriptionlight, #454545)\">Ten years of brand, web and motion work, still curious every day.</p>10<img src=\"https://inventorganization.s3-tastewp.com/wp-content/uploads/2026/11/079fac83410fcda3.webp\" alt=\"Bringing innovation and design expertise to every project.\" style=\"border-color:var(--neutral, #d6d6d6)\" width=\"1536\" height=\"894\" loading=\"lazy\"><img src=\"https://inventorganization.s3-tastewp.com/wp-content/uploads/2026/11/61a528880d37d906.webp\" alt=\"Bringing innovation and design expertise to every project.\" style=\"border-color:var(--neutral, #d6d6d6)\" width=\"1536\" height=\"894\" loading=\"lazy\">200+<p style=\"color:var(--descriptionlight, #454545)\">Clients since 2016, from a first logo to a full site relaunch.</p><h5 style=\"background-color:var(--bglight1, #f2efe9); border-color:var(--neutral, #d6d6d6); color:var(--titlelight, #1f1f1f)\">Branding</h5><h5 style=\"background-color:var(--bglight1, #f2efe9); border-color:var(--neutral, #d6d6d6); color:var(--titlelight, #1f1f1f)\">Web Design</h5><img src=\"https://inventorganization.s3-tastewp.com/wp-content/uploads/2026/11/6171feb6eb76150a.webp\" alt=\"Creative Experts\" width=\"1536\" height=\"894\" loading=\"lazy\">24<h3 style=\"color:var(--titledark, #ebebeb)\">People on the team</h3><p style=\"color:var(--titledark, #ebebeb)\">Designers, animators and builders in Lisbon and across Europe.</p>\t\t\t\t\n\t\t\t\t\t<h5>Hiring now</h5><h2 style=\"color:var(--titlelight, #1f1f1f)\">Open positions</h2><input type=\"radio\" id=\"sy18-none\" aria-label=\"Collapse all\" name=\"sy18-acc\"><label style=\"background-color:var(--bglight2, #e8e3d8); border-color:var(--neutral, #d6d6d6); --uichemy-accordion-max:900px\"><input type=\"radio\" name=\"sy18-acc\" checked>01.<h3 style=\"color:var(--titlelight, #1f1f1f)\">Senior Product Designer</h3><p style=\"color:var(--descriptionlight, #454545)\">Design team · Lisbon / Remote (EU) · Full-time</p><img src=\"https://inventorganization.s3-tastewp.com/wp-content/uploads/2026/11/f5e8c5c93a4e8874.webp\" alt=\"Portrait of Senior Product Designer\" loading=\"lazy\" width=\"1536\" height=\"894\"><ul><li><svg data-icon=\"icon_url_allc4m1knn\" style=\"color:var(--primary, #f35422)\" width=\"18\" height=\"18\" viewBox=\"0 0 24 24\" fill=\"none\" aria-hidden=\"true\"><path d=\"M12 2l2.2 6.2L20 10l-5.8 1.8L12 18l-2.2-6.2L4 10l5.8-1.8L12 2z\" fill=\"currentColor\"></path></svg>Own Product Flows End to End</li><li><svg data-icon=\"icon_url_allc4m1knn\" style=\"color:var(--primary, #f35422)\" width=\"18\" height=\"18\" viewBox=\"0 0 24 24\" fill=\"none\" aria-hidden=\"true\"><path d=\"M12 2l2.2 6.2L20 10l-5.8 1.8L12 18l-2.2-6.2L4 10l5.8-1.8L12 2z\" fill=\"currentColor\"></path></svg>Client Discovery</li><li><svg data-icon=\"icon_url_allc4m1knn\" style=\"color:var(--primary, #f35422)\" width=\"18\" height=\"18\" viewBox=\"0 0 24 24\" fill=\"none\" aria-hidden=\"true\"><path d=\"M12 2l2.2 6.2L20 10l-5.8 1.8L12 18l-2.2-6.2L4 10l5.8-1.8L12 2z\" fill=\"currentColor\"></path></svg>Shape Design Systems</li></ul><a href=\"#\">Apply now<svg data-icon=\"icon_url_l9fudxs6ix\" width=\"16\" height=\"16\" viewBox=\"0 0 24 24\" fill=\"none\" aria-hidden=\"true\"><path d=\"M7 17L17 7M9 7h8v8\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path></svg></a></label><label for=\"sy18-none\" aria-label=\"Collapse details\"></label><label style=\"background-color:var(--bglight2, #e8e3d8); border-color:var(--neutral, #d6d6d6); --uichemy-accordion-max:900px\"><input type=\"radio\" name=\"sy18-acc\">02.<h3 style=\"color:var(--titlelight, #1f1f1f)\">Motion Designer</h3><p style=\"color:var(--descriptionlight, #454545)\">Motion team · Remote across the EU · Full-time</p><img src=\"https://inventorganization.s3-tastewp.com/wp-content/uploads/2026/11/239ce32eeac3191f.webp\" alt=\"Portrait of Motion Designer\" loading=\"lazy\" width=\"1536\" height=\"894\"><ul><li><svg data-icon=\"icon_url_allc4m1knn\" style=\"color:var(--primary, #f35422)\" width=\"18\" height=\"18\" viewBox=\"0 0 24 24\" fill=\"none\" aria-hidden=\"true\"><path d=\"M12 2l2.2 6.2L20 10l-5.8 1.8L12 18l-2.2-6.2L4 10l5.8-1.8L12 2z\" fill=\"currentColor\"></path></svg>Animated Ads</li><li><svg data-icon=\"icon_url_allc4m1knn\" style=\"color:var(--primary, #f35422)\" width=\"18\" height=\"18\" viewBox=\"0 0 24 24\" fill=\"none\" aria-hidden=\"true\"><path d=\"M12 2l2.2 6.2L20 10l-5.8 1.8L12 18l-2.2-6.2L4 10l5.8-1.8L12 2z\" fill=\"currentColor\"></path></svg>UI &amp; Product Animation</li><li><svg data-icon=\"icon_url_allc4m1knn\" style=\"color:var(--primary, #f35422)\" width=\"18\" height=\"18\" viewBox=\"0 0 24 24\" fill=\"none\" aria-hidden=\"true\"><path d=\"M12 2l2.2 6.2L20 10l-5.8 1.8L12 18l-2.2-6.2L4 10l5.8-1.8L12 2z\" fill=\"currentColor\"></path></svg>Storyboards &amp; Style Frames</li></ul><a href=\"#\">Apply now<svg data-icon=\"icon_url_l9fudxs6ix\" width=\"16\" height=\"16\" viewBox=\"0 0 24 24\" fill=\"none\" aria-hidden=\"true\"><path d=\"M7 17L17 7M9 7h8v8\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path></svg></a></label><label for=\"sy18-none\" aria-label=\"Collapse details\"></label><label style=\"background-color:var(--bglight2, #e8e3d8); border-color:var(--neutral, #d6d6d6); --uichemy-accordion-max:900px\"><input type=\"radio\" name=\"sy18-acc\">03.<h3 style=\"color:var(--titlelight, #1f1f1f)\">Webflow Developer</h3><p style=\"color:var(--descriptionlight, #454545)\">Web team · Remote across the EU · Full-time</p><img src=\"https://inventorganization.s3-tastewp.com/wp-content/uploads/2026/11/3c9c1cc1af7f3af2.webp\" alt=\"Portrait of Webflow Developer\" loading=\"lazy\" width=\"1536\" height=\"894\"><ul><li><svg data-icon=\"icon_url_allc4m1knn\" style=\"color:var(--primary, #f35422)\" width=\"18\" height=\"18\" viewBox=\"0 0 24 24\" fill=\"none\" aria-hidden=\"true\"><path d=\"M12 2l2.2 6.2L20 10l-5.8 1.8L12 18l-2.2-6.2L4 10l5.8-1.8L12 2z\" fill=\"currentColor\"></path></svg>Webflow &amp; WordPress</li><li><svg data-icon=\"icon_url_allc4m1knn\" style=\"color:var(--primary, #f35422)\" width=\"18\" height=\"18\" viewBox=\"0 0 24 24\" fill=\"none\" aria-hidden=\"true\"><path d=\"M12 2l2.2 6.2L20 10l-5.8 1.8L12 18l-2.2-6.2L4 10l5.8-1.8L12 2z\" fill=\"currentColor\"></path></svg>Fast, Accessible Front Ends</li><li><svg data-icon=\"icon_url_allc4m1knn\" style=\"color:var(--primary, #f35422)\" width=\"18\" height=\"18\" viewBox=\"0 0 24 24\" fill=\"none\" aria-hidden=\"true\"><path d=\"M12 2l2.2 6.2L20 10l-5.8 1.8L12 18l-2.2-6.2L4 10l5.8-1.8L12 2z\" fill=\"currentColor\"></path></svg>QA &amp; Launch Support</li></ul><a href=\"#\">Apply now<svg data-icon=\"icon_url_l9fudxs6ix\" width=\"16\" height=\"16\" viewBox=\"0 0 24 24\" fill=\"none\" aria-hidden=\"true\"><path d=\"M7 17L17 7M9 7h8v8\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path></svg></a></label><label for=\"sy18-none\" aria-label=\"Collapse details\"></label><label style=\"background-color:var(--bglight2, #e8e3d8); border-color:var(--neutral, #d6d6d6); --uichemy-accordion-max:900px\"><input type=\"radio\" name=\"sy18-acc\">04.<h3 style=\"color:var(--titlelight, #1f1f1f)\">Growth Marketing Manager</h3><p style=\"color:var(--descriptionlight, #454545)\">Growth team · Lisbon studio · Full-time</p><img src=\"https://inventorganization.s3-tastewp.com/wp-content/uploads/2026/11/a0af18ad7f74ef0f.webp\" alt=\"Portrait of Growth Marketing Manager\" loading=\"lazy\" width=\"1536\" height=\"894\"><ul><li><svg data-icon=\"icon_url_allc4m1knn\" style=\"color:var(--primary, #f35422)\" width=\"18\" height=\"18\" viewBox=\"0 0 24 24\" fill=\"none\" aria-hidden=\"true\"><path d=\"M12 2l2.2 6.2L20 10l-5.8 1.8L12 18l-2.2-6.2L4 10l5.8-1.8L12 2z\" fill=\"currentColor\"></path></svg>Campaign Planning</li><li><svg data-icon=\"icon_url_allc4m1knn\" style=\"color:var(--primary, #f35422)\" width=\"18\" height=\"18\" viewBox=\"0 0 24 24\" fill=\"none\" aria-hidden=\"true\"><path d=\"M12 2l2.2 6.2L20 10l-5.8 1.8L12 18l-2.2-6.2L4 10l5.8-1.8L12 2z\" fill=\"currentColor\"></path></svg>Conversion Testing &amp; CRO</li><li><svg data-icon=\"icon_url_allc4m1knn\" style=\"color:var(--primary, #f35422)\" width=\"18\" height=\"18\" viewBox=\"0 0 24 24\" fill=\"none\" aria-hidden=\"true\"><path d=\"M12 2l2.2 6.2L20 10l-5.8 1.8L12 18l-2.2-6.2L4 10l5.8-1.8L12 2z\" fill=\"currentColor\"></path></svg>Paid Social &amp; Email Flows</li></ul><a href=\"#\">Apply now<svg data-icon=\"icon_url_l9fudxs6ix\" width=\"16\" height=\"16\" viewBox=\"0 0 24 24\" fill=\"none\" aria-hidden=\"true\"><path d=\"M7 17L17 7M9 7h8v8\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path></svg></a></label><label for=\"sy18-none\" aria-label=\"Collapse details\"></label>"
+}

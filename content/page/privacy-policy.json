@@ -1,0 +1,294 @@
+{
+    "id": 3,
+    "type": "page",
+    "slug": "privacy-policy",
+    "status": "publish",
+    "title": "Privacy Policy",
+    "excerpt": "",
+    "menu_order": 0,
+    "parent": 0,
+    "featured_media": 0,
+    "date": "2026-02-17 21:20:38",
+    "terms": [],
+    "meta": {
+        "_elementor_data": {
+            "__json": [
+                {
+                    "id": "4j6ob72",
+                    "elType": "container",
+                    "isInner": false,
+                    "isLocked": false,
+                    "settings": {
+                        "content_width": "full",
+                        "padding": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": true
+                        },
+                        "margin": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": true
+                        },
+                        "flex_gap": {
+                            "unit": "px",
+                            "size": 0,
+                            "sizes": [],
+                            "column": "0",
+                            "row": "0",
+                            "isLinked": true
+                        },
+                        "MSFrame": [
+                            {
+                                "msitem_name": "Effect 1",
+                                "_id": "g3t57bo",
+                                "videoSelectorMs": ".tp-video-element",
+                                "svgSelectorMs": ".tp-svg-path"
+                            }
+                        ],
+                        "as_bs_lists": [],
+                        "as_bs_lists_h": [],
+                        "as_ts_lists": [],
+                        "as_ts_lists_h": [],
+                        "as_ds_lists": [],
+                        "as_ds_lists_h": [],
+                        "tp_display_rules": [
+                            {
+                                "_id": "fa3jyvi"
+                            }
+                        ],
+                        "eventRepeater": [
+                            {
+                                "_id": "74b45s3"
+                            }
+                        ]
+                    },
+                    "defaultEditSettings": {
+                        "defaultEditRoute": "content"
+                    },
+                    "interactions": [],
+                    "elements": [
+                        {
+                            "id": "luhhdao",
+                            "elType": "widget",
+                            "isInner": false,
+                            "isLocked": false,
+                            "settings": {
+                                "raw_html": "<div data-uichemy-root=\"\"><div class=\"bg-bgLight1\" style=\"background-color:var(--bglight1, #f2efe9)\"><div data-template-id=\"6a575f56f18e6132d956b6dc\" class=\"uichemy-container uichemy-max-w-1440px-1byst2h uichemy-p-100px-makc3r uichemy-max-lg-p-56px-11ksq8t uichemy-max-md-p-40px-big2rc mx-auto\"><div class=\"w-full\"><nav class=\"flex items-center uichemy-gap-10px-c335zl uichemy-body-sm-medium text-descriptionLight animate-description-animation\" style=\"color:var(--descriptionlight, #454545)\"><a href=\"/\" class=\"text-descriptionLight\" style=\"color:var(--descriptionlight, #454545)\">Home</a><span style=\"color:var(--neutral, #d6d6d6)\">/</span><a href=\"#\" class=\"text-descriptionLight\" style=\"color:var(--descriptionlight, #454545)\">Legal</a><span style=\"color:var(--neutral, #d6d6d6)\">/</span><span class=\"text-titleLight\" style=\"color:var(--titlelight, #1f1f1f)\">Privacy notice</span></nav><h1 class=\"uichemy-tracking-0-02em-1cf6rnc uichemy-leading-1-05-1f8wreg uichemy-mt-20px-r488hp uichemy-heading-2xl-semibold text-titleLight animate-title-animation\" style=\"color:var(--titlelight, #1f1f1f)\">Privacy Policy</h1><p class=\"uichemy-mt-16px-r4xsfs uichemy-body-sm-medium text-descriptionLight\" style=\"color:var(--descriptionlight, #454545)\">Last updated: 1 October 2026</p><p class=\"uichemy-mt-20px-r488hp uichemy-body-lg-regular text-descriptionLight animate-description-animation\" style=\"color:var(--descriptionlight, #454545)\">This policy explains how Ostra, a design studio based in Lisbon, collects and uses personal data when you visit our site or work with us, and the rights you hold under the EU GDPR.</p><div class=\"uichemy-mt-40px-r8gu4b border-width-top border-neutral animate-grid-layout-animation\" style=\"border-color:var(--neutral, #d6d6d6)\"><details name=\"py6-acc\" open=\"\" class=\"py6-row border-width-bottom border-neutral\" style=\"border-color:var(--neutral, #d6d6d6); --s-primary:var(--primary, #f35422)\"><summary class=\"py6-label list-none cursor-pointer transition-colors duration-300 w-full flex items-center justify-between uichemy-gap-20px-c6krgy uichemy-py-24px-1o74phl text-left uichemy-heading-xs-semibold\"><span class=\"py6-q text-titleLight\" style=\"color:var(--titlelight, #1f1f1f)\">The data we collect</span><div class=\"relative shrink-0 uichemy-w-22px-1rjfmtt uichemy-h-22px-10nsicu\"><span class=\"absolute uichemy-top-1-2-xr8w1b uichemy-left-1-2-17knffj uichemy-w-14px-1rjz0yc uichemy-h-2px-185pruk uichemy-translate-x-1-2-1c036i uichemy-translate-y-1-2-1cpezf\" style=\"background-color:var(--primary, #f35422)\"></span><span class=\"py6-bar-v absolute uichemy-top-1-2-xr8w1b uichemy-left-1-2-17knffj uichemy-w-2px-1wnhtyb uichemy-h-14px-10ptq97 uichemy-translate-x-1-2-1c036i uichemy-translate-y-1-2-1cpezf transition-opacity\" style=\"background-color:var(--primary, #f35422)\"></span></div></summary><div class=\"py6-panel overflow-hidden transition-all duration-300\"><p class=\"uichemy-pb-24px-1be5rn6 uichemy-max-w-680px-1ato8om uichemy-body-md-regular text-descriptionLight\" style=\"color:var(--descriptionlight, #454545)\">We collect what you send us, such as your name, email, company and brief, plus basic usage data like pages viewed, browser type and rough location, gathered by cookies.</p></div></details><details name=\"py6-acc\" class=\"py6-row border-width-bottom border-neutral\" style=\"border-color:var(--neutral, #d6d6d6); --s-primary:var(--primary, #f35422)\"><summary class=\"py6-label list-none cursor-pointer transition-colors duration-300 w-full flex items-center justify-between uichemy-gap-20px-c6krgy uichemy-py-24px-1o74phl text-left uichemy-heading-xs-semibold\"><span class=\"py6-q text-titleLight\" style=\"color:var(--titlelight, #1f1f1f)\">How we use your data</span><div class=\"relative shrink-0 uichemy-w-22px-1rjfmtt uichemy-h-22px-10nsicu\"><span class=\"absolute uichemy-top-1-2-xr8w1b uichemy-left-1-2-17knffj uichemy-w-14px-1rjz0yc uichemy-h-2px-185pruk uichemy-translate-x-1-2-1c036i uichemy-translate-y-1-2-1cpezf\" style=\"background-color:var(--primary, #f35422)\"></span><span class=\"py6-bar-v absolute uichemy-top-1-2-xr8w1b uichemy-left-1-2-17knffj uichemy-w-2px-1wnhtyb uichemy-h-14px-10ptq97 uichemy-translate-x-1-2-1c036i uichemy-translate-y-1-2-1cpezf transition-opacity\" style=\"background-color:var(--primary, #f35422)\"></span></div></summary><div class=\"py6-panel overflow-hidden transition-all duration-300\"><p class=\"uichemy-pb-24px-1be5rn6 uichemy-max-w-680px-1ato8om uichemy-body-md-regular text-descriptionLight\" style=\"color:var(--descriptionlight, #454545)\">We use it to answer briefs, run projects, send invoices and improve the site, relying on contract, consent or our legitimate interests.</p></div></details><details name=\"py6-acc\" class=\"py6-row border-width-bottom border-neutral\" style=\"border-color:var(--neutral, #d6d6d6); --s-primary:var(--primary, #f35422)\"><summary class=\"py6-label list-none cursor-pointer transition-colors duration-300 w-full flex items-center justify-between uichemy-gap-20px-c6krgy uichemy-py-24px-1o74phl text-left uichemy-heading-xs-semibold\"><span class=\"py6-q text-titleLight\" style=\"color:var(--titlelight, #1f1f1f)\">Cookies and site stats</span><div class=\"relative shrink-0 uichemy-w-22px-1rjfmtt uichemy-h-22px-10nsicu\"><span class=\"absolute uichemy-top-1-2-xr8w1b uichemy-left-1-2-17knffj uichemy-w-14px-1rjz0yc uichemy-h-2px-185pruk uichemy-translate-x-1-2-1c036i uichemy-translate-y-1-2-1cpezf\" style=\"background-color:var(--primary, #f35422)\"></span><span class=\"py6-bar-v absolute uichemy-top-1-2-xr8w1b uichemy-left-1-2-17knffj uichemy-w-2px-1wnhtyb uichemy-h-14px-10ptq97 uichemy-translate-x-1-2-1c036i uichemy-translate-y-1-2-1cpezf transition-opacity\" style=\"background-color:var(--primary, #f35422)\"></span></div></summary><div class=\"py6-panel overflow-hidden transition-all duration-300\"><p class=\"uichemy-pb-24px-1be5rn6 uichemy-max-w-680px-1ato8om uichemy-body-md-regular text-descriptionLight\" style=\"color:var(--descriptionlight, #454545)\">Essential cookies keep the site working. Analytics cookies, which show us which pages are useful, load only after you agree, and you can change that choice anytime.</p></div></details><details name=\"py6-acc\" class=\"py6-row border-width-bottom border-neutral\" style=\"border-color:var(--neutral, #d6d6d6); --s-primary:var(--primary, #f35422)\"><summary class=\"py6-label list-none cursor-pointer transition-colors duration-300 w-full flex items-center justify-between uichemy-gap-20px-c6krgy uichemy-py-24px-1o74phl text-left uichemy-heading-xs-semibold\"><span class=\"py6-q text-titleLight\" style=\"color:var(--titlelight, #1f1f1f)\">Who we share it with</span><div class=\"relative shrink-0 uichemy-w-22px-1rjfmtt uichemy-h-22px-10nsicu\"><span class=\"absolute uichemy-top-1-2-xr8w1b uichemy-left-1-2-17knffj uichemy-w-14px-1rjz0yc uichemy-h-2px-185pruk uichemy-translate-x-1-2-1c036i uichemy-translate-y-1-2-1cpezf\" style=\"background-color:var(--primary, #f35422)\"></span><span class=\"py6-bar-v absolute uichemy-top-1-2-xr8w1b uichemy-left-1-2-17knffj uichemy-w-2px-1wnhtyb uichemy-h-14px-10ptq97 uichemy-translate-x-1-2-1c036i uichemy-translate-y-1-2-1cpezf transition-opacity\" style=\"background-color:var(--primary, #f35422)\"></span></div></summary><div class=\"py6-panel overflow-hidden transition-all duration-300\"><p class=\"uichemy-pb-24px-1be5rn6 uichemy-max-w-680px-1ato8om uichemy-body-md-regular text-descriptionLight\" style=\"color:var(--descriptionlight, #454545)\">We share data only with processors that help us run the studio, such as hosting, email and invoicing tools, under contract. We never sell it.</p></div></details><details name=\"py6-acc\" class=\"py6-row border-width-bottom border-neutral\" style=\"border-color:var(--neutral, #d6d6d6); --s-primary:var(--primary, #f35422)\"><summary class=\"py6-label list-none cursor-pointer transition-colors duration-300 w-full flex items-center justify-between uichemy-gap-20px-c6krgy uichemy-py-24px-1o74phl text-left uichemy-heading-xs-semibold\"><span class=\"py6-q text-titleLight\" style=\"color:var(--titlelight, #1f1f1f)\">Storage periods</span><div class=\"relative shrink-0 uichemy-w-22px-1rjfmtt uichemy-h-22px-10nsicu\"><span class=\"absolute uichemy-top-1-2-xr8w1b uichemy-left-1-2-17knffj uichemy-w-14px-1rjz0yc uichemy-h-2px-185pruk uichemy-translate-x-1-2-1c036i uichemy-translate-y-1-2-1cpezf\" style=\"background-color:var(--primary, #f35422)\"></span><span class=\"py6-bar-v absolute uichemy-top-1-2-xr8w1b uichemy-left-1-2-17knffj uichemy-w-2px-1wnhtyb uichemy-h-14px-10ptq97 uichemy-translate-x-1-2-1c036i uichemy-translate-y-1-2-1cpezf transition-opacity\" style=\"background-color:var(--primary, #f35422)\"></span></div></summary><div class=\"py6-panel overflow-hidden transition-all duration-300\"><p class=\"uichemy-pb-24px-1be5rn6 uichemy-max-w-680px-1ato8om uichemy-body-md-regular text-descriptionLight\" style=\"color:var(--descriptionlight, #454545)\">Enquiries are deleted after 24 months of silence. Project and billing records are kept as long as tax law requires.</p></div></details><details name=\"py6-acc\" class=\"py6-row border-width-bottom border-neutral\" style=\"border-color:var(--neutral, #d6d6d6); --s-primary:var(--primary, #f35422)\"><summary class=\"py6-label list-none cursor-pointer transition-colors duration-300 w-full flex items-center justify-between uichemy-gap-20px-c6krgy uichemy-py-24px-1o74phl text-left uichemy-heading-xs-semibold\"><span class=\"py6-q text-titleLight\" style=\"color:var(--titlelight, #1f1f1f)\">Protection</span><div class=\"relative shrink-0 uichemy-w-22px-1rjfmtt uichemy-h-22px-10nsicu\"><span class=\"absolute uichemy-top-1-2-xr8w1b uichemy-left-1-2-17knffj uichemy-w-14px-1rjz0yc uichemy-h-2px-185pruk uichemy-translate-x-1-2-1c036i uichemy-translate-y-1-2-1cpezf\" style=\"background-color:var(--primary, #f35422)\"></span><span class=\"py6-bar-v absolute uichemy-top-1-2-xr8w1b uichemy-left-1-2-17knffj uichemy-w-2px-1wnhtyb uichemy-h-14px-10ptq97 uichemy-translate-x-1-2-1c036i uichemy-translate-y-1-2-1cpezf transition-opacity\" style=\"background-color:var(--primary, #f35422)\"></span></div></summary><div class=\"py6-panel overflow-hidden transition-all duration-300\"><p class=\"uichemy-pb-24px-1be5rn6 uichemy-max-w-680px-1ato8om uichemy-body-md-regular text-descriptionLight\" style=\"color:var(--descriptionlight, #454545)\">Only people who need personal data can reach it. Accounts use two-factor sign-in, and our providers encrypt data at rest and in transit.</p></div></details><details name=\"py6-acc\" class=\"py6-row border-width-bottom border-neutral\" style=\"border-color:var(--neutral, #d6d6d6); --s-primary:var(--primary, #f35422)\"><summary class=\"py6-label list-none cursor-pointer transition-colors duration-300 w-full flex items-center justify-between uichemy-gap-20px-c6krgy uichemy-py-24px-1o74phl text-left uichemy-heading-xs-semibold\"><span class=\"py6-q text-titleLight\" style=\"color:var(--titlelight, #1f1f1f)\">Your rights</span><div class=\"relative shrink-0 uichemy-w-22px-1rjfmtt uichemy-h-22px-10nsicu\"><span class=\"absolute uichemy-top-1-2-xr8w1b uichemy-left-1-2-17knffj uichemy-w-14px-1rjz0yc uichemy-h-2px-185pruk uichemy-translate-x-1-2-1c036i uichemy-translate-y-1-2-1cpezf\" style=\"background-color:var(--primary, #f35422)\"></span><span class=\"py6-bar-v absolute uichemy-top-1-2-xr8w1b uichemy-left-1-2-17knffj uichemy-w-2px-1wnhtyb uichemy-h-14px-10ptq97 uichemy-translate-x-1-2-1c036i uichemy-translate-y-1-2-1cpezf transition-opacity\" style=\"background-color:var(--primary, #f35422)\"></span></div></summary><div class=\"py6-panel overflow-hidden transition-all duration-300\"><p class=\"uichemy-pb-24px-1be5rn6 uichemy-max-w-680px-1ato8om uichemy-body-md-regular text-descriptionLight\" style=\"color:var(--descriptionlight, #454545)\">You can ask to see, correct, export or delete your data, or complain to the CNPD, Portugal's data regulator.</p></div></details><details name=\"py6-acc\" class=\"py6-row border-width-bottom border-neutral\" style=\"border-color:var(--neutral, #d6d6d6); --s-primary:var(--primary, #f35422)\"><summary class=\"py6-label list-none cursor-pointer transition-colors duration-300 w-full flex items-center justify-between uichemy-gap-20px-c6krgy uichemy-py-24px-1o74phl text-left uichemy-heading-xs-semibold\"><span class=\"py6-q text-titleLight\" style=\"color:var(--titlelight, #1f1f1f)\">Transfers outside the EU</span><div class=\"relative shrink-0 uichemy-w-22px-1rjfmtt uichemy-h-22px-10nsicu\"><span class=\"absolute uichemy-top-1-2-xr8w1b uichemy-left-1-2-17knffj uichemy-w-14px-1rjz0yc uichemy-h-2px-185pruk uichemy-translate-x-1-2-1c036i uichemy-translate-y-1-2-1cpezf\" style=\"background-color:var(--primary, #f35422)\"></span><span class=\"py6-bar-v absolute uichemy-top-1-2-xr8w1b uichemy-left-1-2-17knffj uichemy-w-2px-1wnhtyb uichemy-h-14px-10ptq97 uichemy-translate-x-1-2-1c036i uichemy-translate-y-1-2-1cpezf transition-opacity\" style=\"background-color:var(--primary, #f35422)\"></span></div></summary><div class=\"py6-panel overflow-hidden transition-all duration-300\"><p class=\"uichemy-pb-24px-1be5rn6 uichemy-max-w-680px-1ato8om uichemy-body-md-regular text-descriptionLight\" style=\"color:var(--descriptionlight, #454545)\">Some of our tools sit outside the EU. When data leaves the EEA, we rely on adequacy decisions or Standard Contractual Clauses.</p></div></details><details name=\"py6-acc\" class=\"py6-row border-width-bottom border-neutral\" style=\"border-color:var(--neutral, #d6d6d6); --s-primary:var(--primary, #f35422)\"><summary class=\"py6-label list-none cursor-pointer transition-colors duration-300 w-full flex items-center justify-between uichemy-gap-20px-c6krgy uichemy-py-24px-1o74phl text-left uichemy-heading-xs-semibold\"><span class=\"py6-q text-titleLight\" style=\"color:var(--titlelight, #1f1f1f)\">Children's data</span><div class=\"relative shrink-0 uichemy-w-22px-1rjfmtt uichemy-h-22px-10nsicu\"><span class=\"absolute uichemy-top-1-2-xr8w1b uichemy-left-1-2-17knffj uichemy-w-14px-1rjz0yc uichemy-h-2px-185pruk uichemy-translate-x-1-2-1c036i uichemy-translate-y-1-2-1cpezf\" style=\"background-color:var(--primary, #f35422)\"></span><span class=\"py6-bar-v absolute uichemy-top-1-2-xr8w1b uichemy-left-1-2-17knffj uichemy-w-2px-1wnhtyb uichemy-h-14px-10ptq97 uichemy-translate-x-1-2-1c036i uichemy-translate-y-1-2-1cpezf transition-opacity\" style=\"background-color:var(--primary, #f35422)\"></span></div></summary><div class=\"py6-panel overflow-hidden transition-all duration-300\"><p class=\"uichemy-pb-24px-1be5rn6 uichemy-max-w-680px-1ato8om uichemy-body-md-regular text-descriptionLight\" style=\"color:var(--descriptionlight, #454545)\">Our services are for businesses. We do not knowingly collect data from children, and we delete any that reaches us.</p></div></details><details name=\"py6-acc\" class=\"py6-row border-width-bottom border-neutral\" style=\"border-color:var(--neutral, #d6d6d6); --s-primary:var(--primary, #f35422)\"><summary class=\"py6-label list-none cursor-pointer transition-colors duration-300 w-full flex items-center justify-between uichemy-gap-20px-c6krgy uichemy-py-24px-1o74phl text-left uichemy-heading-xs-semibold\"><span class=\"py6-q text-titleLight\" style=\"color:var(--titlelight, #1f1f1f)\">If this policy changes</span><div class=\"relative shrink-0 uichemy-w-22px-1rjfmtt uichemy-h-22px-10nsicu\"><span class=\"absolute uichemy-top-1-2-xr8w1b uichemy-left-1-2-17knffj uichemy-w-14px-1rjz0yc uichemy-h-2px-185pruk uichemy-translate-x-1-2-1c036i uichemy-translate-y-1-2-1cpezf\" style=\"background-color:var(--primary, #f35422)\"></span><span class=\"py6-bar-v absolute uichemy-top-1-2-xr8w1b uichemy-left-1-2-17knffj uichemy-w-2px-1wnhtyb uichemy-h-14px-10ptq97 uichemy-translate-x-1-2-1c036i uichemy-translate-y-1-2-1cpezf transition-opacity\" style=\"background-color:var(--primary, #f35422)\"></span></div></summary><div class=\"py6-panel overflow-hidden transition-all duration-300\"><p class=\"uichemy-pb-24px-1be5rn6 uichemy-max-w-680px-1ato8om uichemy-body-md-regular text-descriptionLight\" style=\"color:var(--descriptionlight, #454545)\">If we change how we handle data, we will update this page and its date. Bigger changes get a notice on the site.</p></div></details><details name=\"py6-acc\" class=\"py6-row border-width-bottom border-neutral\" style=\"border-color:var(--neutral, #d6d6d6); --s-primary:var(--primary, #f35422)\"><summary class=\"py6-label list-none cursor-pointer transition-colors duration-300 w-full flex items-center justify-between uichemy-gap-20px-c6krgy uichemy-py-24px-1o74phl text-left uichemy-heading-xs-semibold\"><span class=\"py6-q text-titleLight\" style=\"color:var(--titlelight, #1f1f1f)\">Questions?</span><div class=\"relative shrink-0 uichemy-w-22px-1rjfmtt uichemy-h-22px-10nsicu\"><span class=\"absolute uichemy-top-1-2-xr8w1b uichemy-left-1-2-17knffj uichemy-w-14px-1rjz0yc uichemy-h-2px-185pruk uichemy-translate-x-1-2-1c036i uichemy-translate-y-1-2-1cpezf\" style=\"background-color:var(--primary, #f35422)\"></span><span class=\"py6-bar-v absolute uichemy-top-1-2-xr8w1b uichemy-left-1-2-17knffj uichemy-w-2px-1wnhtyb uichemy-h-14px-10ptq97 uichemy-translate-x-1-2-1c036i uichemy-translate-y-1-2-1cpezf transition-opacity\" style=\"background-color:var(--primary, #f35422)\"></span></div></summary><div class=\"py6-panel overflow-hidden transition-all duration-300\"><p class=\"uichemy-pb-24px-1be5rn6 uichemy-max-w-680px-1ato8om uichemy-body-md-regular text-descriptionLight\" style=\"color:var(--descriptionlight, #454545)\">Email hello@ostra.studio with any privacy question or data request.</p></div></details></div></div></div></div></div>",
+                                "raw_css": "*{font-family:'Syne', ui-sans-serif, system-ui, sans-serif !important}\n[data-uichemy-root]{--font-sans:ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\";--default-transition-duration:.15s;--default-transition-timing-function:cubic-bezier(.4, 0, .2, 1);--default-font-family:var(--font-sans);--shadow-button-shadow-normal:0 4px 20px #0000000f;--shadow-button-shadow-hover:0 12px 40px #000c;--shadow-card-shadow-normal:0 4px 20px #0000000f;--shadow-card-shadow-hover:0 12px 40px #0000001f;--shadow-image-shadow-normal:none;--shadow-image-shadow-hover:none;--shadow-input-field-shadow-normal:0 4px 20px #0000000f;--shadow-input-field-shadow-focus:none;--animate-title-animation:fade-up .6s ease-out forwards;--animate-description-animation:fade-up .6s ease-out forwards;--animate-grid-layout-animation:fade-up .6s ease-out forwards;--foreground:oklch(14.5% 0 0);--border:oklch(92.2% 0 0);--ring:oklch(70.8% 0 0);-webkit-text-size-adjust:100%;tab-size:4;line-height:1.5;font-family:var(--default-font-family,ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\");font-feature-settings:var(--default-font-feature-settings,normal);font-variation-settings:var(--default-font-variation-settings,normal);color:var(--foreground)}\n@supports (((-webkit-hyphens:none)) and (not (margin-trim:inline))) or ((-moz-orient:inline) and (not (color:rgb(from red r g b)))){*,:before,:after,::backdrop{--tw-translate-x:0;--tw-translate-y:0;--tw-duration:initial}}\n*,:after,:before,::backdrop{box-sizing:border-box;border:0 solid;margin:0;padding:0}\nh1{font-size:inherit;font-weight:inherit}\na{color:inherit;-webkit-text-decoration:inherit;-webkit-text-decoration:inherit;-webkit-text-decoration:inherit;text-decoration:inherit}\n:-moz-focusring{outline:auto}\nsummary{display:list-item}\n:-moz-ui-invalid{box-shadow:none}\n[hidden]:where(:not([hidden=until-found])){display:none!important}\n*{border-color:var(--border);outline-color:var(--ring)}\n@supports (color:color-mix(in lab, red, red)){*{outline-color:color-mix(in oklab, var(--ring) 50%, transparent)}}\n.absolute{position:absolute}\n.relative{position:relative}\n.uichemy-top-1-2-xr8w1b{top:50%}\n.uichemy-left-1-2-17knffj{left:50%}\n.mx-auto{margin-inline:auto}\n.uichemy-mt-16px-r4xsfs{margin-top:16px}\n.uichemy-mt-20px-r488hp{margin-top:20px}\n.uichemy-mt-40px-r8gu4b{margin-top:40px}\n.flex{display:flex}\n.uichemy-h-2px-185pruk{height:2px}\n.uichemy-h-14px-10ptq97{height:14px}\n.uichemy-h-22px-10nsicu{height:22px}\n.uichemy-w-2px-1wnhtyb{width:2px}\n.uichemy-w-14px-1rjz0yc{width:14px}\n.uichemy-w-22px-1rjfmtt{width:22px}\n.w-full{width:100%}\n.uichemy-max-w-680px-1ato8om{max-width:680px}\n.uichemy-max-w-1440px-1byst2h{max-width:1440px}\n.shrink-0{flex-shrink:0}\n.uichemy-translate-x-1-2-1c036i{--tw-translate-x:calc(calc(1 / 2 * 100%) * -1);translate:var(--tw-translate-x) var(--tw-translate-y)}\n.uichemy-translate-y-1-2-1cpezf{--tw-translate-y:calc(calc(1 / 2 * 100%) * -1);translate:var(--tw-translate-x) var(--tw-translate-y)}\n.animate-grid-layout-animation{animation:var(--animate-grid-layout-animation)}\n.cursor-pointer{cursor:pointer}\n.list-none{list-style-type:none}\n.items-center{align-items:center}\n.justify-between{justify-content:space-between}\n.uichemy-gap-10px-c335zl{gap:10px}\n.uichemy-gap-20px-c6krgy{gap:20px}\n.overflow-hidden{overflow:hidden}\n.border-neutral{border-color:var(--neutral, #D6D6D6)}\n.bg-bgLight1{background-color:var(--bglight1, #FFFFFF)}\n.uichemy-p-100px-makc3r{padding:100px}\n.uichemy-py-24px-1o74phl{padding-block:24px}\n.uichemy-pb-24px-1be5rn6{padding-bottom:24px}\n.text-left{text-align:left}\n.uichemy-leading-1-05-1f8wreg{line-height:1.05}\n.uichemy-tracking-0-02em-1cf6rnc{letter-spacing:-.02em}\n.text-descriptionLight{color:var(--descriptionlight, #808080)}\n.text-titleLight{color:var(--titlelight, #0D0D0D)}\n.transition-all{transition-property:all;transition-timing-function:var(--tw-ease,var(--default-transition-timing-function));transition-duration:var(--tw-duration,var(--default-transition-duration))}\n.transition-colors{transition-property:color,background-color,border-color,outline-color,text-decoration-color,fill,stroke,--tw-gradient-from,--tw-gradient-via,--tw-gradient-to;transition-timing-function:var(--tw-ease,var(--default-transition-timing-function));transition-duration:var(--tw-duration,var(--default-transition-duration))}\n.transition-opacity{transition-property:opacity;transition-timing-function:var(--tw-ease,var(--default-transition-timing-function));transition-duration:var(--tw-duration,var(--default-transition-duration))}\n.duration-300{--tw-duration:.3s;transition-duration:.3s}\n@media not all and (min-width:64rem){.uichemy-max-lg-p-56px-11ksq8t{padding:56px}}\n@media not all and (min-width:48rem){.uichemy-max-md-p-40px-big2rc{padding:40px}}\n.border-width-top{border-width:var(--border-width-top, 1px 0px 0px 0px);border-style:solid}\n.border-width-bottom{border-width:var(--border-width-bottom, 0px 0px 1px 0px);border-style:solid}\n.animate-grid-layout-animation>*{opacity:0;animation:var(--animate-grid-layout-animation)}\n.animate-title-animation{animation:var(--animate-title-animation)!important}\n.animate-description-animation{animation:var(--animate-description-animation)!important}\n.uichemy-container{max-width:1440px;margin:auto;padding:80px 100px}\n.uichemy-heading-2xl-semibold{font-size:calc(72px * var(--uc-heading-scale,1));font-weight:600;line-height:90px}\n.uichemy-heading-xs-semibold{font-size:calc(24px * var(--uc-heading-scale,1));font-weight:600;line-height:32px}\n.uichemy-body-lg-regular{font-size:calc(18px * var(--uc-body-scale,1));font-weight:400;line-height:28px}\n.uichemy-body-md-regular{font-size:calc(16px * var(--uc-body-scale,1));font-weight:400;line-height:24px}\n.uichemy-body-sm-medium{font-size:calc(14px * var(--uc-body-scale,1));font-weight:500;line-height:20px}\n[data-uc-section-overlay=off] [data-uc-overlay]{display:none!important}\n[data-uc-section-overlay=black] [data-uc-overlay]{opacity:1!important;background-image:none!important;background-color:rgb(0 0 0/var(--uc-overlay-opacity,.5))!important}\n@media (max-width:1024px){.uichemy-heading-2xl-semibold{font-size:calc(60px * var(--uc-heading-scale,1));line-height:70px}.uichemy-heading-xs-semibold{font-size:calc(20px * var(--uc-heading-scale,1));line-height:28px}.uichemy-body-lg-regular{font-size:calc(16px * var(--uc-body-scale,1));line-height:24px}.uichemy-body-md-regular{font-size:calc(15px * var(--uc-body-scale,1));line-height:22px}.uichemy-body-sm-medium{font-size:calc(13px * var(--uc-body-scale,1));line-height:18px}.uichemy-container{padding:60px 15px}}\n@media (max-width:768px){.uichemy-heading-2xl-semibold{font-size:calc(48px * var(--uc-heading-scale,1));line-height:56px}.uichemy-heading-xs-semibold{font-size:calc(18px * var(--uc-heading-scale,1));line-height:24px}.uichemy-body-lg-regular{font-size:calc(15px * var(--uc-body-scale,1));line-height:22px}.uichemy-body-md-regular{font-size:calc(14px * var(--uc-body-scale,1));line-height:20px}.uichemy-body-sm-medium{font-size:calc(12px * var(--uc-body-scale,1));line-height:16px}.uichemy-container{padding:40px 15px}}\n@keyframes fade-up{0%{opacity:0;transform:translateY(20px)}to{opacity:1;transform:translateY(0)}}\n.animate-grid-layout-animation>:nth-child(8n+1){animation-delay:.1s}\n.animate-grid-layout-animation>:nth-child(8n+2){animation-delay:.2s}\n.animate-grid-layout-animation>:nth-child(8n+3){animation-delay:.3s}\n.animate-grid-layout-animation>:nth-child(8n+4){animation-delay:.4s}\n.animate-grid-layout-animation>:nth-child(8n+5){animation-delay:.5s}\n.animate-grid-layout-animation>:nth-child(8n+6){animation-delay:.6s}\n.animate-grid-layout-animation>:nth-child(8n+7){animation-delay:.7s}\n.animate-grid-layout-animation>:nth-child(8n+8){animation-delay:.8s}\n@property --tw-translate-x{syntax:\"*\";inherits:false;initial-value:0}\n@property --tw-translate-y{syntax:\"*\";inherits:false;initial-value:0}\n@property --tw-duration{syntax:\"*\";inherits:false}\n.py6-panel{ display: block; max-height: 0; }\n.py6-row[open] > .py6-panel{ max-height: 260px; }\n.py6-row[open] > .py6-label .py6-q.py6-q{ color: var(--s-primary) !important; }\n.py6-row[open] > .py6-label .py6-bar-v{ opacity: 0; }\n.py6-label::-webkit-details-marker, .py6-label::marker{ display: none; }\n[data-uichemy-root]{\n  --color-primary-text: var(--titlelight, #1F1F1F);\n  --color-secondary-text: var(--titlelight, #1F1F1F);\n}\n[data-uichemy-root] .bg-bgLight1{\n  \n  \n}\n[data-uichemy-root] [style*=\"background-color:var(--primary\" i] :is([style^=\"color:var(--bglight1\" i], [style*=\";color:var(--bglight1\" i], [style*=\"; color:var(--bglight1\" i], [style^=\"color: var(--bglight1\" i], [style*=\";color: var(--bglight1\" i], [style*=\"; color: var(--bglight1\" i]){\n  color: #1F1F1F !important;\n}\n[data-uichemy-root] [style*=\"background-color:var(--primary\" i]:is([style^=\"color:var(--bglight1\" i], [style*=\";color:var(--bglight1\" i], [style*=\"; color:var(--bglight1\" i], [style^=\"color: var(--bglight1\" i], [style*=\";color: var(--bglight1\" i], [style*=\"; color: var(--bglight1\" i]){\n  color: #1F1F1F !important;\n}",
+                                "raw_js": "",
+                                "site_custom_code_head": "<link rel=\"stylesheet\" href=\"https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:ital,wght@0,200..800;1,200..800&display=swap\">",
+                                "raw_deps_site": "[{\"id\":\"imported_th8n5uo\",\"name\":\"Plus Jakarta Sans\",\"v\":\"—\",\"kind\":\"style\",\"url\":\"https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:ital,wght@0,200..800;1,200..800&display=swap\",\"attrs\":[],\"position\":\"before\",\"enabled\":true,\"brief\":\"Imported from editor\",\"category\":\"Imported\"}]",
+                                "plus_tooltip_content_desc": "Luctus nec ullamcorper mattis",
+                                "page_custom_code_head": "<title>Privacy Policy | Ostra</title>\n<meta name=\"description\" content=\"Read Ostra&#039;s Privacy Policy to understand how we handle your personal data in compliance with EU GDPR regulations.\" />\n<meta property=\"og:image\" content=\"https://inventorganization.s3-tastewp.com/wp-content/uploads/2026/11/8b42c543c359852f.jpg\" data-id=\"200\" />"
+                            },
+                            "defaultEditSettings": {
+                                "defaultEditRoute": "content"
+                            },
+                            "interactions": [],
+                            "elements": [],
+                            "title": "Composer",
+                            "categories": [
+                                "uichemy"
+                            ],
+                            "keywords": [
+                                "html",
+                                "composer",
+                                "dynamic",
+                                "text"
+                            ],
+                            "icon": "eicon-code",
+                            "widgetType": "uichemy-builder",
+                            "hideOnSearch": false,
+                            "editSettings": {
+                                "defaultEditRoute": "content",
+                                "panel": {
+                                    "activeTab": "style",
+                                    "activeSection": "section_style"
+                                }
+                            }
+                        }
+                    ],
+                    "editSettings": {
+                        "defaultEditRoute": "layout",
+                        "panel": {
+                            "activeTab": "layout",
+                            "activeSection": "section_layout_container"
+                        }
+                    }
+                }
+            ]
+        },
+        "_elementor_data_last_editor": "1",
+        "_elementor_edit_mode": "builder",
+        "_elementor_global_class_usage_indexed": "1",
+        "_elementor_global_class_usage_indexed_preview": "1",
+        "_elementor_template_type": "wp-page",
+        "_elementor_version": "4.4.1",
+        "_uichemy_seo": {
+            "v": 4,
+            "kind": "instance",
+            "built_at": 1795080084,
+            "source_sig": "91dcb08990f531884d1596d3c91d9ec6",
+            "derived": {
+                "headings": [
+                    {
+                        "level": 1,
+                        "text": "Privacy Policy",
+                        "path": "0.0.0.0.0.1",
+                        "section": "luhhdao"
+                    }
+                ],
+                "images": [],
+                "links": [
+                    {
+                        "href": "/",
+                        "text": "Home",
+                        "aria_label": "",
+                        "internal": true,
+                        "rel": "",
+                        "target": "",
+                        "path": "0.0.0.0.0.0.0",
+                        "section": "luhhdao"
+                    }
+                ],
+                "pseudo_headings": [],
+                "faq_candidates": [
+                    {
+                        "items": [
+                            {
+                                "q": "The data we collect",
+                                "a": "We collect what you send us, such as your name, email, company and brief, plus basic usage data like pages viewed, browser type and rough location, gathered by cookies."
+                            },
+                            {
+                                "q": "How we use your data",
+                                "a": "We use it to answer briefs, run projects, send invoices and improve the site, relying on contract, consent or our legitimate interests."
+                            },
+                            {
+                                "q": "Cookies and site stats",
+                                "a": "Essential cookies keep the site working. Analytics cookies, which show us which pages are useful, load only after you agree, and you can change that choice anytime."
+                            },
+                            {
+                                "q": "Who we share it with",
+                                "a": "We share data only with processors that help us run the studio, such as hosting, email and invoicing tools, under contract. We never sell it."
+                            },
+                            {
+                                "q": "Storage periods",
+                                "a": "Enquiries are deleted after 24 months of silence. Project and billing records are kept as long as tax law requires."
+                            },
+                            {
+                                "q": "Protection",
+                                "a": "Only people who need personal data can reach it. Accounts use two-factor sign-in, and our providers encrypt data at rest and in transit."
+                            },
+                            {
+                                "q": "Your rights",
+                                "a": "You can ask to see, correct, export or delete your data, or complain to the CNPD, Portugal's data regulator."
+                            },
+                            {
+                                "q": "Transfers outside the EU",
+                                "a": "Some of our tools sit outside the EU. When data leaves the EEA, we rely on adequacy decisions or Standard Contractual Clauses."
+                            },
+                            {
+                                "q": "Children's data",
+                                "a": "Our services are for businesses. We do not knowingly collect data from children, and we delete any that reaches us."
+                            },
+                            {
+                                "q": "If this policy changes",
+                                "a": "If we change how we handle data, we will update this page and its date. Bigger changes get a notice on the site."
+                            },
+                            {
+                                "q": "Questions?",
+                                "a": "Email hello@ostra.studio with any privacy question or data request."
+                            }
+                        ],
+                        "path": "0.0.0.0.0.4",
+                        "section": "luhhdao",
+                        "declared": false
+                    }
+                ],
+                "breadcrumbs": [],
+                "entities": [],
+                "section_ld": [],
+                "signals": {
+                    "has_main": false,
+                    "navs": [
+                        {
+                            "label": "",
+                            "path": "0.0.0.0.0.0",
+                            "section": "luhhdao"
+                        }
+                    ],
+                    "iframes_no_title": [],
+                    "time_no_datetime": [],
+                    "tables_no_header": [],
+                    "product_markup": false,
+                    "price_found": false
+                },
+                "word_count": 320,
+                "structure": {
+                    "heading_depth": 1,
+                    "link_density": 0.077,
+                    "avg_paragraph_words": 22,
+                    "structured_ratio": 0,
+                    "emphasis_ratio": 0
+                },
+                "title": {
+                    "value": "Privacy Policy",
+                    "from": "h1",
+                    "path": "0.0.0.0.0.1",
+                    "section": "luhhdao",
+                    "twig": false
+                },
+                "description": {
+                    "value": "This policy explains how Ostra, a design studio based in Lisbon, collects and uses personal data when you visit our site or work with us, and the rights you…",
+                    "from": "first-paragraph",
+                    "path": "0.0.0.0.0.3",
+                    "section": "luhhdao",
+                    "twig": false
+                },
+                "share_image": null,
+                "content_type": null,
+                "head": {
+                    "title": "Privacy Policy | Ostra",
+                    "description": "Read Ostra's Privacy Policy to understand how we handle your personal data in compliance with EU GDPR regulations.",
+                    "canonical": null,
+                    "robots": null,
+                    "og": {
+                        "og:image": "https://inventorganization.s3-tastewp.com/wp-content/uploads/2026/11/8b42c543c359852f.jpg"
+                    },
+                    "twitter": [],
+                    "verify": [],
+                    "image_id": 200,
+                    "ai_exclude": false,
+                    "ldjson": [],
+                    "ld_errors": 0
+                },
+                "source": "composer:elementor"
+            },
+            "findings": [
+                {
+                    "check_id": 29,
+                    "check": "faq_not_published",
+                    "severity": "notice",
+                    "message": "This looks like a list of questions and answers. Add FAQPage JSON-LD to that section (Schema, in the editor) so it can appear in Google.",
+                    "fix_target": "code",
+                    "post_id": 3,
+                    "node_path": "0.0.0.0.0.4",
+                    "section": "luhhdao",
+                    "ignored": false
+                }
+            ],
+            "ignored_checks": [],
+            "site_findings": [],
+            "site_checked": 0
+        },
+        "_wp_page_template": "default"
+    },
+    "content": "<style id=\"uich-icon-font-guard\">html body [data-uichemy-root] [class*=\"fa-\"],html body [data-uichemy-root] [class*=\"fa-\"]::before,html body [data-uichemy-root] [class*=\"fa-\"]::after{font-family:\"Font Awesome 6 Free\",\"Font Awesome 6 Brands\",\"Font Awesome 6 Pro\",\"Font Awesome 5 Free\",\"Font Awesome 5 Brands\",\"Font Awesome 5 Pro\",\"FontAwesome\" !important}html body [data-uichemy-root] [class*=\"eicon-\"],html body [data-uichemy-root] [class*=\"eicon-\"]::before{font-family:\"eicons\" !important}html body [data-uichemy-root] [class*=\"dashicons\"],html body [data-uichemy-root] [class*=\"dashicons\"]::before{font-family:\"dashicons\" !important}</style><nav style=\"color:var(--descriptionlight, #454545)\"><a href=\"/\" style=\"color:var(--descriptionlight, #454545)\">Home</a>/<a href=\"#\" style=\"color:var(--descriptionlight, #454545)\">Legal</a>/Privacy notice</nav><h1 style=\"color:var(--titlelight, #1f1f1f)\">Privacy Policy</h1><p style=\"color:var(--descriptionlight, #454545)\">Last updated: 1 October 2026</p><p style=\"color:var(--descriptionlight, #454545)\">This policy explains how Ostra, a design studio based in Lisbon, collects and uses personal data when you visit our site or work with us, and the rights you hold under the EU GDPR.</p><details name=\"py6-acc\" open=\"\" style=\"border-color:var(--neutral, #d6d6d6); --s-primary:var(--primary, #f35422)\"><summary>The data we collect</summary><p style=\"color:var(--descriptionlight, #454545)\">We collect what you send us, such as your name, email, company and brief, plus basic usage data like pages viewed, browser type and rough location, gathered by cookies.</p></details><details name=\"py6-acc\" style=\"border-color:var(--neutral, #d6d6d6); --s-primary:var(--primary, #f35422)\"><summary>How we use your data</summary><p style=\"color:var(--descriptionlight, #454545)\">We use it to answer briefs, run projects, send invoices and improve the site, relying on contract, consent or our legitimate interests.</p></details><details name=\"py6-acc\" style=\"border-color:var(--neutral, #d6d6d6); --s-primary:var(--primary, #f35422)\"><summary>Cookies and site stats</summary><p style=\"color:var(--descriptionlight, #454545)\">Essential cookies keep the site working. Analytics cookies, which show us which pages are useful, load only after you agree, and you can change that choice anytime.</p></details><details name=\"py6-acc\" style=\"border-color:var(--neutral, #d6d6d6); --s-primary:var(--primary, #f35422)\"><summary>Who we share it with</summary><p style=\"color:var(--descriptionlight, #454545)\">We share data only with processors that help us run the studio, such as hosting, email and invoicing tools, under contract. We never sell it.</p></details><details name=\"py6-acc\" style=\"border-color:var(--neutral, #d6d6d6); --s-primary:var(--primary, #f35422)\"><summary>Storage periods</summary><p style=\"color:var(--descriptionlight, #454545)\">Enquiries are deleted after 24 months of silence. Project and billing records are kept as long as tax law requires.</p></details><details name=\"py6-acc\" style=\"border-color:var(--neutral, #d6d6d6); --s-primary:var(--primary, #f35422)\"><summary>Protection</summary><p style=\"color:var(--descriptionlight, #454545)\">Only people who need personal data can reach it. Accounts use two-factor sign-in, and our providers encrypt data at rest and in transit.</p></details><details name=\"py6-acc\" style=\"border-color:var(--neutral, #d6d6d6); --s-primary:var(--primary, #f35422)\"><summary>Your rights</summary><p style=\"color:var(--descriptionlight, #454545)\">You can ask to see, correct, export or delete your data, or complain to the CNPD, Portugal&#39;s data regulator.</p></details><details name=\"py6-acc\" style=\"border-color:var(--neutral, #d6d6d6); --s-primary:var(--primary, #f35422)\"><summary>Transfers outside the EU</summary><p style=\"color:var(--descriptionlight, #454545)\">Some of our tools sit outside the EU. When data leaves the EEA, we rely on adequacy decisions or Standard Contractual Clauses.</p></details><details name=\"py6-acc\" style=\"border-color:var(--neutral, #d6d6d6); --s-primary:var(--primary, #f35422)\"><summary>Children&#39;s data</summary><p style=\"color:var(--descriptionlight, #454545)\">Our services are for businesses. We do not knowingly collect data from children, and we delete any that reaches us.</p></details><details name=\"py6-acc\" style=\"border-color:var(--neutral, #d6d6d6); --s-primary:var(--primary, #f35422)\"><summary>If this policy changes</summary><p style=\"color:var(--descriptionlight, #454545)\">If we change how we handle data, we will update this page and its date. Bigger changes get a notice on the site.</p></details><details name=\"py6-acc\" style=\"border-color:var(--neutral, #d6d6d6); --s-primary:var(--primary, #f35422)\"><summary>Questions?</summary><p style=\"color:var(--descriptionlight, #454545)\">Email hello@ostra.studio with any privacy question or data request.</p></details>"
+}
