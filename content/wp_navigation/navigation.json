@@ -1,0 +1,15 @@
+{
+    "id": 4,
+    "type": "wp_navigation",
+    "slug": "navigation",
+    "status": "publish",
+    "title": "Navigation",
+    "excerpt": "",
+    "menu_order": 0,
+    "parent": 0,
+    "featured_media": 0,
+    "date": "2026-02-17 21:20:39",
+    "terms": [],
+    "meta": [],
+    "content": "<!-- wp:page-list /-->"
+}

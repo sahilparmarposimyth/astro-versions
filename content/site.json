@@ -2,6 +2,10 @@
     "title": "Versions Test",
     "tagline": "Astro Versions demo",
     "show_on_front": "page",
+    "theme_mods": {
+        "custom_css_post_id": -1,
+        "nav_menu_locations": []
+    },
     "page_on_front": "home",
     "page_for_posts": ""
 }
