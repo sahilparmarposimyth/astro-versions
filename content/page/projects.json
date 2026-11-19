@@ -11,10 +11,6 @@
     "date": "2026-11-19 09:20:54",
     "terms": [],
     "meta": {
-        "_block_css": {
-            "version": 1795083327,
-            "blocks": []
-        },
         "_elementor_data": {
             "__json": [
                 {
@@ -241,8 +237,6 @@
         },
         "_elementor_data_last_editor": "1",
         "_elementor_edit_mode": "builder",
-        "_elementor_global_class_usage_indexed": "1",
-        "_elementor_global_class_usage_indexed_preview": "1",
         "_elementor_template_type": "wp-page",
         "_elementor_version": "4.4.1",
         "_uichemy_seo": {
