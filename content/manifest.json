@@ -1,16 +1,9 @@
 {
-    "version": 5,
-    "kind": "publish",
-    "message": "B edits",
+    "version": 6,
+    "kind": "merge",
+    "message": "Merged merge-a into pending-test-2",
+    "merged_from": "merge-a",
     "published_by": "admin",
-    "published_at": "2026-11-19T11:12:12+00:00",
-    "site": "https://inventorganization.s3-tastewp.com",
-    "counts": {
-        "page": 13,
-        "wp_navigation": 1,
-        "elementor_library": 6,
-        "post": 6,
-        "uichemy_template": 8,
-        "wp_global_styles": 1
-    }
+    "published_at": "2026-11-19T11:16:37+00:00",
+    "site": "https://inventorganization.s3-tastewp.com"
 }
