@@ -3,7 +3,7 @@
     "type": "post",
     "slug": "how-we-run-a-two-week-discovery-v9ek7",
     "status": "publish",
-    "title": "How we run a two-week discovery",
+    "title": "B only",
     "excerpt": "Interviews, audits and one honest workshop: the ten days that decide whether a project goes well.",
     "menu_order": 0,
     "parent": 0,
@@ -23,8 +23,8 @@
         "_uichemy_seo": {
             "v": 4,
             "kind": "instance",
-            "built_at": 1795080032,
-            "source_sig": "5b6ec69cf949e95af4ca7487fde6f0f9",
+            "built_at": 1795086730,
+            "source_sig": "6b25e059a623513cdb3c8fdd9224bb7c",
             "derived": {
                 "headings": [
                     {
@@ -96,7 +96,7 @@
                 "share_image": {
                     "value": {
                         "id": 27,
-                        "url": "https://inventorganization.s3-tastewp.com/wp-content/uploads/2026/11/f6ba6a049ee6802b.webp",
+                        "url": "https://versions-test.vercel.app/hatch-media/2026/11/f6ba6a049ee6802b.webp",
                         "w": 1280,
                         "h": 1024,
                         "alt": ""
@@ -123,6 +123,17 @@
                 "source": "blocks"
             },
             "findings": [
+                {
+                    "check_id": 1,
+                    "check": "no_h1",
+                    "severity": "warning",
+                    "message": "This page has no main heading (H1).",
+                    "fix_target": "heading",
+                    "post_id": 39,
+                    "node_path": null,
+                    "section": null,
+                    "ignored": false
+                },
                 {
                     "check_id": 4,
                     "check": "first_heading_not_h1",
