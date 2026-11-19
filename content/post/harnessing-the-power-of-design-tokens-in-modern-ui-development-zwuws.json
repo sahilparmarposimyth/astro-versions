@@ -3,7 +3,7 @@
     "type": "post",
     "slug": "harnessing-the-power-of-design-tokens-in-modern-ui-development-zwuws",
     "status": "publish",
-    "title": "Harnessing the Power of Design Tokens in Modern UI Development",
+    "title": "A title",
     "excerpt": "Explore how design tokens can streamline your UI development process, enhance consistency, and improve collaboration across teams.",
     "menu_order": 0,
     "parent": 0,
@@ -23,8 +23,8 @@
         "_uichemy_seo": {
             "v": 4,
             "kind": "instance",
-            "built_at": 1795080032,
-            "source_sig": "1c07b404f630ba5c88c920d817d3290b",
+            "built_at": 1795086704,
+            "source_sig": "83cea52c1122624eaf6b1c1ab8336d62",
             "derived": {
                 "headings": [
                     {
@@ -96,7 +96,7 @@
                 "share_image": {
                     "value": {
                         "id": 48,
-                        "url": "https://inventorganization.s3-tastewp.com/wp-content/uploads/2026/11/85ec95b2b88c8c6e.webp",
+                        "url": "https://versions-test.vercel.app/hatch-media/2026/11/85ec95b2b88c8c6e.webp",
                         "w": 1536,
                         "h": 1009,
                         "alt": ""
@@ -123,6 +123,17 @@
                 "source": "blocks"
             },
             "findings": [
+                {
+                    "check_id": 1,
+                    "check": "no_h1",
+                    "severity": "warning",
+                    "message": "This page has no main heading (H1).",
+                    "fix_target": "heading",
+                    "post_id": 50,
+                    "node_path": null,
+                    "section": null,
+                    "ignored": false
+                },
                 {
                     "check_id": 4,
                     "check": "first_heading_not_h1",
@@ -162,17 +173,6 @@
                     "severity": "notice",
                     "message": "This page does not link to any other page on your site. A few links help visitors and search engines.",
                     "fix_target": "code",
-                    "post_id": 50,
-                    "node_path": null,
-                    "section": null,
-                    "ignored": false
-                },
-                {
-                    "check_id": 35,
-                    "check": "title_long",
-                    "severity": "notice",
-                    "message": "The title is 88 characters long, so Google will cut it short. Try to keep it under 60.",
-                    "fix_target": "panel",
                     "post_id": 50,
                     "node_path": null,
                     "section": null,
