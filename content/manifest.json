@@ -1,16 +1,9 @@
 {
-    "version": 9,
-    "kind": "publish",
-    "message": "B: excerpt 39, title 50",
+    "version": 10,
+    "kind": "merge",
+    "message": "Merged both-a into both-b",
+    "merged_from": "both-a",
     "published_by": "admin",
-    "published_at": "2026-11-19T11:46:43+00:00",
-    "site": "https://inventorganization.s3-tastewp.com",
-    "counts": {
-        "page": 13,
-        "wp_navigation": 1,
-        "elementor_library": 6,
-        "post": 6,
-        "uichemy_template": 8,
-        "wp_global_styles": 1
-    }
+    "published_at": "2026-11-19T11:47:33+00:00",
+    "site": "https://inventorganization.s3-tastewp.com"
 }
